@@ -44,15 +44,15 @@ invited speakers who accept, a possible schedule will look like:
 
 Total estimated 210 minutes (3.5 hrs)
 
-8:30-8:35 - Opening remarks (5 min)
-8:35-9:00 - Invited talk 1 (25 min)
-9:00-9:25 - Invited talk 2 (25 min)
-9:25-9:50 - Invited talk 3 (25 min)
-9:50-10 Coffee break (10 min)
-10-10:25 - Invited talk 4 (25 min)
-10:25-10:50 - Invited talk 5 (25 min)
-10:50-11:50 - Poster session (60 min)
-11:50-12:00 - Closing remarks (10 min)
+* 8:30-8:35 - Opening remarks (5 min)
+* 8:35-9:00 - Invited talk 1 (25 min)
+* 9:00-9:25 - Invited talk 2 (25 min)
+* 9:25-9:50 - Invited talk 3 (25 min)
+* 9:50-10 Coffee break (10 min)
+* 10-10:25 - Invited talk 4 (25 min)
+* 10:25-10:50 - Invited talk 5 (25 min)
+* 10:50-11:50 - Poster session (60 min)
+* 11:50-12:00 - Closing remarks (10 min)
 
 
 ### Organizers
