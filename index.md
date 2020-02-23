@@ -16,7 +16,7 @@ understanding (e.g. automated literature review, search and recommender systems,
 techniques for data exploration and visualization),
 * **Fairness** (e.g. augmented or assistive paper reading, concept simplification, scientific
 education and literacy),
-* **Science** of science studies (in particular, studies that shed light on phenomena that can
+* **Science of science** studies (in particular, studies that shed light on phenomena that can
 motivate future research in above-mentioned areas), and
 * **Datasets**, **Resources** (e.g. treebanks, knowledge bases), and **Tools** (e.g. software
 libraries, annotation interfaces) for conducting research in such areas.
