@@ -1,1 +1,6 @@
+title: SciNLP
+# logo: /assets/img/logo.png
+description: The 1st SciNLP workshop at AKBC 2020.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
