@@ -26,21 +26,11 @@ Medicine, Computer Science, Physics, Economics, Sociology, etc.) that can come f
 variety of text sources (e.g. scholarly papers, surveys and technical reports, patents, tweets
 by scholars, blogs/tutorials, etc.)
 
-### Call for papers
+### Tentative schedule
 
-We welcome submissions of short abstracts (1 page) related to the above research areas.
-Submissions may include previously published results, late-breaking results, work in progress,
-among other types of scholarly work.
-
-We additionally encourage that abstracts indicate the scientific domain(s) and source(s) of
-scientific text relevant to the submission; for example, scientific domain could be “Genomics”
-while source of text could be “Peer-reviewed papers from PubMed”.
-Accepted abstracts will be presented in the poster session.
-
-We aim to have at least 4 invited speakers and a poster session. Depending on the number of
+We aim to have at least 4-5 invited speakers and a poster session. Depending on the number of
 invited speakers who accept, a possible schedule will look like:
 
-### Tentative schedule
 
 Total estimated 210 minutes (3.5 hrs)
 
