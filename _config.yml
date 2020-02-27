@@ -3,7 +3,9 @@ title: SciNLP
 description: The 1st SciNLP workshop at AKBC 2020.
 show_downloads: false
 github:
-is_user_page: false
-is_project_page: false
+  is_user_page: false
+  is_project_page: false
+  owner_url: scinlp@googlegroups.com
+  owner_name: the SciNLP workshop organizers
 google_analytics:
 theme: jekyll-theme-minimal
