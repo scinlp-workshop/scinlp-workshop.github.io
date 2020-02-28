@@ -26,6 +26,19 @@ Medicine, Computer Science, Physics, Economics, Sociology, etc.) that can come f
 variety of text sources (e.g. scholarly papers, surveys and technical reports, patents, tweets
 by scholars, blogs/tutorials, etc.)
 
+### Call for papers
+
+We welcome submissions of short abstracts (1 page) related to the above research areas. Submissions may include previously published results, late-breaking results, work in progress, among other types of scholarly work.  Accepted abstracts will be presented in the **poster session**.
+
+To submit an abstract, please send an email to <b>scinlp@googlegroups.com</b> with the subject line "SCINLP submission: [TITLE]". Please include:
+        
+* One-page abstract in PDF format as an attachment.  Since the abstracts will not be reviewed, there is no need to anonymize the submissions.
+* Indicate whether any of the authors will be able to present the work in person at the workshop.
+* Indicate whether you'd like us to provide a link to the abstract on the workshop website.
+* Indicate whether you need an invitation letter for visa purposes.
+* Indicate the scientific domain(s) and source(s) of scientific text relevant to the submission; for example, scientific domain could be “Genomics” while source of text could be “Peer-reviewed papers from PubMed”.
+
+
 ### Tentative schedule
 
 We aim to have at least 4-5 invited speakers and a poster session. Depending on the number of
