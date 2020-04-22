@@ -30,15 +30,15 @@ by scholars, blogs/tutorials, etc.)
 
 ### Call for papers
 
-We welcome submissions of **short abstracts (1 page)** related to the above research areas. Submissions may include previously published results, late-breaking results, work in progress, among other types of scholarly work.  Accepted relevant submissions will be accepted for presentation in the **virtual poster session**, where the abstracts will be available alongside **3 min videos** uploaded by the authors.
+We welcome submissions of **short abstracts (1 page)** related to the above research areas. Submissions may include previously published results, late-breaking results, work in progress, among other types of scholarly work.  Accepted relevant submissions will be accepted for presentation in the **virtual poster session**, where the abstracts will be available alongside **2 min videos** uploaded by the authors.
 
 To submit an abstract, please send an email to **scinlp@googlegroups.com** with the subject line "SCINLP submission: [TITLE]". Please include:
         
 * One-page abstract in PDF format as an attachment.  Since the abstracts will not be reviewed, there is no need to anonymize the submissions.
-* Indicate whether any of the authors will be able to present the work in person at the workshop.
-* Indicate whether you'd like us to provide a link to the abstract on the workshop website.
-* Indicate whether you need an invitation letter for visa purposes.
+* Indicate whether one of the authors will record a 2 minute video presentation of the work.
 * Indicate the scientific domain(s) and source(s) of scientific text relevant to the submission; for example, scientific domain could be “Genomics” while source of text could be “Peer-reviewed papers from PubMed”.
+
+All accepted submissions and videos will be made available prior to the workshop and remain accessible afterwards.
 
 
 ### Tentative schedule
