@@ -1,6 +1,8 @@
 ## SciNLP: Natural Language Processing and Data Mining for Scientific Text
 
-The 1st SciNLP workshop will be at AKBC 2020!
+The 1st SciNLP workshop will be at [AKBC 2020](https://www.akbc.ws/2020/)!  
+
+**The exact date of the workshop is still TBD** as we're still waiting more details on an updated schedule since AKBC 2020 has been moved to **virtual**.  For reference, AKBC 2020 was originally scheduled for June 22-24.
 
 The primary goal of this half-day workshop is to bring together researchers from diverse fields
 who are interested in extracting and representing knowledge from scientific text, and/or
@@ -28,7 +30,7 @@ by scholars, blogs/tutorials, etc.)
 
 ### Call for papers
 
-We welcome submissions of **short abstracts (1 page)** related to the above research areas. Submissions may include previously published results, late-breaking results, work in progress, among other types of scholarly work.  Accepted relevant submissions will be accepted for presentation in the **poster session**.
+We welcome submissions of **short abstracts (1 page)** related to the above research areas. Submissions may include previously published results, late-breaking results, work in progress, among other types of scholarly work.  Accepted relevant submissions will be accepted for presentation in the **virtual poster session**, where the abstracts will be available alongside **3 min videos** uploaded by the authors.
 
 To submit an abstract, please send an email to **scinlp@googlegroups.com** with the subject line "SCINLP submission: [TITLE]". Please include:
         
@@ -41,21 +43,37 @@ To submit an abstract, please send an email to **scinlp@googlegroups.com** with 
 
 ### Tentative schedule
 
-We aim to have at least 4-5 invited speakers and a poster session. Depending on the number of
-invited speakers who accept, a possible schedule will look like:
+We're excited to announce our invited speakers:
 
+* Asma Ben-Abacha, National Library of Medicine
+* Doug Downey, Allen Institute for AI
+* David Jurgens, University of Michigan
+* Ryan McDonald, Google
+* Vivi Nastase, University of Stuttgart
+* Hoifung Poon, Microsoft Research
+* Iris Shen, Microsoft Research
+* Robert Stojnic, PapersWithCode
+* Byron Wallace, Northeastern University
 
-Total estimated 210 minutes (3.5 hrs)
+The tentative schedule is:
 
-* 8:30-8:35 - Opening remarks (5 min)
-* 8:35-9:00 - Invited talk 1 (25 min)
-* 9:00-9:25 - Invited talk 2 (25 min)
-* 9:25-9:50 - Invited talk 3 (25 min)
-* 9:50-10 Coffee break (10 min)
-* 10-10:25 - Invited talk 4 (25 min)
-* 10:25-10:50 - Invited talk 5 (25 min)
-* 10:50-11:50 - Poster session (60 min)
-* 11:50-12:00 - Closing remarks (10 min)
+Total estimated 285 minutes (4.75 hrs).  All times are in PST:
+
+* 8:00       - START
+* 8:00-8:25  - Invited talk 1 (25 min)
+* 8:25-8:50  - Invited talk 2 (25 min)
+* 8:50-9:15  - Invited talk 3 (25 min)
+* 9:15-9:40  - Invited talk 4 (25 min)
+* 9:40-10:05  - Poster session (30 min)
+* 10:10-10:35 - Invited talk 5 (25 min)
+* 10:35-11:00 - Invited talk 6 (25 min)
+* 11:00-11:25 - Invited talk 7 (25 min)
+* 11:25-11:50 - Invited talk 8 (25 min)
+* 11:50-12:15 - Invited talk 9 (25 min)
+* 12:15-12:45 - Panel discussion (30 min)
+* 12:45       - END
+
+Each invited talk is roughly 25 min (includes few minutes of QA and transitions).
 
 
 ### Organizers
