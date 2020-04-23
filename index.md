@@ -34,7 +34,7 @@ We welcome submissions of **short abstracts (1 page)** related to the above rese
 
 To submit an abstract, please send an email to **scinlp@googlegroups.com** with the subject line "SCINLP submission: [TITLE]". Please include:
         
-* One-page abstract in PDF format as an attachment.  Please anonymize the submissions -- Abstracts will be lightly reviewed to ensure that the topic is within the scope of the workshop.
+* One-page abstract in PDF format as an attachment.  Abstracts will be lightly reviewed to ensure that the topic is within the scope of the workshop.
 * Indicate which of the authors will be presenting the work.  We require each accepted work to provide a **2 minute video** recording of the presentation.
 * Indicate the scientific domain(s) and source(s) of scientific text relevant to the submission; for example, scientific domain could be “Genomics” while source of text could be “Peer-reviewed papers from PubMed”.
 
@@ -77,8 +77,15 @@ Total estimated 285 minutes (4.75 hrs).  All times are in PST:
 * 12:15-12:45 - Panel discussion (30 min)
 * 12:45       - END
 
-Each invited talk is roughly 25 min (includes few minutes of QA and transitions).
+Each invited talk is roughly 25 min (which includes a few minutes of QA and buffer time for transitions).
 
+### Panel discussion
+
+We additionally have a 30 minute panel discussion with a few of our speakers who collaborate with biomedical domain experts with regards to NLP and text mining over scientific literature.  
+
+The focus of this session will be discussing the role of NLP and text mining over scientific text as it pertains to the current virus epidemic -- What are useful short/long-term endeavors What are we doing that isn't helpful?  How can we best connect and collaborate with domain experts?  What are challenges that prevent us from being helpful?
+
+We will be curating questions from the audience beforehand (as well as live during the discussion).
 
 ### Organizers
 
