@@ -30,15 +30,17 @@ by scholars, blogs/tutorials, etc.)
 
 ### Call for papers
 
-We welcome submissions of **short abstracts (1 page)** related to the above research areas. Submissions may include previously published results, late-breaking results, work in progress, among other types of scholarly work.  Accepted relevant submissions will be accepted for presentation in the **virtual poster session**, where the abstracts will be available alongside **2 minute videos** uploaded by the authors.
+We welcome submissions of **short abstracts (1 page)** related to the above research areas. Submissions may include previously published results, late-breaking results, work in progress, among other types of scholarly work.  Relevant submissions will be accepted for presentation in the **virtual poster session**.
 
 To submit an abstract, please send an email to **scinlp@googlegroups.com** with the subject line "SCINLP submission: [TITLE]". Please include:
         
-* One-page abstract in PDF format as an attachment.  Since the abstracts will not be reviewed, there is no need to anonymize the submissions.
-* Indicate whether one of the authors will record a 2 minute video presentation of the work.
+* One-page abstract in PDF format as an attachment.  Please anonymize the submissions -- Abstracts will be lightly reviewed to ensure that the topic is within the scope of the workshop.
+* Indicate which of the authors will be presenting the work.  We require each accepted work to provide a **2 minute video** recording of the presentation.
 * Indicate the scientific domain(s) and source(s) of scientific text relevant to the submission; for example, scientific domain could be “Genomics” while source of text could be “Peer-reviewed papers from PubMed”.
 
 All accepted submissions and videos will be made available online prior to the workshop and remain accessible afterwards.
+
+If you have a disability and require accommodation in order to fully participate in the workshop, please let us know and we'll be in touch to discuss how we can best address your needs.
 
 ### Invited speakers
 
