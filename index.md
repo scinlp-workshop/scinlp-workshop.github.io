@@ -2,7 +2,7 @@
 
 The 1st SciNLP workshop will be at [AKBC 2020](https://www.akbc.ws/2020/)!  
 
-**The exact date of the workshop is still TBD** as we're still waiting more details on an updated schedule since AKBC 2020 has been moved to **virtual**.  For reference, AKBC 2020 was originally scheduled for June 22-24.
+SciNLP will be held **virtually** on **June 24th** from **8AM - 1PM (PST)**.
 
 The primary goal of this half-day workshop is to bring together researchers from diverse fields
 who are interested in extracting and representing knowledge from scientific text, and/or
