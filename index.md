@@ -44,21 +44,6 @@ All accepted submissions and videos will be made available online prior to the w
 
 If you have a disability and require accommodation in order to fully participate in the workshop, please let us know and we'll be in touch to discuss how we can best address your needs.
 
-### Invited speakers
-
-We're excited to announce our invited speakers:
-
-* Asma Ben-Abacha, National Library of Medicine
-* Doug Downey, Allen Institute for AI
-* David Jurgens, University of Michigan
-* Ryan McDonald, Google
-* [Vivi Nastase](#vivi-nastase), University of Stuttgart
-* Hoifung Poon, Microsoft Research
-* Iris Shen, Microsoft Research
-* Robert Stojnic, PapersWithCode
-* [Byron Wallace](#byron-wallace), Northeastern University
-
-
 ### Tentative schedule
 
 The tentative schedule is:
