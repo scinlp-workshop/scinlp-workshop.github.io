@@ -56,7 +56,7 @@ We're excited to announce our invited speakers:
 * Hoifung Poon, Microsoft Research
 * Iris Shen, Microsoft Research
 * Robert Stojnic, PapersWithCode
-* Byron Wallace, Northeastern University
+* [Byron Wallace](#byron-wallace), Northeastern University
 
 
 ### Tentative schedule
