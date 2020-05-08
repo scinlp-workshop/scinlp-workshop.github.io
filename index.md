@@ -38,6 +38,8 @@ To submit an abstract, please send an email to **scinlp@googlegroups.com** with 
 * Indicate which of the authors will be presenting the work.  We require each accepted work to provide a **2 minute video** recording of the presentation.
 * Indicate the scientific domain(s) and source(s) of scientific text relevant to the submission; for example, scientific domain could be “Genomics” while source of text could be “Peer-reviewed papers from PubMed”.
 
+Please use the same [LaTeX template](https://github.com/akbc-conference/style-files/blob/master/akbc-latex.zip?raw=true) that you'd use for submitting to AKBC.
+
 All accepted submissions and videos will be made available online prior to the workshop and remain accessible afterwards.
 
 If you have a disability and require accommodation in order to fully participate in the workshop, please let us know and we'll be in touch to discuss how we can best address your needs.
