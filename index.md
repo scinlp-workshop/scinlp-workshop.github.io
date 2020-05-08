@@ -52,7 +52,7 @@ We're excited to announce our invited speakers:
 * Doug Downey, Allen Institute for AI
 * David Jurgens, University of Michigan
 * Ryan McDonald, Google
-* Vivi Nastase, University of Stuttgart
+* [Vivi Nastase](#vivi-nastase), University of Stuttgart
 * Hoifung Poon, Microsoft Research
 * Iris Shen, Microsoft Research
 * Robert Stojnic, PapersWithCode
@@ -88,6 +88,24 @@ We additionally have a 30 minute panel discussion with a few of our speakers who
 The focus of this session will be discussing the role of NLP and text mining over scientific text as it pertains to the current virus epidemic -- What are useful short/long-term endeavors What are we doing that isn't helpful?  How can we best connect and collaborate with domain experts?  What are challenges that prevent us from being helpful?
 
 We will be curating questions from the audience beforehand (as well as live during the discussion).
+
+### Invited talks
+
+#### Vivi Nastase
+
+**Title: Looking for the dark matter within knowledge graphs**
+
+Abstract: Knowledge graphs contain much useful information directly available, but also hidden information that could be leveraged in a variety of ways. Some of this dark matter includes negative instances, missing links, missing nodes and obfuscated patterns. Uncovering and using this hidden information can lead to bigger and more complete graphs, and also to a better understanding of the interaction between structured knowledge in knowledge graphs and unstructured knowledge in text collections. In this talk I will show our exploration of this dark matter in some of the most commonly used KGs -- Freebase, NELL and WordNet -- and discuss how the different nature of each of these graphs influenced our search and what we found.
+
+Bio: *Vivi Nastase is a research associate in the Institute for Natural Language Processing at the University of Stuttgart. She obtained a PhD from the University of Ottawa, Canada on the topic of semantic relations. She works mainly on lexical semantics, semantic relations, knowledge acquisition and language evolution, and published about 100 articles on these topics, including a book on "Semantic Relations between Nominals" in the series Synthesis Lectures on Human Language Technologies.*
+
+#### Byron Wallace
+
+**Title: What does the evidence say? Models to help make sense of the biomedical literature**
+
+Abstract: How do we know if a particular medical intervention actually works better than the alternatives for a given condition and outcome? Ideally one would consult all available evidence from relevant trials that have been conducted to answer this question. Unfortunately, such results are primarily disseminated in natural language articles that describe the conduct and results of clinical trials. This imposes substantial burden on physicians and other domain experts trying to make sense of the evidence. In this talk I will discuss work on designing tasks, corpora, and models that aim to realize natural language technologies that can extract key attributes of clinical trials from articles describing them, and infer the reported findings regarding these. The hope is to use such methods to help domain experts (such as physicians) better access and make sense of unstructured biomedical evidence.
+
+Bio: *Byron Wallace is an assistant professor in the Khoury College of Computer Sciences at Northeastern University. He holds a PhD in Computer Science from Tufts University, where he was advised by Carla Brodley. He has previously held faculty positions at the University of Texas at Austin and at Brown University. His research is in machine learning and natural language processing, with an emphasis on their application in health informatics. Wallace's work has been supported by grants from the National Science Foundation (including a CAREER award), the National Institutes for Health, and the Army Research Office. He won the Tufts University 2012 Outstanding Graduate Researcher award, and his thesis work was recognized as The Runner Up for the 2013 ACM Special Interest Group on Knowledge Discovery and Data Mining (SIG KDD) Dissertation Award. He co-authored the winning submission for the Health Care Data Analytics Challenge at the 2015 IEEE International Conference on Healthcare Informatics, and co-authored the 2017 Distinguished Clinical Research Informatics Paper Award winner at the American Medical Informatics Association Joint Summits on Translational Sciences. He also received the 2018 Early Career Award from the Society for Research Synthesis.*
 
 ### Organizers
 
