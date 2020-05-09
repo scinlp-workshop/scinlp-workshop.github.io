@@ -99,6 +99,14 @@ Knowledge graphs contain much useful information directly available, but also hi
 
 *Vivi Nastase is a research associate in the Institute for Natural Language Processing at the University of Stuttgart. She obtained a PhD from the University of Ottawa, Canada on the topic of semantic relations. She works mainly on lexical semantics, semantic relations, knowledge acquisition and language evolution, and published about 100 articles on these topics, including a book on "Semantic Relations between Nominals" in the series Synthesis Lectures on Human Language Technologies.*
 
+### Hoifung Poon
+
+**Machine Reading for Precision Medicine**
+
+The advent of big data promises to revolutionize medicine by making it more personalized and effective, but big data also presents a grand challenge of information overload. For example, tumor sequencing has become routine in cancer treatment, yet interpreting the genomic data requires painstakingly curating knowledge from a vast biomedical literature, which grows by thousands of papers every day. Electronic medical records contain valuable information to speed up clinical trial recruitment and drug development, but curating such real-world evidence from clinical notes can take hours for a single patient. Natural language processing (NLP) can play a key role in interpreting big data for precision medicine. In particular, machine reading can help unlock knowledge from text by substantially improving curation efficiency. However, standard supervised methods require labeled examples, which are expensive and time-consuming to produce at scale. In this talk, I'll present Project Hanover, where we overcome the annotation bottleneck by combining deep learning with probabilistic logic, and by exploiting self-supervision from readily available resources such as ontologies and databases. This enables us to extract knowledge from millions of publications, reason efficiently with the resulting knowledge graph by learning neural embeddings of biomedical entities and relations, and apply the extracted knowledge and learned embeddings to supporting precision oncology.
+
+*Hoifung Poon is the Senior Director of Biomedical NLP at Microsoft Research and an affiliated professor at the University of Washington Medical School. He leads Project Hanover, with the overarching goal of structuring medical data for precision medicine. He has given tutorials on this topic at top conferences such as the Association for Computational Linguistics (ACL) and the Association for the Advancement of Artificial Intelligence (AAAI). His research spans a wide range of problems in machine learning and natural language processing (NLP), and his prior work has been recognized with Best Paper Awards from premier venues such as the North American Chapter of the Association for Computational Linguistics (NAACL), Empirical Methods in Natural Language Processing (EMNLP), and Uncertainty in AI (UAI). He received his PhD in Computer Science and Engineering from University of Washington, specializing in machine learning and NLP.*
+
 ### Byron Wallace
 
 **What does the evidence say? Models to help make sense of the biomedical literature**
@@ -106,6 +114,10 @@ Knowledge graphs contain much useful information directly available, but also hi
 How do we know if a particular medical intervention actually works better than the alternatives for a given condition and outcome? Ideally one would consult all available evidence from relevant trials that have been conducted to answer this question. Unfortunately, such results are primarily disseminated in natural language articles that describe the conduct and results of clinical trials. This imposes substantial burden on physicians and other domain experts trying to make sense of the evidence. In this talk I will discuss work on designing tasks, corpora, and models that aim to realize natural language technologies that can extract key attributes of clinical trials from articles describing them, and infer the reported findings regarding these. The hope is to use such methods to help domain experts (such as physicians) better access and make sense of unstructured biomedical evidence.
 
 *Byron Wallace is an assistant professor in the Khoury College of Computer Sciences at Northeastern University. He holds a PhD in Computer Science from Tufts University, where he was advised by Carla Brodley. He has previously held faculty positions at the University of Texas at Austin and at Brown University. His research is in machine learning and natural language processing, with an emphasis on their application in health informatics.*
+
+
+
+
 
 ## Organizers
 
