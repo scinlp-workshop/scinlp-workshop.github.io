@@ -28,14 +28,14 @@ Medicine, Computer Science, Physics, Economics, Sociology, etc.) that can come f
 variety of text sources (e.g. scholarly papers, surveys and technical reports, patents, tweets
 by scholars, blogs/tutorials, etc.)
 
-### Call for papers
+## Call for papers
 
 We welcome submissions of **short abstracts (1 page)** related to the above research areas. Submissions may include previously published results, late-breaking results, work in progress, among other types of scholarly work.  Relevant submissions will be accepted for presentation in the **virtual poster session**.
 
 To submit an abstract, please send an email to **scinlp@googlegroups.com** with the subject line "SCINLP submission: [TITLE]". Please include:
         
 * One-page abstract in PDF format as an attachment.  Abstracts will be lightly reviewed to ensure that the topic is within the scope of the workshop.
-* Indicate which of the authors will be presenting the work.  We require each accepted work to provide a **2 minute video** recording of the presentation.
+* Indicate which of the authors will be presenting the work.  We require each accepted work to provide a **2 minute video** recording of the presentation.  We will reach out with video uploading instructions *after* acceptance notification.
 * Indicate the scientific domain(s) and source(s) of scientific text relevant to the submission; for example, scientific domain could be “Genomics” while source of text could be “Peer-reviewed papers from PubMed”.
 
 Please use the same [LaTeX template](https://github.com/akbc-conference/style-files/blob/master/akbc-latex.zip?raw=true) that you'd use for submitting to AKBC.
@@ -44,7 +44,7 @@ All accepted submissions and videos will be made available online prior to the w
 
 If you have a disability and require accommodation in order to fully participate in the workshop, please let us know and we'll be in touch to discuss how we can best address your needs.
 
-### Tentative schedule
+## Tentative schedule
 
 The tentative schedule is:
 
@@ -66,11 +66,16 @@ Total estimated 285 minutes (4.75 hrs).  All times are in PST:
 
 Each invited talk is roughly 25 min (which includes a few minutes of QA and buffer time for transitions).
 
-### Panel discussion
+## Panel discussion
 
-We additionally have a 30 minute panel discussion with a few of our speakers who collaborate with biomedical domain experts with regards to NLP and text mining over scientific literature.  
+In light of the activity from the computing community to help with the current virus epidemic, we felt it important to hold a panel discussion on the role of NLP and text mining over scientific text (in particular biomedical literature).  
 
-The focus of this session will be discussing the role of NLP and text mining over scientific text as it pertains to the current virus epidemic -- What are useful short/long-term endeavors What are we doing that isn't helpful?  How can we best connect and collaborate with domain experts?  What are challenges that prevent us from being helpful?
+* What are useful short/long-term endeavors?
+* What are we doing that *isn't* helpful?  
+* How can we best connect and collaborate with domain experts?
+* What are challenges that prevent us from being helpful?
+
+We've invited a few of our speakers who regularly collaborate with biomedical domain experts to share their thoughts and answer questions.
 
 We will be curating questions from the audience beforehand (as well as live during the discussion).
 
@@ -102,7 +107,7 @@ How do we know if a particular medical intervention actually works better than t
 
 *Byron Wallace is an assistant professor in the Khoury College of Computer Sciences at Northeastern University. He holds a PhD in Computer Science from Tufts University, where he was advised by Carla Brodley. He has previously held faculty positions at the University of Texas at Austin and at Brown University. His research is in machine learning and natural language processing, with an emphasis on their application in health informatics.*
 
-### Organizers
+## Organizers
 
 * Iz Beltagy, AI2
 * Arman Cohan, AI2
