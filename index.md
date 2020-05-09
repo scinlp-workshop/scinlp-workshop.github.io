@@ -76,13 +76,23 @@ We will be curating questions from the audience beforehand (as well as live duri
 
 ## Invited talks
 
+### Asma 
+
+**Insights from the Organization of International Challenges on Artificial Intelligence in Medical Question Answering**
+
+Artificial intelligence (AI) is playing an increasingly important role in our access to information. However, a one-fits-all approach is suboptimal, especially in the medical domain where health-related information is more sensitive due to its potential impact on public health, and where domain-specific aspects such as technical language and case or context-based interpretation have to be taken into account. Bridging the gap between several research areas such as AI, NLP, medical informatics, and computer vision is a promising way to achieve reliable and efficient access to medical information. In recent years, I organized several international challenges to promote research efforts in medical question answering. The organization of these competitions raised key questions in data design, evaluation metrics, and problem formulation. It also offered valuable insights on the critical subtasks that need to be solved, and on the most promising solutions in challenging
+problems such as restricted training data and multidisciplinary tasks. In this talk, I will share all these insights and the promising perspectives in the addressed tasks, including textual question answering and visual question answering.
+
+*Dr. Asma Ben Abacha is a staff scientist at the U.S. National Institutes of Health (NIH), National Library of Medicine (NLM), Lister Hill National Center for Biomedical Communications. Prior to joining the NLM in 2015, she was a researcher at the Luxembourg Institute of Science and Technology and lecturer at the University of Lorraine, France. Dr. Ben Abacha received a Ph.D. in computer science from Paris 11 University, France, a research master’s degree from Paris 13 University, and a software engineering degree from the National School of Computer Sciences (ENSI), Tunisia. She is currently working on medical question answering, visual question answering, and NLP-related projects in the medical domain.*
+
+
 ### Vivi Nastase
 
 **Looking for the dark matter within knowledge graphs**
 
-Abstract: Knowledge graphs contain much useful information directly available, but also hidden information that could be leveraged in a variety of ways. Some of this dark matter includes negative instances, missing links, missing nodes and obfuscated patterns. Uncovering and using this hidden information can lead to bigger and more complete graphs, and also to a better understanding of the interaction between structured knowledge in knowledge graphs and unstructured knowledge in text collections. In this talk I will show our exploration of this dark matter in some of the most commonly used KGs -- Freebase, NELL and WordNet -- and discuss how the different nature of each of these graphs influenced our search and what we found.
+Knowledge graphs contain much useful information directly available, but also hidden information that could be leveraged in a variety of ways. Some of this dark matter includes negative instances, missing links, missing nodes and obfuscated patterns. Uncovering and using this hidden information can lead to bigger and more complete graphs, and also to a better understanding of the interaction between structured knowledge in knowledge graphs and unstructured knowledge in text collections. In this talk I will show our exploration of this dark matter in some of the most commonly used KGs -- Freebase, NELL and WordNet -- and discuss how the different nature of each of these graphs influenced our search and what we found.
 
-Bio: *Vivi Nastase is a research associate in the Institute for Natural Language Processing at the University of Stuttgart. She obtained a PhD from the University of Ottawa, Canada on the topic of semantic relations. She works mainly on lexical semantics, semantic relations, knowledge acquisition and language evolution, and published about 100 articles on these topics, including a book on "Semantic Relations between Nominals" in the series Synthesis Lectures on Human Language Technologies.*
+*Vivi Nastase is a research associate in the Institute for Natural Language Processing at the University of Stuttgart. She obtained a PhD from the University of Ottawa, Canada on the topic of semantic relations. She works mainly on lexical semantics, semantic relations, knowledge acquisition and language evolution, and published about 100 articles on these topics, including a book on "Semantic Relations between Nominals" in the series Synthesis Lectures on Human Language Technologies.*
 
 ### Byron Wallace
 
