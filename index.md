@@ -76,7 +76,7 @@ We will be curating questions from the audience beforehand (as well as live duri
 
 ## Invited talks
 
-### Asma 
+### Asma Ben Abacha
 
 **Insights from the Organization of International Challenges on Artificial Intelligence in Medical Question Answering**
 
