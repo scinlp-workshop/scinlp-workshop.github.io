@@ -44,6 +44,11 @@ All accepted submissions and videos will be made available online prior to the w
 
 If you have a disability and require accommodation in order to fully participate in the workshop, please let us know and we'll be in touch to discuss how we can best address your needs.
 
+Can't make it? Check out these other upcoming workshops related to scientific NLP and text mining:
+
+* [SDP](https://ornlcda.github.io/SDProc) at EMNLP 2020
+* [BioNLP](https://aclweb.org/aclwiki/BioNLP_Workshop) at ACL 2020
+
 ## Tentative schedule
 
 The tentative schedule is:
@@ -114,9 +119,6 @@ The advent of big data promises to revolutionize medicine by making it more pers
 How do we know if a particular medical intervention actually works better than the alternatives for a given condition and outcome? Ideally one would consult all available evidence from relevant trials that have been conducted to answer this question. Unfortunately, such results are primarily disseminated in natural language articles that describe the conduct and results of clinical trials. This imposes substantial burden on physicians and other domain experts trying to make sense of the evidence. In this talk I will discuss work on designing tasks, corpora, and models that aim to realize natural language technologies that can extract key attributes of clinical trials from articles describing them, and infer the reported findings regarding these. The hope is to use such methods to help domain experts (such as physicians) better access and make sense of unstructured biomedical evidence.
 
 *Byron Wallace is an assistant professor in the Khoury College of Computer Sciences at Northeastern University. He holds a PhD in Computer Science from Tufts University, where he was advised by Carla Brodley. He has previously held faculty positions at the University of Texas at Austin and at Brown University. His research is in machine learning and natural language processing, with an emphasis on their application in health informatics.*
-
-
-
 
 
 ## Organizers
