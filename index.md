@@ -49,6 +49,9 @@ Can't make it? Check out these other upcoming workshops related to scientific NL
 * [SDP](https://ornlcda.github.io/SDProc) at EMNLP 2020
 * [BioNLP](https://aclweb.org/aclwiki/BioNLP_Workshop) at ACL 2020
 
+SciNLP is similar to last year's [SLKB](https://sites.google.com/view/akbc-sci/home) at AKBC 2019 but with expanded scope.
+
+
 # Tentative schedule
 
 The tentative schedule is:
