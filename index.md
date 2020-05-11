@@ -86,7 +86,7 @@ We will be curating questions from the audience beforehand (as well as live duri
 
 ## Invited talks
 
-### Asma Ben Abacha
+### [Asma Ben Abacha](https://lhncbc.nlm.nih.gov/personnel/asma-ben-abacha)
 
 **Insights from the Organization of International Challenges on Artificial Intelligence in Medical Question Answering**
 
@@ -96,7 +96,7 @@ problems such as restricted training data and multidisciplinary tasks. In this t
 *Dr. Asma Ben Abacha is a staff scientist at the U.S. National Institutes of Health (NIH), National Library of Medicine (NLM), Lister Hill National Center for Biomedical Communications. Prior to joining the NLM in 2015, she was a researcher at the Luxembourg Institute of Science and Technology and lecturer at the University of Lorraine, France. Dr. Ben Abacha received a Ph.D. in computer science from Paris 11 University, France, a research master’s degree from Paris 13 University, and a software engineering degree from the National School of Computer Sciences (ENSI), Tunisia. She is currently working on medical question answering, visual question answering, and NLP-related projects in the medical domain.*
 
 
-### Vivi Nastase
+### [Vivi Nastase](https://scholar.google.ca/citations?user=fNzQUbsAAAAJ&hl=en)
 
 **Looking for the dark matter within knowledge graphs**
 
@@ -104,7 +104,7 @@ Knowledge graphs contain much useful information directly available, but also hi
 
 *Vivi Nastase is a research associate in the Institute for Natural Language Processing at the University of Stuttgart. She obtained a PhD from the University of Ottawa, Canada on the topic of semantic relations. She works mainly on lexical semantics, semantic relations, knowledge acquisition and language evolution, and published about 100 articles on these topics, including a book on "Semantic Relations between Nominals" in the series Synthesis Lectures on Human Language Technologies.*
 
-### Hoifung Poon
+### [Hoifung Poon](https://www.microsoft.com/en-us/research/people/hoifung/)
 
 **Machine Reading for Precision Medicine**
 
@@ -112,7 +112,7 @@ The advent of big data promises to revolutionize medicine by making it more pers
 
 *Hoifung Poon is the Senior Director of Biomedical NLP at Microsoft Research and an affiliated professor at the University of Washington Medical School. He leads Project Hanover, with the overarching goal of structuring medical data for precision medicine. He has given tutorials on this topic at top conferences such as the Association for Computational Linguistics (ACL) and the Association for the Advancement of Artificial Intelligence (AAAI). His research spans a wide range of problems in machine learning and natural language processing (NLP), and his prior work has been recognized with Best Paper Awards from premier venues such as the North American Chapter of the Association for Computational Linguistics (NAACL), Empirical Methods in Natural Language Processing (EMNLP), and Uncertainty in AI (UAI). He received his PhD in Computer Science and Engineering from University of Washington, specializing in machine learning and NLP.*
 
-### Byron Wallace
+### [Byron Wallace](http://www.byronwallace.com/)
 
 **What does the evidence say? Models to help make sense of the biomedical literature**
 
