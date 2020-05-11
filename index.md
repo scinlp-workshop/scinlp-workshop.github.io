@@ -1,4 +1,4 @@
-## SciNLP: Natural Language Processing and Data Mining for Scientific Text
+# SciNLP: Natural Language Processing and Data Mining for Scientific Text
 
 The 1st SciNLP workshop will be at [AKBC 2020](https://www.akbc.ws/2020/)!  
 
@@ -28,7 +28,7 @@ Medicine, Computer Science, Physics, Economics, Sociology, etc.) that can come f
 variety of text sources (e.g. scholarly papers, surveys and technical reports, patents, tweets
 by scholars, blogs/tutorials, etc.)
 
-## Call for papers
+# Call for papers
 
 We welcome submissions of **short abstracts (1 page)** related to the above research areas. Submissions may include previously published results, late-breaking results, work in progress, among other types of scholarly work.  Relevant submissions will be accepted for presentation in the **virtual poster session**.
 
@@ -49,7 +49,7 @@ Can't make it? Check out these other upcoming workshops related to scientific NL
 * [SDP](https://ornlcda.github.io/SDProc) at EMNLP 2020
 * [BioNLP](https://aclweb.org/aclwiki/BioNLP_Workshop) at ACL 2020
 
-## Tentative schedule
+# Tentative schedule
 
 The tentative schedule is:
 
@@ -71,7 +71,7 @@ Total estimated 285 minutes (4.75 hrs).  All times are in PST:
 
 Each invited talk is roughly 25 min (which includes a few minutes of QA and buffer time for transitions).
 
-## Panel discussion
+# Panel discussion
 
 In light of the activity from the computing community to help with the current virus epidemic, we felt it important to hold a panel discussion on the role of NLP and text mining over scientific text (in particular biomedical literature).  
 
@@ -84,9 +84,10 @@ We've invited a few of our speakers who regularly collaborate with biomedical do
 
 We will be curating questions from the audience beforehand (as well as live during the discussion).
 
-## Invited talks
 
-### [Asma Ben Abacha](https://lhncbc.nlm.nih.gov/personnel/asma-ben-abacha)
+# Invited talks
+
+## [Asma Ben Abacha](https://lhncbc.nlm.nih.gov/personnel/asma-ben-abacha)
 
 **Insights from the Organization of International Challenges on Artificial Intelligence in Medical Question Answering**
 
@@ -96,7 +97,7 @@ problems such as restricted training data and multidisciplinary tasks. In this t
 *Dr. Asma Ben Abacha is a staff scientist at the U.S. National Institutes of Health (NIH), National Library of Medicine (NLM), Lister Hill National Center for Biomedical Communications. Prior to joining the NLM in 2015, she was a researcher at the Luxembourg Institute of Science and Technology and lecturer at the University of Lorraine, France. Dr. Ben Abacha received a Ph.D. in computer science from Paris 11 University, France, a research master’s degree from Paris 13 University, and a software engineering degree from the National School of Computer Sciences (ENSI), Tunisia. She is currently working on medical question answering, visual question answering, and NLP-related projects in the medical domain.*
 
 
-### [Vivi Nastase](https://scholar.google.ca/citations?user=fNzQUbsAAAAJ&hl=en)
+## [Vivi Nastase](https://scholar.google.ca/citations?user=fNzQUbsAAAAJ&hl=en)
 
 **Looking for the dark matter within knowledge graphs**
 
@@ -104,7 +105,7 @@ Knowledge graphs contain much useful information directly available, but also hi
 
 *Vivi Nastase is a research associate in the Institute for Natural Language Processing at the University of Stuttgart. She obtained a PhD from the University of Ottawa, Canada on the topic of semantic relations. She works mainly on lexical semantics, semantic relations, knowledge acquisition and language evolution, and published about 100 articles on these topics, including a book on "Semantic Relations between Nominals" in the series Synthesis Lectures on Human Language Technologies.*
 
-### [Hoifung Poon](https://www.microsoft.com/en-us/research/people/hoifung/)
+## [Hoifung Poon](https://www.microsoft.com/en-us/research/people/hoifung/)
 
 **Machine Reading for Precision Medicine**
 
@@ -112,7 +113,7 @@ The advent of big data promises to revolutionize medicine by making it more pers
 
 *Hoifung Poon is the Senior Director of Biomedical NLP at Microsoft Research and an affiliated professor at the University of Washington Medical School. He leads Project Hanover, with the overarching goal of structuring medical data for precision medicine. He has given tutorials on this topic at top conferences such as the Association for Computational Linguistics (ACL) and the Association for the Advancement of Artificial Intelligence (AAAI). His research spans a wide range of problems in machine learning and natural language processing (NLP), and his prior work has been recognized with Best Paper Awards from premier venues such as the North American Chapter of the Association for Computational Linguistics (NAACL), Empirical Methods in Natural Language Processing (EMNLP), and Uncertainty in AI (UAI). He received his PhD in Computer Science and Engineering from University of Washington, specializing in machine learning and NLP.*
 
-### [Byron Wallace](http://www.byronwallace.com/)
+## [Byron Wallace](http://www.byronwallace.com/)
 
 **What does the evidence say? Models to help make sense of the biomedical literature**
 
@@ -121,7 +122,7 @@ How do we know if a particular medical intervention actually works better than t
 *Byron Wallace is an assistant professor in the Khoury College of Computer Sciences at Northeastern University. He holds a PhD in Computer Science from Tufts University, where he was advised by Carla Brodley. He has previously held faculty positions at the University of Texas at Austin and at Brown University. His research is in machine learning and natural language processing, with an emphasis on their application in health informatics.*
 
 
-## Organizers
+# Organizers
 
 * Iz Beltagy, AI2
 * Arman Cohan, AI2
