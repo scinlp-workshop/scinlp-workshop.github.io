@@ -100,7 +100,16 @@ problems such as restricted training data and multidisciplinary tasks. In this t
 *Dr. Asma Ben Abacha is a staff scientist at the U.S. National Institutes of Health (NIH), National Library of Medicine (NLM), Lister Hill National Center for Biomedical Communications. Prior to joining the NLM in 2015, she was a researcher at the Luxembourg Institute of Science and Technology and lecturer at the University of Lorraine, France. Dr. Ben Abacha received a Ph.D. in computer science from Paris 11 University, France, a research master’s degree from Paris 13 University, and a software engineering degree from the National School of Computer Sciences (ENSI), Tunisia. She is currently working on medical question answering, visual question answering, and NLP-related projects in the medical domain.*
 
 
-## [Vivi Nastase](https://scholar.google.ca/citations?user=fNzQUbsAAAAJ&hl=en)
+## [David Jurgens](https://jurgens.people.si.umich.edu/)
+
+**Putting a Face on Science: Analyzing Author Mentions in Science Journalism Reveal Wide-Spread Ethnic Bias**
+
+Media outlets play a key role in spreading scientific knowledge to the general public and raising the profile of researchers among their peers.  Yet, given social biases and attention constraints, not all scholars receive equal media coverage.  In this talk, I will describe a large-scale study across hundreds of thousands of news stories that uncovers systematic ethnic bias in which authors journalists mention by name when covering science.  Using NLP techniques to analyze these stories and controlling for confounds, I will show that this ethnic bias is consistent across multiple types of news media, with even larger disparities for long-form journalism focused on science. 
+
+*David Jurgens is an Assistant Professor at the University of Michigan in the School of Information and by courtesy in the Department of Computer Science.  He received his PhD in Computer Science from UCLA. His research in computational social science combines new methods from natural language processing and data science to discover, explain, and predict human behavior in large social systems.*
+
+
+## [Vivi Nastase](https://www.cl.uni-heidelberg.de/~nastase/)
 
 **Looking for the dark matter within knowledge graphs**
 
