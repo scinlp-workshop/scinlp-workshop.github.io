@@ -35,12 +35,12 @@ We welcome submissions of **short abstracts (1 page)** related to the above rese
 To submit an abstract, please send an email to **scinlp@googlegroups.com** with the subject line "SCINLP submission: [TITLE]". Please include:
         
 * One-page abstract in PDF format as an attachment.  Abstracts will be lightly reviewed to ensure that the topic is within the scope of the workshop.
-* Indicate which of the authors will be presenting the work.  We require each accepted work to provide a **2 minute video** recording of the presentation.  We will reach out with video uploading instructions *after* acceptance notification.
+* Indicate which of the authors will be presenting the work.  We require each accepted work to provide a **~3 minute video** recording of the presentation.  We will reach out with video uploading instructions *after* acceptance notification.  Video length requirements may change depending on the number of submissions.
 * Indicate the scientific domain(s) and source(s) of scientific text relevant to the submission; for example, scientific domain could be “Genomics” while source of text could be “Peer-reviewed papers from PubMed”.
 
-Please use the same [LaTeX template](https://github.com/akbc-conference/style-files/blob/master/akbc-latex.zip?raw=true) that you'd use for submitting to AKBC.
+**Writing guidelines:**  These abstracts will be longer than the typical abstracts for a full research paper.  Figures and tables are allowed, but will count toward the length limit.  References will *not* count toward the length limit.  We allow abstracts that summarize a collection of works under a unified theme (e.g., a series of closely-related papers that build on each other or tackle a common problem).  For formatting examples, see the accepted abstracts from last year's [SLKB](https://sites.google.com/view/akbc-sci/home#h.p_gSgV1fypJAMf) workshop at AKBC 2019. 
 
-All accepted submissions and videos will be made available online prior to the workshop and remain accessible afterwards.
+All accepted abstracts (and their videos) will be made available online prior to the workshop and remain accessible afterwards.
 
 If you have a disability and require accommodation in order to fully participate in the workshop, please let us know and we'll be in touch to discuss how we can best address your needs.
 
@@ -49,7 +49,6 @@ Can't make it? Check out these other upcoming workshops related to scientific NL
 * [SDP](https://ornlcda.github.io/SDProc) at EMNLP 2020
 * [BioNLP](https://aclweb.org/aclwiki/BioNLP_Workshop) at ACL 2020
 
-SciNLP is similar to last year's [SLKB](https://sites.google.com/view/akbc-sci/home) at AKBC 2019 but with expanded scope.
 
 
 # Tentative schedule
