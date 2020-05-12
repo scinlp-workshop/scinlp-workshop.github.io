@@ -99,8 +99,16 @@ problems such as restricted training data and multidisciplinary tasks. In this t
 
 *Dr. Asma Ben Abacha is a staff scientist at the U.S. National Institutes of Health (NIH), National Library of Medicine (NLM), Lister Hill National Center for Biomedical Communications. Prior to joining the NLM in 2015, she was a researcher at the Luxembourg Institute of Science and Technology and lecturer at the University of Lorraine, France. Dr. Ben Abacha received a Ph.D. in computer science from Paris 11 University, France, a research master’s degree from Paris 13 University, and a software engineering degree from the National School of Computer Sciences (ENSI), Tunisia. She is currently working on medical question answering, visual question answering, and NLP-related projects in the medical domain.*
 
+## [Doug Downey](https://users.cs.northwestern.edu/~ddowney)
 
-## [David Jurgens](https://jurgens.people.si.umich.edu/)
+**Mining the Citation Graph for Representation Learning and Concept Extraction**
+
+The exploding pace of scientific publication has led to a pressing need for tools that automatically make sense of the scientific literature.  In this talk, I will describe two recent, simple methods for mining the citation graph to extract meaning from scientific documents.  First, representation learning forms the foundation of today’s natural language processing systems, and large pretrained language models (LMs) like BERT learn powerful representations for short texts like words and sentences.  But, naively applying the models to produce representations for entire scientific documents, which are necessary for many applications, is ineffective.  I will introduce SPECTER, a method for producing scientific document representations using a pretrained LM that is able to achieve state-of-the-art performance by fine-tuning the LM on the citation graph as a signal of document relatedness.  Second, I will describe a new concept extraction technique called ForeCite that uses the intuition that new concepts tend to be introduced or popularized by a single paper.  By mining this signal from the citation graph, ForeCite achieves much higher precision than previous techniques. Lastly, I will sketch how Semantic Scholar is using SPECTER to help construct the CORD-19 corpus, a comprehensive resource of COVID-19 research.
+
+*Doug Downey is a research scientist at the Allen Institute for AI, where he works on the Semantic Scholar team, and also an associate professor of Computer Science at Northwestern University.  His research interests involve information extraction, natural language processing, and machine learning, with a particular focus on automatically extracting knowledge from large corpora to powering new search and browsing experiences.  He has won a best paper award at IJCAI, along with an NSF CAREER award, election to the DARPA Computer Science Study Group, and a Microsoft New Faculty Fellowship.*
+
+
+## [David Jurgens](https://jurgens.people.si.umich.edu)
 
 **Putting a Face on Science: Analyzing Author Mentions in Science Journalism Reveal Wide-Spread Ethnic Bias**
 
@@ -109,7 +117,7 @@ Media outlets play a key role in spreading scientific knowledge to the general p
 *David Jurgens is an Assistant Professor at the University of Michigan in the School of Information and by courtesy in the Department of Computer Science.  He received his PhD in Computer Science from UCLA. His research in computational social science combines new methods from natural language processing and data science to discover, explain, and predict human behavior in large social systems.*
 
 
-## [Vivi Nastase](https://www.cl.uni-heidelberg.de/~nastase/)
+## [Vivi Nastase](https://www.cl.uni-heidelberg.de/~nastase)
 
 **Looking for the dark matter within knowledge graphs**
 
@@ -117,7 +125,7 @@ Knowledge graphs contain much useful information directly available, but also hi
 
 *Vivi Nastase is a research associate in the Institute for Natural Language Processing at the University of Stuttgart. She obtained a PhD from the University of Ottawa, Canada on the topic of semantic relations. She works mainly on lexical semantics, semantic relations, knowledge acquisition and language evolution, and published about 100 articles on these topics, including a book on "Semantic Relations between Nominals" in the series Synthesis Lectures on Human Language Technologies.*
 
-## [Hoifung Poon](https://www.microsoft.com/en-us/research/people/hoifung/)
+## [Hoifung Poon](https://www.microsoft.com/en-us/research/people/hoifung)
 
 **Machine Reading for Precision Medicine**
 
