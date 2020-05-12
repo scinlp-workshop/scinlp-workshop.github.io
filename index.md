@@ -44,7 +44,7 @@ All accepted abstracts (and their videos) will be made available online prior to
 
 If you have a disability and require accommodation in order to fully participate in the workshop, please let us know and we'll be in touch to discuss how we can best address your needs.
 
-Can't make it? Check out these other upcoming workshops related to scientific NLP and text mining:
+**Can't make it?** Check out these other upcoming workshops related to NLP and text mining over scientific text:
 
 * [SDP](https://ornlcda.github.io/SDProc) at EMNLP 2020
 * [BioNLP](https://aclweb.org/aclwiki/BioNLP_Workshop) at ACL 2020
