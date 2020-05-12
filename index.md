@@ -143,9 +143,9 @@ How do we know if a particular medical intervention actually works better than t
 
 # Organizers
 
+* Kyle Lo, AI2
 * Iz Beltagy, AI2
 * Arman Cohan, AI2
 * Keith Hall, Google
-* Kyle Lo, AI2
 * Yi Luan, Google
 * Lucy Lu Wang, AI2
