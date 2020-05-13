@@ -143,9 +143,9 @@ How do we know if a particular medical intervention actually works better than t
 
 # Organizers
 
-* Kyle Lo [@kylelostat](https://twitter.com/kylelostat), AI2
-* Iz Beltagy [@i_beltagy](https://twitter.com/i_beltagy), AI2
-* Arman Cohan [@armancohan](https://twitter.com/armancohan), AI2
-* Keith Hall, Google
-* [Yi Luan](https://luanyi.github.io/), Google
-* [Lucy Lu Wang](https://llwang.net/) [@lucyluwang](https://twitter.com/lucyluwang), AI2
+* Kyle Lo [@kylelostat](https://twitter.com/kylelostat), Allen Institute for AI
+* Iz Beltagy [@i_beltagy](https://twitter.com/i_beltagy), Allen Institute for AI
+* Arman Cohan [@armancohan](https://twitter.com/armancohan), Allen Institute for AI
+* Keith Hall, Google Research
+* [Yi Luan](https://luanyi.github.io/), Google Research
+* [Lucy Lu Wang](https://llwang.net/) [@lucyluwang](https://twitter.com/lucyluwang), Allen Institute for AI
