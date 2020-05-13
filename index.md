@@ -147,5 +147,5 @@ How do we know if a particular medical intervention actually works better than t
 * Iz Beltagy [@i_beltagy](https://twitter.com/i_beltagy), AI2
 * Arman Cohan [@armancohan](https://twitter.com/armancohan), AI2
 * Keith Hall, Google
-* Yi Luan, Google
+* [Yi Luan](https://luanyi.github.io/), Google
 * [Lucy Lu Wang](https://llwang.net/) [@lucyluwang](https://twitter.com/lucyluwang), AI2
