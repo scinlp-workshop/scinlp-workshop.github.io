@@ -73,9 +73,9 @@ Total estimated 285 minutes (4.75 hrs).  All times are in PST:
 
 Each invited talk is roughly 25 min (which includes a few minutes of QA and buffer time for transitions).
 
-# Panel discussion
+# Panel discussion: The role of scientific NLP during an epidemic
 
-In light of the activity from the computing community to help with the current virus epidemic, we felt it important to hold a panel discussion on the role of NLP and text mining over scientific text (in particular biomedical literature).  
+In light of the activity from the computing community to help with the current virus epidemic, we felt it important to hold a panel discussion on the role of NLP and text mining over scientific text (in particular biomedical literature).
 
 * What are useful short/long-term endeavors?
 * What are we doing that *isn't* helpful?  
