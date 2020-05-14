@@ -30,7 +30,7 @@ by scholars, blogs/tutorials, etc.)
 
 # Call for abstracts
 
-We welcome submissions of **short abstracts (1 page)** related to the above research areas. Submissions may include previously published results, late-breaking results, and work in progress.  Relevant submissions will be accepted for presentation in the **virtual poster session**.
+We welcome submissions of **short abstracts (1 page)** related to the above research areas. Submissions may include previously published results, late-breaking results, and work in progress.  Relevant submissions will be accepted for presentation in the **virtual poster session**.  The workshop is **non-archival**, so participants are encouraged to submit their work for publication elsewhere.
 
 To submit an abstract, please send an email to **scinlp@googlegroups.com** with the subject line "SCINLP submission: [TITLE]". Please include:
         
