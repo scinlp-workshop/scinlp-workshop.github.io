@@ -149,3 +149,5 @@ How do we know if a particular medical intervention actually works better than t
 * [Keith Hall](https://research.google/people/author38002), Google Research
 * [Yi Luan](https://luanyi.github.io/), Google Research
 * [Lucy Lu Wang](https://llwang.net/) [@lucyluwang](https://twitter.com/lucyluwang), Allen Institute for AI
+
+Contact us at **scinlp@googlegroups.com**
