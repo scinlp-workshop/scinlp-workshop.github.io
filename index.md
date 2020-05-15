@@ -141,6 +141,10 @@ How do we know if a particular medical intervention actually works better than t
 *Byron Wallace is an assistant professor in the Khoury College of Computer Sciences at Northeastern University. He holds a PhD in Computer Science from Tufts University, where he was advised by Carla Brodley. He has previously held faculty positions at the University of Texas at Austin and at Brown University. His research is in machine learning and natural language processing, with an emphasis on their application in health informatics.*
 
 
+# Registration
+Registration for SciNLP will be through [AKBC 2020](https://www.akbc.ws/2020/), which should be opening soon.  There will be a minimal fee for registration, but due to the virtual nature of the conference, the financial burden should be low.  We will update this page with specific details once they're available.
+
+
 # Organizers
 
 * Kyle Lo [@kylelostat](https://twitter.com/kylelostat), Allen Institute for AI
@@ -150,4 +154,4 @@ How do we know if a particular medical intervention actually works better than t
 * [Yi Luan](https://luanyi.github.io/), Google Research
 * [Lucy Lu Wang](https://llwang.net/) [@lucyluwang](https://twitter.com/lucyluwang), Allen Institute for AI
 
-Contact us at **scinlp@googlegroups.com**
+Contact us at **scinlp@googlegroups.com** or on Twitter via **#SciNLP**!
