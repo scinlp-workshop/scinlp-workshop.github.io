@@ -144,6 +144,7 @@ How do we know if a particular medical intervention actually works better than t
 # Registration
 Registration for SciNLP will be through [AKBC 2020](https://www.akbc.ws/2020/), which should be opening soon.  There will be a minimal fee for registration, but due to the virtual nature of the conference, the financial burden should be low.  We will update this page with specific details once they're available.
 
+Join the [mailing list](https://groups.google.com/forum/#!forum/scinlp-info) to receive announcements.
 
 # Organizers
 
