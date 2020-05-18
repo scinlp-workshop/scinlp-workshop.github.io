@@ -134,6 +134,14 @@ The advent of big data promises to revolutionize medicine by making it more pers
 
 *Hoifung Poon is the Senior Director of Biomedical NLP at Microsoft Research and an affiliated professor at the University of Washington Medical School. He leads Project Hanover, with the overarching goal of structuring medical data for precision medicine. He has given tutorials on this topic at top conferences such as the Association for Computational Linguistics (ACL) and the Association for the Advancement of Artificial Intelligence (AAAI). His research spans a wide range of problems in machine learning and natural language processing (NLP), and his prior work has been recognized with Best Paper Awards from premier venues such as the North American Chapter of the Association for Computational Linguistics (NAACL), Empirical Methods in Natural Language Processing (EMNLP), and Uncertainty in AI (UAI). He received his PhD in Computer Science and Engineering from University of Washington, specializing in machine learning and NLP.*
 
+## [Robert Stojnic](https://twitter.com/rbstojnic)
+
+**An Introduction to Papers with Code**
+
+This talk is an introduction to Papers with Code - a free resource for researchers and practitioners to find and follow the latest state-of-the-art ML papers and code. I will go deeper into the open dataset underlying Papers with Code - the collection of ML papers, code, tasks and results, with links between them. I will talk about challenges of augmenting and keeping it up-to-date this resource by using NLP techniques.
+
+*Robert is the co-creator of Papers with Code and a software engineer at Facebook AI. Robert started his career as one of the early developers of Wikipedia where he built the internal search engine. He went on to do a PhD in Applied ML in Computational Biology at University of Cambridge. He co-founded a couple of start-ups, and co-created Papers with Code with Ross Taylor. Currently he is at Facebook AI in London where he is working on Papers with Code, and is passionate about open science and open access.*
+
 ## [Byron Wallace](http://www.byronwallace.com/)
 
 **What does the evidence say? Models to help make sense of the biomedical literature**
