@@ -2,6 +2,8 @@
 
 The 1st SciNLP workshop will be at [AKBC 2020](https://www.akbc.ws/2020/)!  
 
+Join the [mailing list](https://groups.google.com/forum/#!forum/scinlp-info) to receive announcements.
+
 SciNLP will be held **virtually** on **June 25th** from **8AM - 1PM (UTC-7)**. <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MGxvMHZ0ZnF2cHVudmhyNm91NDJhNGZuOWYga3lsZWxAYWxsZW5haS5vcmc&amp;tmsrc=kylel%40allenai.org"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 
 *Registration is not open yet and will be through AKBC.  More info [here](#registration).*
