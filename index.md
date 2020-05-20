@@ -136,6 +136,15 @@ The advent of big data promises to revolutionize medicine by making it more pers
 
 *Hoifung Poon is the Senior Director of Biomedical NLP at Microsoft Research and an affiliated professor at the University of Washington Medical School. He leads Project Hanover, with the overarching goal of structuring medical data for precision medicine. He has given tutorials on this topic at top conferences such as the Association for Computational Linguistics (ACL) and the Association for the Advancement of Artificial Intelligence (AAAI). His research spans a wide range of problems in machine learning and natural language processing (NLP), and his prior work has been recognized with Best Paper Awards from premier venues such as the North American Chapter of the Association for Computational Linguistics (NAACL), Empirical Methods in Natural Language Processing (EMNLP), and Uncertainty in AI (UAI). He received his PhD in Computer Science and Engineering from University of Washington, specializing in machine learning and NLP.*
 
+## [Iris Shen](https://www.microsoft.com/en-us/research/people/zhihosh)
+
+**Enriching a Web-scale Scientific Taxonomy by Combining Textual and Structural Information**
+
+Scientific knowledge is evolving at an unprecedented rate of speed, with new concepts and relationships constantly being discovered from the millions of academic articles being published every month. The Microsoft Academic Graph (MAG) provides a comprehensive, cross-domain scientific taxonomy covering more than 550k concepts. This fast-growing volume of scientific literature accentuates a pressing need for automated capture of emerging knowledge with an updated web-scale taxonomy. In this talk, we introduce two major efforts currently underway to enable MAG to achieve this automated capture with minimal supervision. First, we leverage a BERT-based pre-trained language model (LM) and a web search API to identify candidate concept phrases from textual information in the latest publications. Second, we apply a self-supervised position-enhanced graph neural network (GNN) that encodes local structural information to expand our taxonomy with newly discovered concepts. These two approaches achieve highly accurate concept identification results, and indicate significant improvement of our taxonomy expansion compared with previous approaches. We also discuss the challenges and lessons learned while integrating these state-of-the-art LM and GNN models into the MAG system.
+
+*Iris Shen is a principal data scientist at Microsoft Research and holds a Ph.D. in Operations Research from University of Southern California. She is the data science manager for Microsoft Academic project which uses the state-of-the-art AI research to assist humans in scientific exploration. Her current research interests are leveraging techniques in data mining, natural language processing, and recommender systems to explore and understand large-scale document corpus with associated networked systems.*
+
+
 ## [Robert Stojnic](https://twitter.com/rbstojnic)
 
 **An Introduction to Papers with Code**
