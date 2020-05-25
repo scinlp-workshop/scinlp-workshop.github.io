@@ -119,6 +119,14 @@ Media outlets play a key role in spreading scientific knowledge to the general p
 
 *David Jurgens is an Assistant Professor at the University of Michigan in the School of Information and by courtesy in the Department of Computer Science.  He received his PhD in Computer Science from UCLA. His research in computational social science combines new methods from natural language processing and data science to discover, explain, and predict human behavior in large social systems.*
 
+## [Ryan McDonald](https://ryanmcd.github.io)
+
+**End-to-end Neural Models for Evidence Retrieval from Biomedical Literature**
+
+In this talk I will highlight some ongoing efforts at Google on improving discovery from biomedical literature. Most of the talk will focus on document and evidence retrieval, which is the most common entry point for literature tools. I will discuss three specific technical contributions: 1) synthetic question generation to train biomedical-targeted first-tage retrieval models; 2) retrieval models that encode sparse and dense representations in intuitive and flexible ways, which is critical for the domain; and 3) a joint model for document and evidence retrieval that significantly improves the systems ability to select relevant pieces of evidence from returned documents. All topics in the presentations are key technologies in [https://covid19-research-explorer.appspot.com/](https://covid19-research-explorer.appspot.com/); [http://cslab241.cs.aueb.gr:5000/](http://cslab241.cs.aueb.gr:5000/) and Google's or AUEB's submissions to the annual BioASQ challenge. Joint work with many colleagues at Google Research and Athens University of Economics and Business.
+
+*Ryan McDonald has been a research scientist at Google since 2006 and an associate research at the Athens University of Economics and Business since 2017. In that time he has been involved in various research efforts that have made user impact on a number of Google products, including Search, Assistant, Translate and Cloud. Prior to Google he completed a PhD at the University of Pennsylvania, which focused on new models for multilingual dependency parsing. This work continued at Google and culminated in the creation of the UniversalDependencies project, co-founded by his team at Google and numerous external collaborators. He currently works on discovery from biomedical literature and other productivity-driven NLP challenges.*
+
 
 ## [Vivi Nastase](https://www.cl.uni-heidelberg.de/~nastase)
 
