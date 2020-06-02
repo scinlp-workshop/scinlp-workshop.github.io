@@ -6,7 +6,8 @@ Join the [mailing list](https://groups.google.com/forum/#!forum/scinlp-info) to 
 
 SciNLP will be held **virtually** on **June 25th** from **8AM - 1PM (UTC-7)**. <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=MGxvMHZ0ZnF2cHVudmhyNm91NDJhNGZuOWYga3lsZWxAYWxsZW5haS5vcmc&amp;tmsrc=kylel%40allenai.org"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 
-*Registration is not open yet and will be through AKBC.  More info [here](#registration).*
+*We are taking abstract submissions through June 7th!  Instructions [here](#call-for-abstracts)*
+*Registration (through the AKBC conference) is not open yet.  More info [here](#registration).*
 
 The primary goal of this half-day workshop is to bring together researchers from diverse fields
 who are interested in extracting and representing knowledge from scientific text, and/or
