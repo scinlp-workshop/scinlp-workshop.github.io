@@ -8,7 +8,7 @@ SciNLP will be held **virtually** on **June 25th** from **8AM - 1PM (UTC-7)**. <
 
 *We are taking abstract submissions through June 7th!  Instructions [here](#call-for-abstracts)*
 
-*Registration (through the AKBC conference) is not open yet.  More info [here](#registration).*
+*Registration (through the AKBC conference) is now open!  More info [here](#registration).*
 
 The primary goal of this half-day workshop is to bring together researchers from diverse fields
 who are interested in extracting and representing knowledge from scientific text, and/or
@@ -173,9 +173,7 @@ How do we know if a particular medical intervention actually works better than t
 
 
 # Registration
-Registration for SciNLP will be through [AKBC 2020](https://www.akbc.ws/2020/), which should be opening soon.  There will be a minimal fee for registration, but due to the virtual nature of the conference, the financial burden should be low.  We will update this page with specific details once they're available.
-
-Join the [mailing list](https://groups.google.com/forum/#!forum/scinlp-info) to receive announcements.
+Registration for SciNLP will be through the [AKBC 2020](https://www.akbc.ws/2020/) conference.  There is a fee of $30 for students and $50 for non-students.  Registering gives you access to the full conference & workshops.  There is no special registration for workshop only.
 
 # Organizers
 
@@ -187,3 +185,5 @@ Join the [mailing list](https://groups.google.com/forum/#!forum/scinlp-info) to 
 * [Lucy Lu Wang](https://llwang.net/) [@lucyluwang](https://twitter.com/lucyluwang), Allen Institute for AI
 
 Contact us at **scinlp@googlegroups.com** or on Twitter via **#SciNLP**!
+
+Join the **[mailing list](https://groups.google.com/forum/#!forum/scinlp-info)** to receive announcements.
