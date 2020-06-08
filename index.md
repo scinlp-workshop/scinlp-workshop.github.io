@@ -55,6 +55,17 @@ Total estimated 285 minutes (4.75 hrs).  All times are in PDT (UTC-7):
 * 12:15-12:45 - [Panel discussion and Q&A](#panel-discussion-the-role-of-scientific-nlp-during-an-epidemic) (30 min)
 * 12:45       - END
 
+
+# Accepted abstracts
+
+Due to the large number of submissions this year, we've decided to split the submissions into two tracks.  **Track 1** will focus on general scientific text mining & NLP, while **Track 2** will be COVID-19 specific submissions.
+
+### Track 1
+
+* [Estimation of Research Communities in the Multilingual Academic Data](https://github.com/scinlp-workshop/scinlp-workshop.github.io/blob/kylel/2020-06-07/pdfs/pdfs/estimation-of-research-communities-in-the-multilingual-academic-data.pdf) by Ilya Rahkovsky and Jennifer Melot
+
+### Track 2
+
 Each invited talk is roughly 25 min (which includes a few minutes of Q&A and buffer time for transitions).
 
 # Poster session
@@ -180,6 +191,29 @@ If you have a disability and require accommodation in order to fully participate
 
 # Registration
 Registration for SciNLP will be through the [AKBC 2020](https://www.akbc.ws/2020/) conference.  There is a fee of $30 for students and $50 for non-students.  Registering gives you access to the full conference & workshops.  There is no special registration for workshop only.
+
+
+# Call for abstracts
+
+We welcome submissions of **short abstracts (1 page max)** related to the above research areas. Submissions may include previously published results, late-breaking results, and work in progress.  Relevant submissions will be accepted for **video presentation** in the virtual poster session.  **The workshop is non-archival**, so participants are free to also submit their work for publication elsewhere.
+
+To submit an abstract, please send an email to **scinlp@googlegroups.com** with the subject line "SCINLP submission: [TITLE]". Please include:
+        
+* Abstract in PDF format (1-page max) as an attachment.  Abstracts will be lightly reviewed to ensure that the topic is within the scope of the workshop.
+* Indicate which of the authors will be presenting the work.  We require each accepted work to provide a **~3 minute video** recording of the presentation.  We will reach out with video uploading instructions *after* acceptance notification.  Video length requirements may change depending on the number of submissions.
+* Indicate the scientific domain(s) and source(s) of scientific text relevant to the submission; for example, scientific domain could be “Genomics” while source of text could be “Peer-reviewed papers from PubMed”.
+
+**Writing guidelines:**  These abstracts can be longer than the typical abstracts for a full research paper.  Figures and tables are allowed, but will count toward the length limit.  References will *not* count toward the length limit.  Abstracts do not have to be about a single paper; we allow abstracts that summarize a collection of works under a unified theme (e.g., a series of closely-related papers that build on each other or tackle a common problem).  **For writing examples, see the accepted abstracts from last year's [SLKB](https://sites.google.com/view/akbc-sci/home#h.p_gSgV1fypJAMf) workshop at AKBC 2019.** 
+
+All accepted abstracts (and their videos) will be made available online prior to the workshop and remain accessible afterwards.
+
+If you have a disability and require accommodation in order to fully participate in the workshop, please let us know and we'll be in touch to discuss how we can best address your needs.
+
+**Can't make it?** Check out these other upcoming workshops related to NLP and text mining over scientific text:
+
+* [SDP](https://ornlcda.github.io/SDProc) at EMNLP 2020
+* [BioNLP](https://aclweb.org/aclwiki/BioNLP_Workshop) at ACL 2020
+
 
 # Organizers
 
