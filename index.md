@@ -37,14 +37,14 @@ by scholars, blogs/tutorials, etc.)
 
 The tentative schedule is:
 
-Total estimated 285 minutes (4.75 hrs).  All times are in PST:
+Total estimated 285 minutes (4.75 hrs).  All times are in PDT (UTC-7):
 
 * 8:00       - START
 * 8:00-8:25  - Invited talk 1 (25 min)
 * 8:25-8:50  - Invited talk 2 (25 min)
 * 8:50-9:15  - Invited talk 3 (25 min)
 * 9:15-9:40  - Invited talk 4 (25 min)
-* 9:40-10:05  - Poster session (30 min)
+* 9:40-10:10  - Poster session (30 min)
 * 10:10-10:35 - Invited talk 5 (25 min)
 * 10:35-11:00 - Invited talk 6 (25 min)
 * 11:00-11:25 - Invited talk 7 (25 min)
@@ -54,6 +54,11 @@ Total estimated 285 minutes (4.75 hrs).  All times are in PST:
 * 12:45       - END
 
 Each invited talk is roughly 25 min (which includes a few minutes of QA and buffer time for transitions).
+
+# Poster session
+
+Given the large number of submissions, we're splitting the poster session into three concurrent tracks (i.e. separate teleconferencing rooms).  Each track will feature no more than 10 video poster presentations to allow time for questions and discussion.  Tracks to be announced soon.
+
 
 # Panel discussion: The role of scientific NLP during an epidemic
 
