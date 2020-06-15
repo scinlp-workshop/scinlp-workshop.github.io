@@ -2,7 +2,7 @@
 
 The 1st SciNLP workshop will be at [AKBC 2020](https://www.akbc.ws/2020/)!  
 
-**Registration** to participate in the SciNLP workshop is now open!  More info [here](#registration).
+**Registration** to participate in the SciNLP workshop is now open: [here](#registration).
 
 Join the **mailing list** to receive announcements: [here](https://groups.google.com/forum/#!forum/scinlp-info)
 
