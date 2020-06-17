@@ -1,10 +1,14 @@
 # SciNLP: Natural Language Processing and Data Mining for Scientific Text
 
-The 1st SciNLP workshop will be at [AKBC 2020](https://www.akbc.ws/2020/)!  
+The 1st SciNLP workshop will be at [AKBC 2020](https://www.akbc.ws/2020/)!
 
-**Registration** to attend the SciNLP workshop is open: More info [here](#registration).
+### Announcements
 
-Join the **mailing list** to receive announcements: [here](https://groups.google.com/forum/#!forum/scinlp-info)
+* **Attend the workshop** [here](https://akbc.apps.allenai.org/workshop_scinlp.html) using your AKBC 2020 registration login.
+* **Registration** to attend the SciNLP workshop is open: More info [here](#registration).
+* Join the **mailing list** to receive announcements: [here](https://groups.google.com/forum/#!forum/scinlp-info)
+
+### About
 
 SciNLP will be held **virtually** on **June 25th** from **8AM - 1PM (UTC-7)**.
 
@@ -33,27 +37,25 @@ variety of text sources (e.g. scholarly papers, surveys and technical reports, p
 by scholars, blogs/tutorials, etc.)
 
 
-# Tentative schedule
-
-The tentative schedule is:
+# Schedule
 
 Total estimated 285 minutes (4.75 hrs).  All times are in PDT (UTC-7):
 
 * 8:00       - START
-* 8:00-8:25  - [Ryan McDonald (Google Research)](#ryan-mcdonald) (25 min)
-* 8:25-8:50  - [Vivi Nastase (University of Stuttgart)](#vivi-nastase) (25 min)
-* 8:50-9:15  - [David Jurgens (University of Michigan)](#david-jurgens) (25 min)
-* 9:15-9:40  - [Robert Stojnic (PapersWithCode)](#robert-stojnic) (25 min)
+* 8:00-8:25  - [Ryan McDonald](#ryan-mcdonald) (25 min)
+* 8:25-8:50  - [Vivi Nastase](#vivi-nastase) (25 min)
+* 8:50-9:15  - [David Jurgens](#david-jurgens) (25 min)
+* 9:15-9:40  - [Robert Stojnic](#robert-stojnic) (25 min)
 * 9:40-10:10  - [Poster session](#poster-session) (30 min)
-* 10:10-10:35 - [Iris Shen (Microsoft Research)](#iris-shen) (25 min)
-* 10:35-11:00 - [Doug Downey (Allen Institute for AI)](#doug-downey) (25 min)
-* 11:00-11:25 - [Hoifung Poon (Microsoft Research)](#hoifung-poon) (25 min)
-* 11:25-11:50 - [Asma Ben Abacha (National Library of Medicine)](#asma-ben-abacha) (25 min)
-* 11:50-12:15 - [Byron Wallace (Northeastern University)](#byron-wallace) (25 min)
+* 10:10-10:35 - [Iris Shen](#iris-shen) (25 min)
+* 10:35-11:00 - [Doug Downey](#doug-downey) (25 min)
+* 11:00-11:25 - [Hoifung Poon](#hoifung-poon) (25 min)
+* 11:25-11:50 - [Asma Ben Abacha](#asma-ben-abacha) (25 min)
+* 11:50-12:15 - [Byron Wallace](#byron-wallace) (25 min)
 * 12:15-12:45 - [Panel discussion and Q&A](#panel-discussion-the-role-of-scientific-nlp-during-an-epidemic) (30 min)
 * 12:45       - END
 
-Each invited talk is roughly 25 min (which includes a few minutes of QA and buffer time for transitions).
+Each invited talk is roughly 25 min (which includes a few minutes of Q&A and buffer time for transitions).
 
 # Poster session
 
@@ -153,6 +155,8 @@ How do we know if a particular medical intervention actually works better than t
 *Byron Wallace is an assistant professor in the Khoury College of Computer Sciences at Northeastern University. He holds a PhD in Computer Science from Tufts University, where he was advised by Carla Brodley. He has previously held faculty positions at the University of Texas at Austin and at Brown University. His research is in machine learning and natural language processing, with an emphasis on their application in health informatics.*
 
 # Call for abstracts
+
+*CLOSED*
 
 We welcome submissions of **short abstracts (1 page max)** related to the above research areas. Submissions may include previously published results, late-breaking results, and work in progress.  Relevant submissions will be accepted for **video presentation** in the virtual poster session.  **The workshop is non-archival**, so participants are free to also submit their work for publication elsewhere.
 
