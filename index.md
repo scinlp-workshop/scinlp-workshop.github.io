@@ -47,7 +47,7 @@ Total estimated 285 minutes (4.75 hrs).  All times are in PDT (UTC-7):
 * 8:25-8:50  - [Vivi Nastase](#vivi-nastase) (25 min)
 * 8:50-9:15  - [David Jurgens](#david-jurgens) (25 min)
 * 9:15-9:40  - [Robert Stojnic](#robert-stojnic) (25 min)
-* 9:40-10:10  - [Poster session](#poster-session) (30 min)
+* 9:40-10:10  - [Poster sessions](#poster-sessions) (30 min)
 * 10:10-10:35 - [Iris Shen](#iris-shen) (25 min)
 * 10:35-11:00 - [Doug Downey](#doug-downey) (25 min)
 * 11:00-11:25 - [Hoifung Poon](#hoifung-poon) (25 min)
