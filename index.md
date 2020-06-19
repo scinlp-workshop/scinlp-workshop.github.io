@@ -55,22 +55,44 @@ Total estimated 285 minutes (4.75 hrs).  All times are in PDT (UTC-7):
 * 12:15-12:45 - [Panel discussion and Q&A](#panel-discussion-the-role-of-scientific-nlp-during-an-epidemic) (30 min)
 * 12:45       - END
 
-
-# Accepted abstracts
-
-Due to the large number of submissions this year, we've decided to split the submissions into two tracks.  **Track 1** will focus on general scientific text mining & NLP, while **Track 2** will be COVID-19 specific submissions.
-
-### Track 1
-
-* [Estimation of Research Communities in the Multilingual Academic Data](https://github.com/scinlp-workshop/scinlp-workshop.github.io/blob/kylel/2020-06-07/pdfs/pdfs/estimation-of-research-communities-in-the-multilingual-academic-data.pdf) by Ilya Rahkovsky and Jennifer Melot
-
-### Track 2
-
 Each invited talk is roughly 25 min (which includes a few minutes of Q&A and buffer time for transitions).
 
-# Poster session
+# Poster sessions
 
-Given the large number of submissions, we're splitting the poster session into three concurrent tracks (i.e. separate teleconferencing rooms).  Each track will feature no more than 10 video poster presentations to allow time for questions and discussion.  Tracks to be announced soon.
+
+Due to the large number of submissions this year, we've decided to split the presentations into three poster sessions to allow time for discussion and questions.  The poster session numbers correspond to Zoom rooms on the SciNLP workshop page after logging into the virtual conference. 
+
+
+| Title                                                                                                                             | Authors                                                                                                                                           | Contact                                   | Poster Session |
+|-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|----------------|
+| Automatic Extraction of Risk Factors from COVID-19 Literature                                                                     | Francis Wolinski                                                                                                                                  | francis.wolinski@yotta-conseil.fr         | 1              |
+| Extracting a knowledge base of biomedical mechanisms from COVID-19 scientific literature                                          | Aida Amini, Tom Hope, David Wadden, Roy Schwartz, Hannaneh Hajishirzi                                                                             | amini91@cs.washington.edu                 | 1              |
+| DARE: Data Augmented Relation Extraction with GPT-2                                                                               | Yannis Papanikolaou, Andrea Pierleoni                                                                                                             | yannis.papanikolaou@healx.io              | 1              |
+| Extraction of causal structure from procedural text for discourse representations                                                 | Michael Regan, James Pustejovsky, William Croft                                                                                                   | michael.regan141@gmail.com                | 1              |
+| Semi-Automated Information Extraction to Improve Scientific Knowledge Discovery in Environmental Health Science Literature        | Vickie R. Walker, Andrew A. Rooney, Nicole C. Kleinstreuer, Mary S. Wolfe, Charles P. Schmitt                                                     | vickie.walker@nih.gov                     | 1              |
+| Semi-Open Relation Extraction from Scientific Texts                                                                               | Ruben Kruiper, Julian F.V. Vincent, Jessica Chen-Burger, Marc P.Y. Desmulliez, Ioannis Konstas                                                    | rk22@hw.ac.uk                             | 1              |
+| Softcite: Automatic Extraction of Software Mentions in Research Literature                                                        | Caifan Du, James Howison, Patrice Lopez                                                                                                           | cfdu@utexas.edu                           | 1              |
+| Biomedical Synonym Normalization for Knowledge Graph Insight Generation                                                           | Eric Tanalski, Richard Wendell                                                                                                                    | eric@tellic.com                           | 1              |
+| Normalization of Predominant and Long-tail Bacterial Entities with a Hybrid CNN-LSTM and Knowledge-Driven Model                   | William Hogan, Raghav Mehta, Yoshiki Vazquez-Baeza, Yannis Katsis, Ho-Cheol Kim, Chun-Nan Hsu                                                     | whogan@eng.ucsd.edu                       | 1              |
+| Using Text Data Mining to Analyze the NIH’s Response to the Coronavirus Pandemic                                                  | Megan Donegan,* Nancy Praskievicz,* Jacob Scholl, Kirk Baker, Judy Riggie, Sheryl Brining                                                         | megan.donegan@nih.gov                     | 2              |
+| Estimation of Research Communities in the Multilingual Academic Data                                                              | Ilya Rahkovsky, Jennifer Melot                                                                                                                    | ir177@georgetown.edu                      | 2              |
+| Identifying the Development and Application of Artificial Intelligence in Scientific Text                                         | James Dunham, Jennifer Melot, Dewey Murdick                                                                                                       | james.dunham@georgetown.edu               | 2              |
+| CoronaWhy: Building a Distributed, Credible and Scalable Research and Data Infrastructure for Open Science                        | Vyacheslav Tykhonov, Anton Polishko, Artur Kiulian, Maksym Komar                                                                                  | akiulian@gmail.com                        | 2              |
+| Researcher-in-the-loop for systematic reviewing of text databases                                                                 | Rens van de Schoot, Jonathan de Bruin                                                                                                             | a.g.j.vandeschoot@uu.nl, j.debruin1@uu.nl | 2              |
+| Building an AI-powered Literature Review for COVID-19                                                                             | Jan Bremer, Maikel Boot, Lucas Buyon, Paul Mooney, Tayab Waseem                                                                                   | waseemT@evms.edu                          | 2              |
+| Construction and Applications of TeKnowbase                                                                                       | Prajna Upadhyay, Maya Ramanath                                                                                                                    | prajna.upadhyay@cse.iitd.ac.in            | 2              |
+| AAN: Developing Educational Tools for Work Force Training                                                                         | Alexander R. Fabbri, Irene Li, Swapnil Hingmire, Dragomir Radev                                                                                   | alexander.fabbri@yale.edu                 | 2              |
+| Incorporating Knowledge Bases into SciBERT and BioBERT pre-trained language models                                                | Abdullah Kiwan, Sven Giesselbach, Stefan Rüping                                                                                                   | abdullah.kiwan@iais.fraunhofer.de         | 2              |
+| Building a biomedical literature knowledge graph and automatic screening of biomedical abstracts using knowledge graph embeddings | Iqra Muhammad                                                                                                                                     | iqra.muhammad@liverpool.ac.uk             | 3              |
+| Combining Neural and Pattern-Based Similarity Search                                                                              | Shauli Ravfogel, Hillel Taub-Tabib, Yoav Goldberg                                                                                                 | shaulr@allenai.org                        | 3              |
+| CORD-19 visualization using dynamic evidence gap maps                                                                             | Aravind Mohanoor                                                                                                                                  | aravind.mohanoor@gmail.com                | 3              |
+| COVIDExplorer: Exploring the Universe of COVID-19 Knowledge                                                                       | Heer Ambavi, Kavita Vaishnaw, Udit Vyas, Abhisht Tiwari, Mayank Singh                                                                             | heer.ambavi@iitgn.ac.in                   | 3              |
+| COVIDScholar: AI-powered rapid data gathering, analysis, and dissemination                                                        | John Dagdelen, Amalie Trewartha, Haoyan Huo, Tanjin He, Kevin Cruse, Zheren Wang, Yuxing Fei, Akshay Subramanian, Kristin Persson, Gerbrand Ceder | jdagdelen@lbl.gov                         | 3              |
+| TopicForest: A Prototype Discovery Engine                                                                                         | Soheil Danesh                                                                                                                                     | soheildb@gmail.com                        | 3              |
+| Orion: An interactive information retrieval system for scientific knowledge discovery                                             | Kostas Stathoulopoulos, Zac Ioannidis, Lilia Villafuerte                                                                                          | kostas@mozillafoundation.org              | 3              |
+| Interactive Extractive Search over Biomedical Corpora                                                                             | Hillel Taub-Tabib, Micah Shlain, Shoval Sadde, Dan Lahav, Matan Eyal, Yaara Cohen, Yoav Goldberg                                                  | hillelt@allenai.org                       | 3              |
+
+
 
 
 # Panel discussion: The role of scientific NLP during an epidemic
