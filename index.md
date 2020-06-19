@@ -60,7 +60,9 @@ Each invited talk is roughly 25 min (which includes a few minutes of Q&A and buf
 
 # Poster sessions
 
-Due to the large number of submissions this year, we've decided to split the presentations into three poster sessions to allow time for discussion and questions.  The poster session numbers correspond to Zoom rooms on the SciNLP workshop page after logging into the virtual conference. 
+Due to the large number of submissions this year, we've decided to split the presentations into **three poster sessions** to allow time for discussion and questions.  
+
+The poster session numbers correspond to Zoom rooms after logging into the [virtual conference](https://akbc.apps.allenai.org/workshop_scinlp.html). 
 
 
 | Poster Session | Title                                                                                                                             | Authors                                                                                                                                           | Abstract                                                                                                                                                              | Video                                               |
@@ -102,7 +104,7 @@ In light of the activity from the computing community to help with the current v
 * How can we best connect and collaborate with domain experts?
 * What are challenges that prevent us from being helpful?
 
-We've invited a few of our speakers who regularly collaborate with biomedical domain experts to share their thoughts and answer questions.
+We've invited [Asma Ben Abacha](#asma-ben-abacha), [Hoifung Poon](#hoifung-poon), and [Byron Wallace](#byron-wallace) to share their thoughts and answer questions.
 
 We will be curating questions from the audience beforehand (as well as live during the discussion).
 
