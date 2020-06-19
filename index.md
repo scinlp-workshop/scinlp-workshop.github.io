@@ -37,6 +37,7 @@ variety of text sources (e.g. scholarly papers, surveys and technical reports, p
 by scholars, blogs/tutorials, etc.)
 
 
+
 # Schedule
 
 Total estimated 285 minutes (4.75 hrs).  All times are in PDT (UTC-7):
@@ -57,9 +58,41 @@ Total estimated 285 minutes (4.75 hrs).  All times are in PDT (UTC-7):
 
 Each invited talk is roughly 25 min (which includes a few minutes of Q&A and buffer time for transitions).
 
-# Poster session
+# Poster sessions
 
-Given the large number of submissions, we're splitting the poster session into three concurrent tracks (i.e. separate teleconferencing rooms).  Each track will feature no more than 10 video poster presentations to allow time for questions and discussion.  Tracks to be announced soon.
+Due to the large number of submissions this year, we've decided to split the presentations into three poster sessions to allow time for discussion and questions.  The poster session numbers correspond to Zoom rooms on the SciNLP workshop page after logging into the virtual conference. 
+
+
+| Title                                                                                                                             | Authors                                                                                                                                           | Contact                                   | Poster Session |
+|-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|----------------|
+| Automatic Extraction of Risk Factors from COVID-19 Literature                                                                     | Francis Wolinski                                                                                                                                  | francis.wolinski@yotta-conseil.fr         | 1              |
+| Extracting a knowledge base of biomedical mechanisms from COVID-19 scientific literature                                          | Aida Amini, Tom Hope, David Wadden, Roy Schwartz, Hannaneh Hajishirzi                                                                             | amini91@cs.washington.edu                 | 1              |
+| DARE: Data Augmented Relation Extraction with GPT-2                                                                               | Yannis Papanikolaou, Andrea Pierleoni                                                                                                             | yannis.papanikolaou@healx.io              | 1              |
+| Extraction of causal structure from procedural text for discourse representations                                                 | Michael Regan, James Pustejovsky, William Croft                                                                                                   | michael.regan141@gmail.com                | 1              |
+| Semi-Automated Information Extraction to Improve Scientific Knowledge Discovery in Environmental Health Science Literature        | Vickie R. Walker, Andrew A. Rooney, Nicole C. Kleinstreuer, Mary S. Wolfe, Charles P. Schmitt                                                     | vickie.walker@nih.gov                     | 1              |
+| Semi-Open Relation Extraction from Scientific Texts                                                                               | Ruben Kruiper, Julian F.V. Vincent, Jessica Chen-Burger, Marc P.Y. Desmulliez, Ioannis Konstas                                                    | rk22@hw.ac.uk                             | 1              |
+| Softcite: Automatic Extraction of Software Mentions in Research Literature                                                        | Caifan Du, James Howison, Patrice Lopez                                                                                                           | cfdu@utexas.edu                           | 1              |
+| Biomedical Synonym Normalization for Knowledge Graph Insight Generation                                                           | Eric Tanalski, Richard Wendell                                                                                                                    | eric@tellic.com                           | 1              |
+| Normalization of Predominant and Long-tail Bacterial Entities with a Hybrid CNN-LSTM and Knowledge-Driven Model                   | William Hogan, Raghav Mehta, Yoshiki Vazquez-Baeza, Yannis Katsis, Ho-Cheol Kim, Chun-Nan Hsu                                                     | whogan@eng.ucsd.edu                       | 1              |
+| Using Text Data Mining to Analyze the NIH’s Response to the Coronavirus Pandemic                                                  | Megan Donegan,* Nancy Praskievicz,* Jacob Scholl, Kirk Baker, Judy Riggie, Sheryl Brining                                                         | megan.donegan@nih.gov                     | 2              |
+| Estimation of Research Communities in the Multilingual Academic Data                                                              | Ilya Rahkovsky, Jennifer Melot                                                                                                                    | ir177@georgetown.edu                      | 2              |
+| Identifying the Development and Application of Artificial Intelligence in Scientific Text                                         | James Dunham, Jennifer Melot, Dewey Murdick                                                                                                       | james.dunham@georgetown.edu               | 2              |
+| CoronaWhy: Building a Distributed, Credible and Scalable Research and Data Infrastructure for Open Science                        | Vyacheslav Tykhonov, Anton Polishko, Artur Kiulian, Maksym Komar                                                                                  | akiulian@gmail.com                        | 2              |
+| Researcher-in-the-loop for systematic reviewing of text databases                                                                 | Rens van de Schoot, Jonathan de Bruin                                                                                                             | a.g.j.vandeschoot@uu.nl, j.debruin1@uu.nl | 2              |
+| Building an AI-powered Literature Review for COVID-19                                                                             | Jan Bremer, Maikel Boot, Lucas Buyon, Paul Mooney, Tayab Waseem                                                                                   | waseemT@evms.edu                          | 2              |
+| Construction and Applications of TeKnowbase                                                                                       | Prajna Upadhyay, Maya Ramanath                                                                                                                    | prajna.upadhyay@cse.iitd.ac.in            | 2              |
+| AAN: Developing Educational Tools for Work Force Training                                                                         | Alexander R. Fabbri, Irene Li, Swapnil Hingmire, Dragomir Radev                                                                                   | alexander.fabbri@yale.edu                 | 2              |
+| Incorporating Knowledge Bases into SciBERT and BioBERT pre-trained language models                                                | Abdullah Kiwan, Sven Giesselbach, Stefan Rüping                                                                                                   | abdullah.kiwan@iais.fraunhofer.de         | 2              |
+| Building a biomedical literature knowledge graph and automatic screening of biomedical abstracts using knowledge graph embeddings | Iqra Muhammad                                                                                                                                     | iqra.muhammad@liverpool.ac.uk             | 3              |
+| Combining Neural and Pattern-Based Similarity Search                                                                              | Shauli Ravfogel, Hillel Taub-Tabib, Yoav Goldberg                                                                                                 | shaulr@allenai.org                        | 3              |
+| CORD-19 visualization using dynamic evidence gap maps                                                                             | Aravind Mohanoor                                                                                                                                  | aravind.mohanoor@gmail.com                | 3              |
+| COVIDExplorer: Exploring the Universe of COVID-19 Knowledge                                                                       | Heer Ambavi, Kavita Vaishnaw, Udit Vyas, Abhisht Tiwari, Mayank Singh                                                                             | heer.ambavi@iitgn.ac.in                   | 3              |
+| COVIDScholar: AI-powered rapid data gathering, analysis, and dissemination                                                        | John Dagdelen, Amalie Trewartha, Haoyan Huo, Tanjin He, Kevin Cruse, Zheren Wang, Yuxing Fei, Akshay Subramanian, Kristin Persson, Gerbrand Ceder | jdagdelen@lbl.gov                         | 3              |
+| TopicForest: A Prototype Discovery Engine                                                                                         | Soheil Danesh                                                                                                                                     | soheildb@gmail.com                        | 3              |
+| Orion: An interactive information retrieval system for scientific knowledge discovery                                             | Kostas Stathoulopoulos, Zac Ioannidis, Lilia Villafuerte                                                                                          | kostas@mozillafoundation.org              | 3              |
+| Interactive Extractive Search over Biomedical Corpora                                                                             | Hillel Taub-Tabib, Micah Shlain, Shoval Sadde, Dan Lahav, Matan Eyal, Yaara Cohen, Yoav Goldberg                                                  | hillelt@allenai.org                       | 3              |
+
+
 
 
 # Panel discussion: The role of scientific NLP during an epidemic
@@ -180,6 +213,29 @@ If you have a disability and require accommodation in order to fully participate
 
 # Registration
 Registration for SciNLP will be through the [AKBC 2020](https://www.akbc.ws/2020/) conference.  There is a fee of $30 for students and $50 for non-students.  Registering gives you access to the full conference & workshops.  There is no special registration for workshop only.
+
+
+# Call for abstracts
+
+We welcome submissions of **short abstracts (1 page max)** related to the above research areas. Submissions may include previously published results, late-breaking results, and work in progress.  Relevant submissions will be accepted for **video presentation** in the virtual poster session.  **The workshop is non-archival**, so participants are free to also submit their work for publication elsewhere.
+
+To submit an abstract, please send an email to **scinlp@googlegroups.com** with the subject line "SCINLP submission: [TITLE]". Please include:
+        
+* Abstract in PDF format (1-page max) as an attachment.  Abstracts will be lightly reviewed to ensure that the topic is within the scope of the workshop.
+* Indicate which of the authors will be presenting the work.  We require each accepted work to provide a **~3 minute video** recording of the presentation.  We will reach out with video uploading instructions *after* acceptance notification.  Video length requirements may change depending on the number of submissions.
+* Indicate the scientific domain(s) and source(s) of scientific text relevant to the submission; for example, scientific domain could be “Genomics” while source of text could be “Peer-reviewed papers from PubMed”.
+
+**Writing guidelines:**  These abstracts can be longer than the typical abstracts for a full research paper.  Figures and tables are allowed, but will count toward the length limit.  References will *not* count toward the length limit.  Abstracts do not have to be about a single paper; we allow abstracts that summarize a collection of works under a unified theme (e.g., a series of closely-related papers that build on each other or tackle a common problem).  **For writing examples, see the accepted abstracts from last year's [SLKB](https://sites.google.com/view/akbc-sci/home#h.p_gSgV1fypJAMf) workshop at AKBC 2019.** 
+
+All accepted abstracts (and their videos) will be made available online prior to the workshop and remain accessible afterwards.
+
+If you have a disability and require accommodation in order to fully participate in the workshop, please let us know and we'll be in touch to discuss how we can best address your needs.
+
+**Can't make it?** Check out these other upcoming workshops related to NLP and text mining over scientific text:
+
+* [SDP](https://ornlcda.github.io/SDProc) at EMNLP 2020
+* [BioNLP](https://aclweb.org/aclwiki/BioNLP_Workshop) at ACL 2020
+
 
 # Organizers
 
