@@ -37,6 +37,7 @@ variety of text sources (e.g. scholarly papers, surveys and technical reports, p
 by scholars, blogs/tutorials, etc.)
 
 
+
 # Schedule
 
 Total estimated 285 minutes (4.75 hrs).  All times are in PDT (UTC-7):
@@ -58,7 +59,6 @@ Total estimated 285 minutes (4.75 hrs).  All times are in PDT (UTC-7):
 Each invited talk is roughly 25 min (which includes a few minutes of Q&A and buffer time for transitions).
 
 # Poster sessions
-
 
 Due to the large number of submissions this year, we've decided to split the presentations into three poster sessions to allow time for discussion and questions.  The poster session numbers correspond to Zoom rooms on the SciNLP workshop page after logging into the virtual conference. 
 
