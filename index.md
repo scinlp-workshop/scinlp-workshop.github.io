@@ -1,48 +1,15 @@
 # SciNLP: Natural Language Processing and Data Mining for Scientific Text
 
-The 1st SciNLP workshop will be at [AKBC 2020](https://www.akbc.ws/2020/)!
+The 1st SciNLP workshop will be held **virtually** on **June 25th** from **8AM - 1PM (UTC-7)** as part of [AKBC 2020](https://www.akbc.ws/2020/)!  See workshop description [here](#about).
 
-# Bookmarked Links
 
 * **Live Virtual Hub:** [Login here](https://akbc.apps.allenai.org/workshop_scinlp.html) using your AKBC 2020 registration info.
 
-* **Workshop Schedule:** [View here](#schedule) 
+* **Workshop Schedule:** [View here](#schedule)
 
-* **Poster Sessions:** [View here](#poster-sessions)
+* **Poster Sessions:** [Click here](#poster-sessions) for accepted abstracts & YouTube videos.
 
-# Announcements
-
-* **Register** [here](#registration).
-* Join the **mailing list** [here](https://groups.google.com/forum/#!forum/scinlp-info) to receive announcements.
-
-# About
-
-SciNLP will be held **virtually** on **June 25th** from **8AM - 1PM (UTC-7)**.
-
-The primary goal of this half-day workshop is to bring together researchers from diverse fields
-who are interested in extracting and representing knowledge from scientific text, and/or
-applications or methods for improving access to and understanding of such knowledge. Such
-research includes, but is not limited to:
-
-* **Methods** in natural language processing and data mining for extracting and representing
-knowledge from scientific text (e.g. information extraction, entity normalization, discourse
-analysis, parsing, summarization, text generation, question answering, knowledge base
-construction, weak/distant supervision, crowdsourcing),
-* **Applications** of these methods to improving scientific knowledge discovery and/or
-understanding (e.g. automated literature review, search and recommender systems,
-techniques for data exploration and visualization),
-* **Fairness** (e.g. augmented or assistive paper reading, concept simplification, scientific
-education and literacy),
-* **Science of science** studies (in particular, studies that shed light on phenomena that can
-motivate future research in above-mentioned areas), and
-* **Datasets**, **Resources** (e.g. treebanks, knowledge bases), and **Tools** (e.g. software
-libraries, annotation interfaces) for conducting research in such areas.
-
-We welcome research relevant to processing text in any domain of science (e.g. Biology,
-Medicine, Computer Science, Physics, Economics, Sociology, etc.) that can come from a
-variety of text sources (e.g. scholarly papers, surveys and technical reports, patents, tweets
-by scholars, blogs/tutorials, etc.)
-
+* **Register:** [here](#registration).
 
 
 # Schedule
@@ -67,9 +34,12 @@ Each invited talk is roughly 20 min (plus 5 min after for Q&A and buffer time fo
 
 # Poster sessions
 
-Due to the large number of submissions this year, we've decided to split the presentations into **three poster sessions** to allow time for discussion and questions.  
+Due to the large number of submissions this year, we've split the presentations into **three poster sessions** to allow time for discussion and questions.  
 
-The poster session numbers correspond to Zoom rooms after logging into the [virtual conference](https://akbc.apps.allenai.org/workshop_scinlp.html). 
+The Poster Session IDs correspond to Zoom rooms after logging into the [virtual conference hub](https://akbc.apps.allenai.org/workshop_scinlp.html). 
+
+All the accepted abstracts & YouTube video presentations are available below:
+
 
 | Poster Session | Title                                                                                                                             | Authors                                                                                                                                           | Links                                                                                                                                                                                                                   |
 |----------------|-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -212,6 +182,36 @@ If you have a disability and require accommodation in order to fully participate
 
 * [SDP](https://ornlcda.github.io/SDProc) at EMNLP 2020
 * [BioNLP](https://aclweb.org/aclwiki/BioNLP_Workshop) at ACL 2020
+
+
+
+
+# About
+
+The primary goal of this half-day workshop is to bring together researchers from diverse fields
+who are interested in extracting and representing knowledge from scientific text, and/or
+applications or methods for improving access to and understanding of such knowledge. Such
+research includes, but is not limited to:
+
+* **Methods** in natural language processing and data mining for extracting and representing
+knowledge from scientific text (e.g. information extraction, entity normalization, discourse
+analysis, parsing, summarization, text generation, question answering, knowledge base
+construction, weak/distant supervision, crowdsourcing),
+* **Applications** of these methods to improving scientific knowledge discovery and/or
+understanding (e.g. automated literature review, search and recommender systems,
+techniques for data exploration and visualization),
+* **Fairness** (e.g. augmented or assistive paper reading, concept simplification, scientific
+education and literacy),
+* **Science of science** studies (in particular, studies that shed light on phenomena that can
+motivate future research in above-mentioned areas), and
+* **Datasets**, **Resources** (e.g. treebanks, knowledge bases), and **Tools** (e.g. software
+libraries, annotation interfaces) for conducting research in such areas.
+
+We welcome research relevant to processing text in any domain of science (e.g. Biology,
+Medicine, Computer Science, Physics, Economics, Sociology, etc.) that can come from a
+variety of text sources (e.g. scholarly papers, surveys and technical reports, patents, tweets
+by scholars, blogs/tutorials, etc.)
+
 
 
 # Registration
