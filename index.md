@@ -1,6 +1,6 @@
 # SciNLP: Natural Language Processing and Data Mining for Scientific Text
 
-The [SciNLP](#about) workshop will be held virtually on **June 25th** from **8AM - 1PM (UTC-7)**.
+The [SciNLP](#about) virtual workshop on **June 25th** from **8AM - 1PM PDT (UTC-7)**.
 
 
 * **[Live Virtual Hub](https://akbc.apps.allenai.org/workshop_scinlp.html):**  Login using your AKBC 2020 registration info.  Provides links to Zoom meetings & chatrooms.
