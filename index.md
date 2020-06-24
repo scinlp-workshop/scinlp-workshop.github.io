@@ -2,9 +2,16 @@
 
 The 1st SciNLP workshop will be at [AKBC 2020](https://www.akbc.ws/2020/)!
 
+# Bookmarked Links
+
+* **Live Virtual Hub:** [Login here](https://akbc.apps.allenai.org/workshop_scinlp.html) using your AKBC 2020 registration info.
+
+* **Workshop Schedule:** [View here](#schedule) 
+
+* **Poster Sessions:** [View here](#poster-sessions)
+
 # Announcements
 
-* **Login** [here](https://akbc.apps.allenai.org/workshop_scinlp.html) using your AKBC 2020 registration info.
 * **Register** [here](#registration).
 * Join the **mailing list** [here](https://groups.google.com/forum/#!forum/scinlp-info) to receive announcements.
 
