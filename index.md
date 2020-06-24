@@ -63,7 +63,7 @@ Total estimated 285 minutes (4.75 hrs).  All times are in PDT (UTC-7):
 * 12:15-12:45 - [Panel discussion and Q&A](#panel-discussion-the-role-of-scientific-nlp-during-an-epidemic) (30 min)
 * 12:45       - END
 
-Each invited talk is roughly 25 min (which includes a few minutes of Q&A and buffer time for transitions).
+Each invited talk is roughly 20 min (plus 5 min after for Q&A and buffer time for transitions).
 
 # Poster sessions
 
