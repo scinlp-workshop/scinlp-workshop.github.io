@@ -235,6 +235,8 @@ Registration for SciNLP will be through the [AKBC 2020](https://www.akbc.ws/2020
 * [Yi Luan](https://luanyi.github.io/), Google Research
 * [Lucy Lu Wang](https://llwang.net/) [@lucyluwang](https://twitter.com/lucyluwang), Allen Institute for AI
 
+# Contact
+
 Contact us at **scinlp@googlegroups.com** or on Twitter via **#SciNLP**!
 
 Join the **[mailing list](https://groups.google.com/forum/#!forum/scinlp-info)** to receive announcements.
