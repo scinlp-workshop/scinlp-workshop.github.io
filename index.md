@@ -2,6 +2,7 @@
 
 The [SciNLP](#about) virtual workshop on **June 25th** from **8AM - 1PM PDT (UTC-7)**.
 
+* **[Feedback Form](https://forms.gle/VbRsJnWUQcwtzfpN8):**  We're gathering feedback about SciNLP workshop here!  Also feel free to [email us directly](#contact).
 
 * **[Live Virtual Hub](https://akbc.apps.allenai.org/workshop_scinlp.html):**  Login using your AKBC 2020 registration info.  Provides links to Zoom meetings & [chatrooms](https://akbc.apps.allenai.org/chat.html).
 
@@ -9,7 +10,6 @@ The [SciNLP](#about) virtual workshop on **June 25th** from **8AM - 1PM PDT (UTC
 
 * **[Poster Sessions](#poster-sessions):**  All accepted abstracts, their YouTube videos, and assigned Poster Session IDs.  Join poster sessions for discussions with authors!
 
-* **[Register](#registration)**
 
 
 # Schedule
