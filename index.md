@@ -14,21 +14,21 @@ The [SciNLP](#about) virtual workshop on **June 25th** from **8AM - 1PM PDT (UTC
 
 # Schedule
 
-Total estimated 285 minutes (4.75 hrs).  All times are in PDT (UTC-7):
+Total estimated 300 minutes (5 hrs).  All times are in PDT (UTC-7):
 
-* 8:00       - START
-* 8:00-8:25  - [Ryan McDonald](#ryan-mcdonald) (25 min)
-* 8:25-8:50  - [Vivi Nastase](#vivi-nastase) (25 min)
-* 8:50-9:15  - [David Jurgens](#david-jurgens) (25 min)
-* 9:15-9:40  - [Robert Stojnic](#robert-stojnic) (25 min)
-* 9:40-10:10  - [Poster sessions](#poster-sessions) (30 min)
-* 10:10-10:35 - [Iris Shen](#iris-shen) (25 min)
-* 10:35-11:00 - [Doug Downey](#doug-downey) (25 min)
-* 11:00-11:25 - [Hoifung Poon](#hoifung-poon) (25 min)
-* 11:25-11:50 - [Asma Ben Abacha](#asma-ben-abacha) (25 min)
-* 11:50-12:15 - [Byron Wallace](#byron-wallace) (25 min)
-* 12:15-12:45 - [Panel discussion and Q&A](#panel-discussion-the-role-of-scientific-nlp-during-an-epidemic) (30 min)
-* 12:45       - END
+* 8:00        - START
+* 8:00-8:25   - [Ryan McDonald](#ryan-mcdonald) (25 min)
+* 8:25-8:50   - [Vivi Nastase](#vivi-nastase) (25 min)
+* 8:50-9:15   - [David Jurgens](#david-jurgens) (25 min)
+* 9:15-9:40   - [Robert Stojnic](#robert-stojnic) (25 min)
+* 9:40-10:25  - [Poster sessions](#poster-sessions) (45 min)
+* 10:25-10:50 - [Iris Shen](#iris-shen) (25 min)
+* 10:50-11:15 - [Doug Downey](#doug-downey) (25 min)
+* 11:15-11:40 - [Hoifung Poon](#hoifung-poon) (25 min)
+* 11:40-12:05 - [Asma Ben Abacha](#asma-ben-abacha) (25 min)
+* 12:05-12:30 - [Byron Wallace](#byron-wallace) (25 min)
+* 12:30-1:00  - [Panel discussion and Q&A](#panel-discussion-the-role-of-scientific-nlp-during-an-epidemic) (30 min)
+* 1:00        - END
 
 Each invited talk is roughly 20 min (plus 5 min after for Q&A and buffer time for transitions).
 
