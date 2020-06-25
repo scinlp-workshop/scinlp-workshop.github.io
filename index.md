@@ -38,7 +38,15 @@ Due to the large number of submissions this year, we've split the presentations 
 
 The Poster Session IDs correspond to Zoom rooms after logging into the [virtual conference hub](https://akbc.apps.allenai.org/workshop_scinlp.html). 
 
-All the accepted abstracts & YouTube video presentations are available below:
+#### YouTube playlists
+
+* [Poster Session 1](https://www.youtube.com/playlist?list=PLOTELVgUs9jLFdF0iYgXAlHjsm8uQ3EXd)
+* [Poster Session 2](https://www.youtube.com/playlist?list=PLOTELVgUs9jK10Js3soPpwia4z-Sf1l1T)
+* [Poster Session 3](https://www.youtube.com/playlist?list=PLOTELVgUs9jJADd1VZNqliqqw6cUCL3eO)
+
+#### Individual submissions
+
+All accepted abstracts & YouTube video presentations are listed below:
 
 
 | Poster Session | Title                                                                                                                             | Authors                                                                                                                                           | Links                                                                                                                                                                                                                   |
