@@ -1,8 +1,28 @@
 # SciNLP: Natural Language Processing and Data Mining for Scientific Text
 
-The [SciNLP](#about) virtual workshop on **June 25th** from **8AM - 1PM PDT (UTC-7)**.
+The 1st [SciNLP](#about) workshop at [AKBC 2020](https://www.akbc.ws/2020/) has concluded!
 
-* **[Feedback Form](https://forms.gle/VbRsJnWUQcwtzfpN8):**  We're gathering feedback about SciNLP workshop here!  Also feel free to [email us directly](#contact).
+Thanks to all who participated (invited speakers, poster presenters, attendees).  We'll be updating this site with links to recorded speaker talks and additional content organized from the chatroom conversations.
+
+Please take some time to fill out our **[Feedback Form](https://forms.gle/VbRsJnWUQcwtzfpN8)**.  We'll use this to improve our processes & gauge interest in future SciNLP events.
+
+# Contact
+
+Feel free to contact us at **scinlp@googlegroups.com** or on Twitter via **#SciNLP**!
+
+Join the **[mailing list](https://groups.google.com/forum/#!forum/scinlp-info)** to receive announcements.
+
+**Organizers:**
+
+* Kyle Lo [@kylelostat](https://twitter.com/kylelostat), Allen Institute for AI
+* Iz Beltagy [@i_beltagy](https://twitter.com/i_beltagy), Allen Institute for AI
+* Arman Cohan [@armancohan](https://twitter.com/armancohan), Allen Institute for AI
+* [Keith Hall](https://research.google/people/author38002), Google Research
+* [Yi Luan](https://luanyi.github.io/), Google Research
+* [Lucy Lu Wang](https://llwang.net/) [@lucyluwang](https://twitter.com/lucyluwang), Allen Institute for AI
+
+
+# Links
 
 * **[Live Virtual Hub](https://akbc.apps.allenai.org/workshop_scinlp.html):**  Login using your AKBC 2020 registration info.  Provides links to Zoom meetings & [chatrooms](https://akbc.apps.allenai.org/chat.html).
 
@@ -13,6 +33,8 @@ The [SciNLP](#about) virtual workshop on **June 25th** from **8AM - 1PM PDT (UTC
 
 
 # Schedule
+
+**Date / Time**: June 25th from 8AM - 1PM PDT (UTC-7).
 
 Total estimated 300 minutes (5 hrs).  All times are in PDT (UTC-7):
 
@@ -226,17 +248,4 @@ by scholars, blogs/tutorials, etc.)
 Registration for SciNLP will be through the [AKBC 2020](https://www.akbc.ws/2020/) conference.  There is a fee of $30 for students and $50 for non-students.  Registering gives you access to the full conference & workshops.  There is no special registration for workshop only.
 
 
-# Organizers
 
-* Kyle Lo [@kylelostat](https://twitter.com/kylelostat), Allen Institute for AI
-* Iz Beltagy [@i_beltagy](https://twitter.com/i_beltagy), Allen Institute for AI
-* Arman Cohan [@armancohan](https://twitter.com/armancohan), Allen Institute for AI
-* [Keith Hall](https://research.google/people/author38002), Google Research
-* [Yi Luan](https://luanyi.github.io/), Google Research
-* [Lucy Lu Wang](https://llwang.net/) [@lucyluwang](https://twitter.com/lucyluwang), Allen Institute for AI
-
-# Contact
-
-Contact us at **scinlp@googlegroups.com** or on Twitter via **#SciNLP**!
-
-Join the **[mailing list](https://groups.google.com/forum/#!forum/scinlp-info)** to receive announcements.
