@@ -22,9 +22,7 @@ Q1: "Do you generate questions at different passage granularities? I imagine the
 
 Q2: "Could you comment further on entity linking and discovery, and its impact on QA in Sci Literature?"
 
-Q3: "Could to talk a bit more about the effect of the datasets and why there was s large performance difference on the TREC-COVID data vs BioASQ?"
-
-Q4: "Is there a reason that you focused on biomedical literature, vs. for instance physics or chemistry?"
+Q3: "Is there a reason that you focused on biomedical literature, vs. for instance physics or chemistry?"
 
 
 
