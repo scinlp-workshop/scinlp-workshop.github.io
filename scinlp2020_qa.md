@@ -1,17 +1,32 @@
-# SciNLP 2020 Q&A
+# SciNLP 2020 Invited Speaker Q&A
 
 This is a transcript of questions and answers for our invited speakers.  We recorded conversations on both Rocket Chat and Zoom.  We've edited typed questions/answers that contained typos or grammatical errors, but tried to remain faithful to the original content.  Please let us know if anything in here is incorrect!
 
 In speaker order:
 * [Ryan McDonald](#ryan-mcdonald)
 * [Vivi Nastase](#vivi-nastase)
+* [David Jurgens](#david-jurgens)
+* [Robert Stojnic](#robert-stojnic)
+* [Iris Shen](#iris-shen)
 * [Doug Downey](#doug-downey)
 * [Hoifung Poon](#hoifung-poon)
+* [Asma Ben Abacha](#asma-ben-abacha)
 * [Byron Wallace](#byron-wallace)
+* [Panel with Asma, Hoifung, and Byron](#panel)
 
 # Ryan McDonald
 
 ### Zoom chat
+
+Q1: "Do you generate questions at different passage granularities? I imagine the types of questions generated at a document level would be quite different from something generated at a sentence level for example."
+
+Q2: "Could you comment further on entity linking and discovery, and its impact on QA in Sci Literature?"
+
+Q3: "Could to talk a bit more about the effect of the datasets and why there was s large performance difference on the TREC-COVID data vs BioASQ?"
+
+Q4: "Is there a reason that you focused on biomedical literature, vs. for instance physics or chemistry?"
+
+
 
 ### Rocket chat
 
@@ -38,11 +53,13 @@ Q5: “Will this be new functionality in Google Scholar?”
 A5: “Too early to say. Those decisions are above my pay-grade 🙂”
  
  
- 
- 
 # Vivi Nastase
 
 ### Zoom chat
+
+Q1: "Curious whether there would be special considerations in other domains?"
+
+
 
 ### Rocket chat
 
@@ -55,10 +72,77 @@ Q2 (follow-up; rephrased): “Have you used the ACL ARC v2 has OCRed and parsed 
 A2: “We work with the OCR-ed, and even did some word segmentation correction there, but it's hard to extract a nice and clean path from the problem to the solution, which is what we are after. But we'll persist!”
 
 
+# David Jurgens
+
+### Zoom chat
+
+Q1: "Random effects for journalists?"
+
+Q2: "What are the topics that journalists cover without mentioning authors?"
+
+Q3: "Are the news outlets primarily located in us/canada and northern european countrys?"
+
+Q4: "Have you considered communication barriers? (perhaps foreign authors tend to respond less to journalists)"
+
+Q5: "Any thoughts on the origin of this bias? Is it the journalists ignore these minority authors or is it a discoverability issue (e.g. search engine bias)?"
+
+**Comments from audience:**
+
+Lucy: "Foreign institutions may not have press offices that are well connected to these news outlets though."
+
+Yoav: "Authors who publish in English are most definitely not necessarily fluent in English!"
+
+David's repsonse: "Fully agree Yoav and Lucy! I do think that lots of journalists initially communicate via email which might be easier for less fluent authors though (that said, controlling for this better is something we’re looking at)"
+
+
+# Robert Stojnic
+
+### Zoom chat
+
+Q1: "Is "papers with code" in your view meant primarily for academic researchers or for industry researchers?"
+
+Q2: "How do you link entities of tasks from each paper? (Is the information easy to download for the public? i.e. is it within one of the three available download links in the about section?)"
+
+Q3: "Is the focus on equating tasks with scores on datasets good or bad for DL-science in the long run?"
+
+Q4: "At any point do you envision your platform (since you have both code and the paper) where one might interactively play with the parameters and see results in relation to the rest of the results / papers you index.. sort of live experiments where possible?"
+
+Q5: "Are components of this platform open, and can people adapt them for other collaborative efforts around paper extractions, maybe for results in other domains?"
+
+Q6 (follow-up from another audience member): "+1 and also, is the data (papers + extracted results) available for e.g. creating a dataset for training supervised extraction?"
+
+Q7: "The new accessibility standards for PDF require rather strict formatting of tables for the software for visually challenged users to read them.  Do you plan to use this formatting when available?"
+
+
+**More comments from audience:**
+
+Jodi: "Thanks for baking licensing in! :)"
+
+
+# Iris Shen
+
+### Zoom chat
+
+Q1: "With the increased availability of full-text open access articles, will it be possible for MAG to parse the entirety of the content in articles (not only abstracts)? Is it expected to reduce the number of orphan fields of study?"
+
+Q2: "How does MAG discard (if it does!) articles of dubious standing (say pseudoscience or extremely controversial content) from its publication index?"
+
+Q3: "What about a new concept clusters / trees?  As in, a group of new concepts can arise all at once.  How does the algorithm handle cases like this? Some may be leaf nodes of other new concepts..."
+
+Q4: "Is BERT-Large performing better than AllenAI models (SciBERT and siblings) for MAG?"
+
+
 
 # Doug Downey
 
 ### Zoom chat
+
+Q1: "Could you please explain more how the input of the pretrained transformer is represented ? every paper is represented as a sentence with |SEP| between the three papers ?"
+
+Q2: "The scientific concepts extraction algorithm is very cool! How domain-independent do you think the heuristic is?  Will it work on Bio/Chem/Phys as well as on CS?"
+
+Q3 (follow-up; clarification): "I guess the question is "is the citation structure in CS and other fields similar"
+
 
 ### Rocket chat
 
@@ -70,10 +154,31 @@ Q2: “How would AI2's Longformer (https://github.com/allenai/longformer) fare o
 
 A2: “Good question, we are working on this now -- stay tuned 🙂. I think it would help, in particular Longformer would allow us to easily use the text of the paper references, which I expect will be very valuable for our tasks.”
 
+**Comments from audience about Q1**
+
+Lingfei: "My quick guess on Sidhu’s question: Unlike other domains, science is all about using the same terminology to talk about new ideas. Citation is expert-label data on the hidden association between ideas, which may or may not be easily recognized by machines."
+
+**More comments from audience**
+
+Samuel: "by Stigler's Law: typically everyone cites the *second* paper ;)"
+
+Anita: "Acronym identification will be a core requirement for future summarization tools"
+
+Marti: "I like the simplicity of the SPECTER approach; really neat!"
+
+
 
 # Hoifung Poon
 
 ### Zoom chat
+
+Q1: "KBs can also contradict one another (esp since some are more up to date). What's the effect of this when using them for distant supervision? Do you prioritize relationships that are more trustworthy?"
+
+A1 (in-chat): "Excellent question! That's partially the motivation for deep probabilistic logic. We want to be able to express and reason such prior belief about the quality of prior knowledge. It's straightforward to do. We are also extending DPL with the capability to propose new self-supervision, which can be directly added to the model or vetted by experts (as in feature-based active learning). The initial results are very promising."
+
+**More comments from audience**
+
+Lucy: "exchange coffee for knowledge :D"
 
 ### Rocket chat
 
@@ -97,8 +202,10 @@ A5: “We have a paper submission that explains all that. Hopefully it will be a
  
 Q6: “Do you (or anyone interested) think the amount of human curation needed can be modeled?  When we are doing annotation work in our research, we found that the amount of human curation work goes far beyond our expectation, thus we have been thinking the way to foresee that, by modeling it, or modeling proxy/key factors for getting some insights.”
 
-A6: “One thing we find helpful is to break down the annotation task into 80/20 stages. Often, finding the core facts is the most time-consuming part, which is what we start with, e.g., drug-gene-mutation for molecular tumor board. And then we keep identifying the next 80/20 opportunities for assisted curation.”
- 
+A6 (partially on Zoom): "Sure. There are a lot of opportunities to gradually shift more and more of human burden to machine reading. E.g., we start with (drug, gene, mutation) relation, and now are adding cancer type, evidence type, and other info human experts use for their curation."
+
+A6 (partially on Rocket): “One thing we find helpful is to break down the annotation task into 80/20 stages. Often, finding the core facts is the most time-consuming part, which is what we start with, e.g., drug-gene-mutation for molecular tumor board. And then we keep identifying the next 80/20 opportunities for assisted curation.”
+
 Q7: “What do you think of full-text vs. title & abstract? Will full-text mining availability always help? There are definitely more data in full-text but also probably more noise that may confuse the algorithm. Do you have an experience with that?”
 
 A7: “Full text is basically mandatory. E.g., most mutation-level results are not present in abstracts. As a rule of thumb, the most details and nuanced info you are looking for, the more you need full text. Like you said, full text is much noisier, with more complex structures, which is why we are pushing on cross-sentence or document-level relation extraction.”
@@ -108,10 +215,37 @@ Q8: “It's nice to consolidate the labeling functions / sources of supervision 
 A8: “Yes. In deep probabilistic logic, we use graphical model for modeling self-supervision, which is in a reduced state space (latent labels), so even standard methods like belief propagation work reasonably well. The end-to-end training uses variational EM, which generally converges after 2-3 iterations.”
 
 
+# Asma Ben Abacha
+
+### Zoom chat
+
+Q1: "Can you talk a bit more about consumer health QA and the goals of the NIH around this?  Whether there are public-facing goals?"
+
+Q2: "What are some interesting distinctions between clinical and consumer domains, and how can the data from one be leveraged to improve performance in the other domain?"
+
+Q3: "What was the source for VQA work?"
+A3 (in-chat): "For VQA, I used MedPix annotations to create the VQA-Med 2019 and 2020 questions and answers. If you mean the VQA-RAD dataset: the questions and answers were written by medical students."
+
 
 # Byron Wallace
 
 ### Zoom chat
+
+Q1: "How does TrialStreamer get updated when papers are retracted?"
+
+Q2: "Have you also looked into how to leverage other types of trials, like cohort studies? Or do you have thoughts on why not to include them?"
+
+Q3: "I am curious if you use the XML version of PMC articles in your pipeline, or do you use the PDF articles?"
+
+**More comments from audience**
+
+Jodi: "Upwork = great place for “expert sourcing”."
+
+yogo: "Byron don't sell your work short! (who cares that its "simple" if it works and is useful?? that's even better if its simple)"
+
+Jodi: "For COVID-19 papers, this is a good list: https://retractionwatch.com/retracted-coronavirus-covid-19-papers/.  Overall I’d recommend the RetractionDatabase (may require licensing) is http://retractiondatabase.org/RetractionSearch.aspx"
+
+Lucy: "the PICO formalism is very nice to have"
 
 ### Rocket chat
 
@@ -122,3 +256,42 @@ A1: “Thanks! We use Grobid actually; it seems to do really well!”
 Q2: “About the Evidence Inference (http://evidence-inference.ebm-nlp.com/) app, can a public user upload an article and get the evidence inference results displayed?”
 
 A2: “The models are available, and RobotReviewer will do this, but not a super easy interface for just the inference part yet!”
+
+
+# Panel
+
+Q1: "As you’ve shown in your work, it seems critically important to partner with actual clinicians.  How did you foster those connections & any advice for us?  Scrambling to connect *after* the epidemic begins seems too late."
+
+Q2: "Can you comment on collaboration modes, in particular "medical folks" defining questions vs them using tools, vs you running things and providing outputs, etc."
+
+Q3: "How well do  you think we have done in communicating science to the larger public in this time? Do you think we have a role to play there? What might some research questions there be?"
+
+Q4: "How do you assess/evaluate output of your work (during initial stages) without asking too much input from Biomed experts. Or is domain knowledge sort of important entry criteria to work?"
+
+Q5: "What is your vision on the policy consequence of scientific NLP (both in biomedical and in general science)? Such as informing better NIH/NSF grant policies for solving replication crisis, exploring unknown frontier, etc."
+
+
+**Discussion in Zoom chat**
+
+Osnat: "Is it a problem that solving practical, real world problems using exisiting tools is not glamerous enough? (re Byron's comment)"
+
+Yoav: "If solving real world problems with existing tools" is not glamorous enough in NLP, maybe NLP community should focus on empowering the interested parties to solve the problems themselves."
+
+Ruben: "I think it is. If you compare CS to other domains, e.g., engineering, the research is much more applied."
+
+Yoav: "We currently don't offer any such option."
+
+Jodi: "+1 Yoav!"
+
+Yoav (response to panelist answers): "I am still curious about your experience with handing them tools vs handing them results."
+
+Byron: "@Yoav my take on this is that most applications will need some sort of customization; so this lends to bespoke models/tools -- but some sort of flexible set of tools may suffice; agree that we're not there yet though"
+
+Jodi: "There is a field in medicine called “implementation and dissemination science”. I think we need an “implementation and dissemination science” of NLP."
+
+Hoifung: "In my experience, usually it's not so simple as handing tools or results. We often need a substantial investment to understand the problem space and come up with a productive abstraction, which is quite different from what the med folks originally articulate. So I'd say identifying stakeholders and defining problems is first priority. Then come up with evaluation metric and data. Afterward, it's more conventional territory for NLPers :)"
+
+Yoav: "ML "standardized" their tools with sklearn. What can NLP offer? (spacy / hugging-face is not it)"
+
+Osnat: "Very importnat point raised by Yoav indeed"
+
