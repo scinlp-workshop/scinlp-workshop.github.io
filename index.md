@@ -2,7 +2,7 @@
 
 The 1st [SciNLP](#about) workshop at [AKBC 2020](https://www.akbc.ws/2020/) has concluded!
 
-Thanks to all who participated (invited speakers, poster presenters, attendees).  We'll be updating this site with links to recorded speaker talks and additional content organized from the chatroom conversations.
+Thanks to all who participated (invited speakers, poster presenters, attendees).  We've uploaded the invited speaker talks to YouTube (see [links](#links)), and are organizing additional content from the chatroom conversations.
 
 Please take some time to fill out our **[Feedback Form](https://forms.gle/VbRsJnWUQcwtzfpN8)**.  We'll use this to improve our processes & gauge interest in future SciNLP events.
 
