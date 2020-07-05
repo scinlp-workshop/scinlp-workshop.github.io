@@ -24,6 +24,8 @@ Join the **[mailing list](https://groups.google.com/forum/#!forum/scinlp-info)**
 
 # Links
 
+* **[Invited talks and Panel Q&A](https://www.youtube.com/playlist?list=PLOTELVgUs9jKW2EkJbAyi6DcunfaXf0r6):**  Live recordings from Zoom.
+
 * **[Live Virtual Hub](https://akbc.apps.allenai.org/workshop_scinlp.html):**  Login using your AKBC 2020 registration info.  Provides links to Zoom meetings & [chatrooms](https://akbc.apps.allenai.org/chat.html).
 
 * **[Workshop Schedule](#schedule):**  Invited speaker talks, poster sessions, and panel discussion / Q&A.
