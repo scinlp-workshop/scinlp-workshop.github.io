@@ -1,8 +1,8 @@
 # SciNLP: Natural Language Processing and Data Mining for Scientific Text
 
-The 1st [SciNLP](#about) workshop at [AKBC 2020](https://www.akbc.ws/2020/) has concluded!
+Talk recordings are now live on [YouTube](https://www.youtube.com/playlist?list=PLOTELVgUs9jKW2EkJbAyi6DcunfaXf0r6)!
 
-Thanks to all who participated (invited speakers, poster presenters, attendees).  We've uploaded the invited speaker talks to YouTube (see [links](#links)), and are organizing additional content from the chatroom conversations.
+The 1st [SciNLP](#about) workshop at [AKBC 2020](https://www.akbc.ws/2020/) has concluded.  Thanks to all who participated (invited speakers, poster presenters, attendees)!
 
 Please take some time to fill out our **[Feedback Form](https://forms.gle/VbRsJnWUQcwtzfpN8)**.  We'll use this to improve our processes & gauge interest in future SciNLP events.
 
