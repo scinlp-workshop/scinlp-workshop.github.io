@@ -1,6 +1,8 @@
 # SciNLP 2020 Invited Speaker Q&A
 
-This is a transcript of questions and answers for our invited speakers.  We recorded conversations on both Rocket Chat and Zoom.  We've edited the typed questions/answers that contained typos or grammatical errors, but tried to remain faithful to the original content.  We've also transcribed answers to questions that were given live during the presentation (so there might be some mistakes).  Please let us know if anything in here is incorrect!
+This is a transcript of questions and answers for our invited speakers.  We recorded conversations on both Rocket Chat and Zoom.  We've edited the typed questions/answers that contained typos or grammatical errors, but tried to remain faithful to the original content.  
+
+We've also transcribed answers to questions that were given live during the presentation.  These aren't verbatim but we've tried to faithfully capture speakers' responses.  Please let us know if anything in here is incorrect!
 
 In speaker order:
 * [Ryan McDonald](#ryan-mcdonald)
@@ -170,6 +172,8 @@ Zoom: "Is BERT-Large performing better than AllenAI models (SciBERT and siblings
 
 Q1: "Could you please explain more how the input of the pretrained transformer is represented ? every paper is represented as a sentence with |SEP| between the three papers?"
 
+A1 (chat): "The input to the transformer is just the title and abstract (separated by [SEP]) of one paper, and the output is the embedding for that paper.  At training time, we run three identical (i.e., with tied weights) SciBERT models in parallel, one for each paper in the triple, and train the transformer weights on the loss function shown on the slide."
+
 Q2: “Why does Pretrained Transformer perform poor given that Abstract, Title and Conclusion are information dense?”
 
 A2 (live):  The story is really that document-level semantics is kind of a different end point than his within-document masked language model objective that the pretrained Transformer is trained on.  So it's not aimed at producing a single embedding that captures the semantics of the whole passage.  At least, not in the sense that we were consuming it in the paper-embeddings tasks.  I don't have a great reason for why it's true; I was a little surprised by how bad it was.  I'm still a little puzzled by that result, but it's really the difference between the document-level topic objective and the token-level masked language model objective that drives a lot of it.
@@ -317,7 +321,7 @@ A2: “The models are available, and RobotReviewer will do this, but not a super
 
 # Panel
 
-Q1: "Could you describe how you've been thinking about the promise of scientific NLP as it relates to the current pandemic situation, and whether we're meeting/delivering on those promises?"
+**Q1: "Could you describe how you've been thinking about the promise of scientific NLP as it relates to the current pandemic situation, and whether we're meeting/delivering on those promises?"**
 
 Asma (live):  This is a good opportunity for the NLP community to apply all the efforts & models that have been developed during these years in a real and concrete problem that affects a lot of our lives.  It was really great to see how interested researchers are by creating datasets.  AI2 was the first to create and propose the COVID-19 dataset & create challenges (e.g. TREC).  Of course, there are new challenges now.  Researchers all over the world are creating teams to contribute and participate in all of these.  It's true that it's a hard problem, but if I think about the QA problem, for example, systems trained on the data we have are able to answer questions by people like us (e.g. What are the symptoms?).  But also the harder problem of answering questions asked by doctors/professionals, and I think this is where it's more interesting - analyzing scientific articles and extracting/linking new discoveries/information.  It's great to see more efforts in this direction.
 
@@ -328,8 +332,7 @@ Hoifung (live):  I want to echo Asma & Byron.  First, I want to echo Asma's shou
 Lucy (live):  Yeah so it seems like all of you are alluding to - You've been working in BioNLP for a while, but this is a moment in time when a lot of people are being introduced to these problems for the first time & seeing how difficult it is to work in this field.  But it's also a great moment to recruit them.
 
 
-
-Q2: "What are some suggestions you have for partnering with medical experts and clinicals on these challenges? How do we foster these connections between the NLP community and these experts?"
+**Q2: "What are some suggestions you have for partnering with medical experts and clinicals on these challenges? How do we foster these connections between the NLP community and these experts?"**
 
 Byron (live):  Some of it is just luck - like I just keep stumbling upon these wonderful collaborators.  I actually don't think that's a huge problem in my experience.  I have more medical folks approach me than I can actually work with.  I think there's a huge demand, and one of the things I love about working on these problems is just the utility.  I'll go to the Cochrane meeting and I'll be the only computer scientist there and a lot of the stuff they have to do (e.g. making sense of literature) they really want to not have to do it.  They would love to have a system make these thigns less painful for them.  I think we can do that in NLP.  I guess what I'm getting at is that there's a lot of demand from the medical side.  
 
@@ -344,18 +347,18 @@ Hoifung (live):  This is really a good time for NLP folks to jump into the field
 Hoifung (live): One thing in my own experience & also related to Y's question in the chat  (see below), when I first got into the field, I expected I'd go to a medical conference and doctors would tell me exactly what I need to do.  Usually it's not like that.  On the other side, they don't know what we can do.  On one hand, they think of us as IT++ (e.g. Can you show 50 results instead of 20 results).  On the other spectrum, they think of us as being able to do anything that can be done by humans.  So we (computer scientists) need to get into a little bit of the medical lingo & know enough to figure out their pain points and match that pain point to what NLP is capable of doing.  We're very far from AI-complete, so there are only certain things we can help.  But like Byron & Asma mentioned, once you find those initial matches, the opportunities just...  (Hoifung indicated here there's a lot). 
 
 
-Q3:  "How much domain knowledge do you need to get started in BioMed work?  Do you have to start from a point where you understand this text as an NLP researcher?"
+**Q3:  "How much domain knowledge do you need to get started in BioMed work?  Do you have to start from a point where you understand this text as an NLP researcher?"**
 
 Hoifung (live):  One interesting thing Mausam said many years ago when he saw one of the PubMed slides was "Is this English?" :D  It can be intimidating the first time you see some BioMed text.  There are a couple things:  (1) Biology and medicine is a very intimate subject.  You learn about that and it's actually useful everyday.  So it can be very joyful to learn about some of those things.  (2) I posed that exact question when I first joined MSR.  I said "David, I'm definitely a layman.  Can I make contributions?"  And he (David Heckerman) said that biomedicine is like a sea that's only 1 meter deep.  It has a lot of concepts (e.g. UMLS has millions of concepts), but for any particular use case (e.g. precision oncology) you can quickly learn enough to be able to understand the abstract problem.  It's not like quantum mechanics where you need 10 years and a post doc to even understand what's going on.  I wouldn't consider that as a big deterrent.  But we as a community can definitely help lower the entry barrier - e.g. if you look at in NLP, there are tons of leaderboard, benchmarks, open source code, etc.  So I think for BioMed or SciNLP in general, if we as a community can start to combine with these benchmarks & leaderboards so they can substantially lower the entry barrier.
 
 
-Q4: "How well do you think we have done in communicating science to the larger public in this time? What do you think is the role of NLP researchers in this?"
+**Q4: "How well do you think we have done in communicating science to the larger public in this time? What do you think is the role of NLP researchers in this?"**
 
 Byron (live):  Maybe some work in simplification can go a long way.  And it's probably a pretty do-able thing.  You can try to build models that can simplify technical literature.  Maybe this is tangentially-related, but it's something I've been thinking about a lot.  As summarization systems have gotten quite good, if we're going to start doing that, then the issue of factuality in abstractive summarization becomes paramount in a way that seems super important.  Of course it's always important in summarization, and maybe I'm showing my own biases, but I think that's a really important direction - Enforcing factuality in a system that's summarizing scientific literature.
 
 Asma (live):  Scientists have an important role, especially in defining research directions in the future.  Simplifying the language to make it more understandable by non-professional / non-expert users.  Also, fact-checking, for example, is one of the tasks that we need to work on, to at least check the information that has been published these last months (and maybe years in the future), because now people are publishing faster than before & we don't have the time to check things.  Working on models for fact-checking and misinformation is one of the directions that's very important, in addition to simplifying scientific papers for the public.  
 
-Q5: "What is your vision on the policy consequence of scientific NLP (both in biomedical and in general science)? Such as informing better NIH/NSF grant policies for solving replication crisis, exploring unknown frontier, etc."
+**Q5: "What is your vision on the policy consequence of scientific NLP (both in biomedical and in general science)? Such as informing better NIH/NSF grant policies for solving replication crisis, exploring unknown frontier, etc."**
 
 Hoifung (live): We try to separate problems into "machine reading" (e.g. take the author at face value and extract; a task that's relatively easy to evaluate by anyone who's knowledgable about the domain), and on top of that is a much harder problem.  That is, we have an ocean of author face-value statements from 30M papers - What do make of it?  What's the consensus of the community?  How much should I trust this more than others?  That part we attribute to "assembly" or "reasoning".  For that part, it's much harder to get to "ground-truth".  The top scientists might not even agree on something.  That's why we started with some work in knowledge graph embedding & reasoning, but we've sort of retreated back into the safe zone in "machine reading" because we know how to evaluate it.  But I think there's a huge opportunity - How do we actually reason about corpus-level belief?
 
