@@ -55,7 +55,7 @@ Q5: “Will this be new functionality in Google Scholar?”
 
 A5: “Too early to say. Those decisions are above my pay-grade 🙂”
 
-### Unanswered
+**Unanswered**
 
 Zoom: "Is there a reason that you focused on biomedical literature, vs. for instance physics or chemistry?"
 
@@ -109,7 +109,7 @@ Y: "Authors who publish in English are most definitely not necessarily fluent in
 
 David's repsonse: "Fully agree Y and L! I do think that lots of journalists initially communicate via email which might be easier for less fluent authors though (that said, controlling for this better is something we’re looking at)"
 
-### Unanswered
+**Unanswered**
 
 Zoom: "Random effects for journalists?"
 
@@ -134,7 +134,7 @@ Q4 (follow-up from another audience member): "+1 and also, is the data (papers +
 
 A4 (live): 100% of the data is free under CC-BY-SA.  It's essentially a collection of JSONs.  You can download all of them and do whatever kind of research you want on that.  If you want to do some type of research, you can also get in touch and I might be able to help you.
 
-### Unanswered
+**Unanswered**
 
 Zoom: "Is the focus on equating tasks with scores on datasets good or bad for DL-science in the long run?"
 
@@ -156,7 +156,7 @@ Q1: "How does MAG discard (if it does!) articles of dubious standing (say pseudo
 
 A1 (live): For low-quality content, we actually leverage some external/whole web information by calling the Bing API to see if the top results are really coming from more prestigious/reputable domains, and we'll do classification from there.
 
-### Unanswered questions
+**Unanswered**
 
 Zoom: "With the increased availability of full-text open access articles, will it be possible for MAG to parse the entirety of the content in articles (not only abstracts)? Is it expected to reduce the number of orphan fields of study?"
 
