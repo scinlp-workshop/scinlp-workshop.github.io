@@ -2,6 +2,9 @@
 
 Talk recordings are now live on [YouTube](https://www.youtube.com/playlist?list=PLOTELVgUs9jKW2EkJbAyi6DcunfaXf0r6)!
 
+Transcripts of talk & panel Q&A are available [here](https://github.com/scinlp-workshop/scinlp-workshop.github.io/blob/master/scinlp2020_qa.md).
+
+
 The 1st [SciNLP](#about) workshop at [AKBC 2020](https://www.akbc.ws/2020/) has concluded.  Thanks to all who participated (invited speakers, poster presenters, attendees)!
 
 Please take some time to fill out our **[Feedback Form](https://forms.gle/VbRsJnWUQcwtzfpN8)**.  We'll use this to improve our processes & gauge interest in future SciNLP events.
