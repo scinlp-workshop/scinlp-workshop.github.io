@@ -93,20 +93,21 @@ Q3: "Any thoughts on the origin of this bias? Is it the journalists ignore these
 
 A3 (live):  I don't think it's the journalists.  We didn't see anything systematic in terms of the journalist.  We also manually coded them for ethnicity for the most prolific journalists. We are controlling for the journal/venue itself, so it should at least normalize for discoverability across different venues.
 
+Q4: "Are the news outlets primarily located in us/canada and northern european countrys?"
+
+A4 (audience-answered; in chat): "yes they are U.S. news outlets"
+
 **Comments from audience:**
 
-Lucy: "Foreign institutions may not have press offices that are well connected to these news outlets though."
+L: "Foreign institutions may not have press offices that are well connected to these news outlets though."
 
-Yoav: "Authors who publish in English are most definitely not necessarily fluent in English!"
+Y: "Authors who publish in English are most definitely not necessarily fluent in English!"
 
-David's repsonse: "Fully agree Yoav and Lucy! I do think that lots of journalists initially communicate via email which might be easier for less fluent authors though (that said, controlling for this better is something we’re looking at)"
+David's repsonse: "Fully agree Y and L! I do think that lots of journalists initially communicate via email which might be easier for less fluent authors though (that said, controlling for this better is something we’re looking at)"
 
 ### Unanswered
 
 Zoom: "Random effects for journalists?"
-
-Zoom: "Are the news outlets primarily located in us/canada and northern european countrys?"
-
 
 
 # Robert Stojnic
@@ -115,22 +116,32 @@ Zoom: "Are the news outlets primarily located in us/canada and northern european
 
 Q1: "Is "papers with code" in your view meant primarily for academic researchers or for industry researchers?"
 
+A1 (live): We tried to have both use cases served. For academic researchers, maybe in your field you know very well how the latest papers compare, but as soon as you go to an adjacent field, it's hard to keep up with what's happening.  We're trying to collect this information for researchers like "I'm maybe an NLP researcher but what's happening in computer vision?" We want to help researchers follow what's the cutting edge in machine learning.  But we're also trying to help machine learning engineers at the same time - When building NLP models, it's nice to see all the methodologies & code libraries to see which one is easiest to use/fits my use case.  By linking all these artifacts, I'm hoping we can serve all these use cases.
+
 Q2: "How do you link entities of tasks from each paper? (Is the information easy to download for the public? i.e. is it within one of the three available download links in the about section?)"
 
-Q3: "Is the focus on equating tasks with scores on datasets good or bad for DL-science in the long run?"
+A2 (live):  For task linking, it's probably the most rudimentary of all the stuff we're doing.  We look at abstracts and do some basic keyword matching, and then the community comes in and curates it. That works relatively well (kind of).  There's problems with recall. We're working on a new way of doing this by looking at the citations, what types of datasets they're looking at, looking at the tables, but it hasn't hit production yet.
 
-Q4: "At any point do you envision your platform (since you have both code and the paper) where one might interactively play with the parameters and see results in relation to the rest of the results / papers you index.. sort of live experiments where possible?"
+Q3: "Are components of this platform open, and can people adapt them for other collaborative efforts around paper extractions, maybe for results in other domains?"
 
-Q5: "Are components of this platform open, and can people adapt them for other collaborative efforts around paper extractions, maybe for results in other domains?"
+A3 (live): Everything we do in terms of extraction is on our GitHub.  So you can go and have a look there.
 
-Q6 (follow-up from another audience member): "+1 and also, is the data (papers + extracted results) available for e.g. creating a dataset for training supervised extraction?"
+Q4 (follow-up from another audience member): "+1 and also, is the data (papers + extracted results) available for e.g. creating a dataset for training supervised extraction?"
 
-Q7: "The new accessibility standards for PDF require rather strict formatting of tables for the software for visually challenged users to read them.  Do you plan to use this formatting when available?"
+A4 (live): 100% of the data is free under CC-BY-SA.  It's essentially a collection of JSONs.  You can download all of them and do whatever kind of research you want on that.  If you want to do some type of research, you can also get in touch and I might be able to help you.
+
+### Unanswered
+
+Zoom: "Is the focus on equating tasks with scores on datasets good or bad for DL-science in the long run?"
+
+Zoom: "At any point do you envision your platform (since you have both code and the paper) where one might interactively play with the parameters and see results in relation to the rest of the results / papers you index.. sort of live experiments where possible?"
+
+Zoom: "The new accessibility standards for PDF require rather strict formatting of tables for the software for visually challenged users to read them.  Do you plan to use this formatting when available?"
 
 
 **More comments from audience:**
 
-Jodi: "Thanks for baking licensing in! :)"
+J: "Thanks for baking licensing in! :)"
 
 
 # Iris Shen
@@ -185,15 +196,15 @@ A2: “Good question, we are working on this now -- stay tuned 🙂. I think it 
 
 **Comments from audience about Q1**
 
-Lingfei: "My quick guess on Sidhu’s question: Unlike other domains, science is all about using the same terminology to talk about new ideas. Citation is expert-label data on the hidden association between ideas, which may or may not be easily recognized by machines."
+L: "My quick guess on Sidhu’s question: Unlike other domains, science is all about using the same terminology to talk about new ideas. Citation is expert-label data on the hidden association between ideas, which may or may not be easily recognized by machines."
 
 **More comments from audience**
 
-Samuel: "by Stigler's Law: typically everyone cites the *second* paper ;)"
+S: "by Stigler's Law: typically everyone cites the *second* paper ;)"
 
-Anita: "Acronym identification will be a core requirement for future summarization tools"
+A: "Acronym identification will be a core requirement for future summarization tools"
 
-Marti: "I like the simplicity of the SPECTER approach; really neat!"
+M: "I like the simplicity of the SPECTER approach; really neat!"
 
 
 
@@ -207,7 +218,7 @@ A1 (in-chat): "Excellent question! That's partially the motivation for deep prob
 
 **More comments from audience**
 
-Lucy: "exchange coffee for knowledge :D"
+L: "exchange coffee for knowledge :D"
 
 ### Rocket chat
 
@@ -268,13 +279,13 @@ Q3: "I am curious if you use the XML version of PMC articles in your pipeline, o
 
 **More comments from audience**
 
-Jodi: "Upwork = great place for “expert sourcing”."
+J: "Upwork = great place for “expert sourcing”."
 
-yogo: "Byron don't sell your work short! (who cares that its "simple" if it works and is useful?? that's even better if its simple)"
+Y: "Byron don't sell your work short! (who cares that its "simple" if it works and is useful?? that's even better if its simple)"
 
-Jodi: "For COVID-19 papers, this is a good list: https://retractionwatch.com/retracted-coronavirus-covid-19-papers/.  Overall I’d recommend the RetractionDatabase (may require licensing) is http://retractiondatabase.org/RetractionSearch.aspx"
+J: "For COVID-19 papers, this is a good list: https://retractionwatch.com/retracted-coronavirus-covid-19-papers/.  Overall I’d recommend the RetractionDatabase (may require licensing) is http://retractiondatabase.org/RetractionSearch.aspx"
 
-Lucy: "the PICO formalism is very nice to have"
+L: "the PICO formalism is very nice to have"
 
 ### Rocket chat
 
@@ -302,25 +313,25 @@ Q5: "What is your vision on the policy consequence of scientific NLP (both in bi
 
 **Discussion in Zoom chat**
 
-Osnat: "Is it a problem that solving practical, real world problems using exisiting tools is not glamerous enough? (re Byron's comment)"
+O: "Is it a problem that solving practical, real world problems using exisiting tools is not glamerous enough? (re Byron's comment)"
 
-Yoav: "If solving real world problems with existing tools" is not glamorous enough in NLP, maybe NLP community should focus on empowering the interested parties to solve the problems themselves."
+Y: "If solving real world problems with existing tools" is not glamorous enough in NLP, maybe NLP community should focus on empowering the interested parties to solve the problems themselves."
 
-Ruben: "I think it is. If you compare CS to other domains, e.g., engineering, the research is much more applied."
+R: "I think it is. If you compare CS to other domains, e.g., engineering, the research is much more applied."
 
-Yoav: "We currently don't offer any such option."
+Y: "We currently don't offer any such option."
 
-Jodi: "+1 Yoav!"
+J: "+1 Y!"
 
-Yoav (response to panelist answers): "I am still curious about your experience with handing them tools vs handing them results."
+Y (response to panelist answers): "I am still curious about your experience with handing them tools vs handing them results."
 
-Byron: "@Yoav my take on this is that most applications will need some sort of customization; so this lends to bespoke models/tools -- but some sort of flexible set of tools may suffice; agree that we're not there yet though"
+Byron: "@Y my take on this is that most applications will need some sort of customization; so this lends to bespoke models/tools -- but some sort of flexible set of tools may suffice; agree that we're not there yet though"
 
-Jodi: "There is a field in medicine called “implementation and dissemination science”. I think we need an “implementation and dissemination science” of NLP."
+J: "There is a field in medicine called “implementation and dissemination science”. I think we need an “implementation and dissemination science” of NLP."
 
 Hoifung: "In my experience, usually it's not so simple as handing tools or results. We often need a substantial investment to understand the problem space and come up with a productive abstraction, which is quite different from what the med folks originally articulate. So I'd say identifying stakeholders and defining problems is first priority. Then come up with evaluation metric and data. Afterward, it's more conventional territory for NLPers :)"
 
-Yoav: "ML "standardized" their tools with sklearn. What can NLP offer? (spacy / hugging-face is not it)"
+Y: "ML "standardized" their tools with sklearn. What can NLP offer? (spacy / hugging-face is not it)"
 
-Osnat: "Very importnat point raised by Yoav indeed"
+O: "Very importnat point raised by Y indeed"
 
