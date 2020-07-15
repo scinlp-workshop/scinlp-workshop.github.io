@@ -261,9 +261,18 @@ A8: “Yes. In deep probabilistic logic, we use graphical model for modeling sel
 
 Q1: "Can you talk a bit more about consumer health QA and the goals of the NIH around this?  Whether there are public-facing goals?"
 
-Q2: "What are some interesting distinctions between clinical and consumer domains, and how can the data from one be leveraged to improve performance in the other domain?"
+A1 (live): The goal is to build a system that is able to support customer service and the NLM in answering questions that the NLM receives everyday.  We built a first consumer-health QA system called CHIQA which is available online at [https://chiqa.nlm.nih.gov/](https://chiqa.nlm.nih.gov/). The system is able to answer a wide range of medical questions, but we continue to investigate and improve the system by working on summarizing the answers / analyzing more questions / improving the answers for several question types / adding more images or videos related to the answers.
+
+Q2: "What are some interesting distinctions between clinical and consumer domains"
+
+A2 (live): For consumers, it's more questions asked by patients or their families, so we are all health consumers.  So for healthcare, so there'll be more types of questions than there are asked by professionals or other actors within the healthcare system.  
+
+Q3: "How can the data from one be leveraged to improve performance in the other domain?"
+
+A3 (live): Yes, I think all the experiments I did since 2016, I usually use the collection of questions asked by family doctors (clinical questions) and they always help/improve results when I use them for training models for consumer-health questions.
 
 Q3: "What was the source for VQA work?"
+
 A3 (in-chat): "For VQA, I used MedPix annotations to create the VQA-Med 2019 and 2020 questions and answers. If you mean the VQA-RAD dataset: the questions and answers were written by medical students."
 
 
@@ -273,9 +282,15 @@ A3 (in-chat): "For VQA, I used MedPix annotations to create the VQA-Med 2019 and
 
 Q1: "How does TrialStreamer get updated when papers are retracted?"
 
+A1 (live):  I guess right now we don't, so that's something we should probably do.  That's a fair point, we should!
+
 Q2: "Have you also looked into how to leverage other types of trials, like cohort studies? Or do you have thoughts on why not to include them?"
 
+A2 (live):  We haven't.  I would like to get to a point where we can really meaningfully tease out the semantic representations of the RCTs because that's such a nice understandable design.  Once we can do that (and we're getting there) then I would love to move on to other designs.  Of course you can do meta-analyses of non-RCTs.  I like RCTs as a problem because it constitutes a constrained-enough universe where I feel like we can make real progress (and it's already pretty hard).  We're not right now, but of course I would like to.
+
 Q3: "I am curious if you use the XML version of PMC articles in your pipeline, or do you use the PDF articles?"
+
+A3 (live):  RobotReviewer will operate over PDFs, in general.  But for Evidence Inference & the sake of the data being released, we obviously use the XMLs because they're much nicer.
 
 **More comments from audience**
 
@@ -307,6 +322,8 @@ Q2: "Can you comment on collaboration modes, in particular "medical folks" defin
 Q3: "How well do  you think we have done in communicating science to the larger public in this time? Do you think we have a role to play there? What might some research questions there be?"
 
 Q4: "How do you assess/evaluate output of your work (during initial stages) without asking too much input from Biomed experts. Or is domain knowledge sort of important entry criteria to work?"
+
+Asma (offline): "Generally, by designing and creating a (small) test set for the targeted task, manually validated (or annotated, if possible) by domain experts. Defining and validating the annotation guidelines with medical experts is a good starting point towards learning more about the domain and the task before building automatic systems."
 
 Q5: "What is your vision on the policy consequence of scientific NLP (both in biomedical and in general science)? Such as informing better NIH/NSF grant policies for solving replication crisis, exploring unknown frontier, etc."
 
