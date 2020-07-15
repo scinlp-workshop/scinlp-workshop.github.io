@@ -1,6 +1,6 @@
 # SciNLP 2020 Invited Speaker Q&A
 
-This is a transcript of questions and answers for our invited speakers.  We recorded conversations on both Rocket Chat and Zoom.  We've edited typed questions/answers that contained typos or grammatical errors, but tried to remain faithful to the original content.  Please let us know if anything in here is incorrect!
+This is a transcript of questions and answers for our invited speakers.  We recorded conversations on both Rocket Chat and Zoom.  We've edited typed questions/answers that contained typos or grammatical errors, but tried to remain faithful to the original content.  We've also transcribed answers to questions that were given live during the presentation (so there might be some mistakes).  Please let us know if anything in here is incorrect!
 
 In speaker order:
 * [Ryan McDonald](#ryan-mcdonald)
@@ -20,10 +20,11 @@ In speaker order:
 
 Q1: "Do you generate questions at different passage granularities? I imagine the types of questions generated at a document level would be quite different from something generated at a sentence level for example."
 
-Q2: "Could you comment further on entity linking and discovery, and its impact on QA in Sci Literature?"
+A1 (live): Right now, we basically divide documents into sections.  And we generate questions at the whole-section level - so abstract, intro, etc..  And we generate questions at the sentence-level, as well.  Since it's a lot of questions, we've experimented with using IDF weights to pick which sentences are more content-full.  So far, we've found that much of that hasn't really affected the quality of the neural model.
 
-Q3: "Is there a reason that you focused on biomedical literature, vs. for instance physics or chemistry?"
+Q2: "Could you comment further on entity linking and discovery, and its impact on QA in Scientific Literature?"
 
+A2 (live): I'll comment on what we've experimented with.  When you ask questions like 'What regulates the Warburg effect?', which is our prototypical question since it has a lot of nice properties: (1) you have to understand the predicate-argument structure to make sure you get the right answer (2) more interestingly, there are a lot of things that regulate it.  What we've found is that, in order to show users useful results, a very effective solution is to look for answers - parts of the document that answer the question - link that to ontologies, and then cluster by those linkages - doing a hard cluster (i.e., everything linking to the same node in the ontology is in the same cluster) - and show results that way (by entities as opposed to a list of documents).  In qualitative feedback, we've been told that's a very useful thing to do, but I don't have any quantiative UX studies on that front.
 
 
 ### Rocket chat
@@ -49,15 +50,20 @@ A4: “We don't have a GitHub, but all the resources we use are basically public
 Q5: “Will this be new functionality in Google Scholar?”
 
 A5: “Too early to say. Those decisions are above my pay-grade 🙂”
- 
- 
+
+### Unanswered
+
+Zoom: "Is there a reason that you focused on biomedical literature, vs. for instance physics or chemistry?"
+
+
+
 # Vivi Nastase
 
 ### Zoom chat
 
 Q1: "Curious whether there would be special considerations in other domains?"
 
-
+A1 (live): We haven't on any domain-specific knowledge graph, but the code for any of these things is online.  So if anybody is interested in trying it out, then it's there.  We only thought about our own narrow interests - this ACL graph that we're trying to build - but we haven't gotten there. I think we should try it out. 
 
 ### Rocket chat
 
@@ -74,15 +80,18 @@ A2: “We work with the OCR-ed, and even did some word segmentation correction t
 
 ### Zoom chat
 
-Q1: "Random effects for journalists?"
 
-Q2: "What are the topics that journalists cover without mentioning authors?"
+Q1: "What are the topics that journalists cover without mentioning authors?"
 
-Q3: "Are the news outlets primarily located in us/canada and northern european countrys?"
+A1 (live):  It's actually a lot.  A lot of it has to do with food and health.  So like "Chocolate cures cancer" and it's like "Researchers at blablabla have found that eating so much chocolate will improve something" but they don't actually cite the particular study.  I don't think we've seen / we didn't dig too much into the topics there.
 
-Q4: "Have you considered communication barriers? (perhaps foreign authors tend to respond less to journalists)"
+Q2: "Have you considered communication barriers? (perhaps foreign authors tend to respond less to journalists)"
 
-Q5: "Any thoughts on the origin of this bias? Is it the journalists ignore these minority authors or is it a discoverability issue (e.g. search engine bias)?"
+A2 (live):  Yeah, we tried to get at that whether the author's home institution is in the US or out of the US to control for this.  All of the authors are writing English-language papers, so it's not like they're not fluent in English to some degree. We didn't see any strong effect there either.  But yeah, maybe fluency is playing a role in this.
+
+Q3: "Any thoughts on the origin of this bias? Is it the journalists ignore these minority authors or is it a discoverability issue (e.g. search engine bias)?"
+
+A3 (live):  I don't think it's the journalists.  We didn't see anything systematic in terms of the journalist.  We also manually coded them for ethnicity for the most prolific journalists. We are controlling for the journal/venue itself, so it should at least normalize for discoverability across different venues.
 
 **Comments from audience:**
 
@@ -91,6 +100,13 @@ Lucy: "Foreign institutions may not have press offices that are well connected t
 Yoav: "Authors who publish in English are most definitely not necessarily fluent in English!"
 
 David's repsonse: "Fully agree Yoav and Lucy! I do think that lots of journalists initially communicate via email which might be easier for less fluent authors though (that said, controlling for this better is something we’re looking at)"
+
+### Unanswered
+
+Zoom: "Random effects for journalists?"
+
+Zoom: "Are the news outlets primarily located in us/canada and northern european countrys?"
+
 
 
 # Robert Stojnic
@@ -121,13 +137,17 @@ Jodi: "Thanks for baking licensing in! :)"
 
 ### Zoom chat
 
-Q1: "With the increased availability of full-text open access articles, will it be possible for MAG to parse the entirety of the content in articles (not only abstracts)? Is it expected to reduce the number of orphan fields of study?"
+Q1: "How does MAG discard (if it does!) articles of dubious standing (say pseudoscience or extremely controversial content) from its publication index?"
 
-Q2: "How does MAG discard (if it does!) articles of dubious standing (say pseudoscience or extremely controversial content) from its publication index?"
+A1 (live): For low-quality content, we actually leverage some external/whole web information by calling the Bing API to see if the top results are really coming from more prestigious/reputable domains, and we'll do classification from there.
 
-Q3: "What about a new concept clusters / trees?  As in, a group of new concepts can arise all at once.  How does the algorithm handle cases like this? Some may be leaf nodes of other new concepts..."
+### Unanswered questions
 
-Q4: "Is BERT-Large performing better than AllenAI models (SciBERT and siblings) for MAG?"
+Zoom: "With the increased availability of full-text open access articles, will it be possible for MAG to parse the entirety of the content in articles (not only abstracts)? Is it expected to reduce the number of orphan fields of study?"
+
+Zoom: "What about a new concept clusters / trees?  As in, a group of new concepts can arise all at once.  How does the algorithm handle cases like this? Some may be leaf nodes of other new concepts..."
+
+Zoom: "Is BERT-Large performing better than AllenAI models (SciBERT and siblings) for MAG?"
 
 
 
@@ -135,18 +155,29 @@ Q4: "Is BERT-Large performing better than AllenAI models (SciBERT and siblings) 
 
 ### Zoom chat
 
-Q1: "Could you please explain more how the input of the pretrained transformer is represented ? every paper is represented as a sentence with |SEP| between the three papers ?"
+Q1: "Could you please explain more how the input of the pretrained transformer is represented ? every paper is represented as a sentence with |SEP| between the three papers?"
 
-Q2: "The scientific concepts extraction algorithm is very cool! How domain-independent do you think the heuristic is?  Will it work on Bio/Chem/Phys as well as on CS?"
+Q2: “Why does Pretrained Transformer perform poor given that Abstract, Title and Conclusion are information dense?”
+
+A2 (live):  The story is really that document-level semantics is kind of a different end point than his within-document masked language model objective that the pretrained Transformer is trained on.  So it's not aimed at producing a single embedding that captures the semantics of the whole passage.  At least, not in the sense that we were consuming it in the paper-embeddings tasks.  I don't have a great reason for why it's true; I was a little surprised by how bad it was.  I'm still a little puzzled by that result, but it's really the difference between the document-level topic objective and the token-level masked language model objective that drives a lot of it.
+
+Q3: "The scientific concepts extraction algorithm is very cool! How domain-independent do you think the heuristic is?  Will it work on Bio/Chem/Phys as well as on CS?"
+
+A3 (live):  I would think/hope that it's fairly domain-independent since it's fairly simple (it just uses the citation structure).
 
 Q3 (follow-up; clarification): "I guess the question is "is the citation structure in CS and other fields similar"
+
+A3 (DanielKing continued answer live):  So we did a little bit with the PubMed corpus (and ran it on the CORD-19 corpus) and there are certainly some differences in the citation structure (CS has this tendency to name stuff that isn't necessarily present in their field), but the top concepts looked to be similar precision in Bio, which is the other domain.  Haven't tried other domains.  Definitely there are citation pattern differences across fields.
+
 
 
 ### Rocket chat
 
-Q1: “Why does Pretrained Transformer perform poor given that Abstract, Title and Conclusion are information dense?”
 
-A1: “You're right that the raw semantic content needed to represent the paper well is there (btw we use just title+abstract, not conclusion, but the point remains the same). The problem is that the embeddings output by the off-the-shelf transformer didn't tend to capture that document-level information well, in our experiments. Finetuning the transformer on the citation objective helps ensure that the document-level semantics ends up in the embeddings.”
+
+Q1 (repeat from Zoom): “Why does Pretrained Transformer perform poor given that Abstract, Title and Conclusion are information dense?”
+
+A1 (chat): “You're right that the raw semantic content needed to represent the paper well is there (btw we use just title+abstract, not conclusion, but the point remains the same). The problem is that the embeddings output by the off-the-shelf transformer didn't tend to capture that document-level information well, in our experiments. Finetuning the transformer on the citation objective helps ensure that the document-level semantics ends up in the embeddings.”
 
 Q2: “How would AI2's Longformer (https://github.com/allenai/longformer) fare on the tasks in the table in which SPECTER was compared to baselines?"
 
