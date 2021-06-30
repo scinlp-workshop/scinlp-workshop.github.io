@@ -158,6 +158,8 @@ TBD
 
 # Call for abstracts
 
+<!--
+
 We welcome submissions of **short abstracts (1 page max)** related to the above research areas. Submissions may include previously published results, late-breaking results, and work in progress.  Relevant submissions will be accepted for **video presentation** in the virtual poster session.  **The workshop is non-archival**, so participants are free to also submit their work for publication elsewhere.
 
 To submit an abstract, please send an email to **scinlp@googlegroups.com** with the subject line "SCINLP submission: [TITLE]". Please include:
@@ -177,11 +179,13 @@ If you have a disability and require accommodation in order to fully participate
 * [SDP](https://ornlcda.github.io/SDProc) at EMNLP 2020
 * [BioNLP](https://aclweb.org/aclwiki/BioNLP_Workshop) at ACL 2020
 
-
+-->
 
 
 # About
 
+
+<!--
 The primary goal of this half-day workshop is to bring together researchers from diverse fields
 who are interested in extracting and representing knowledge from scientific text, and/or
 applications or methods for improving access to and understanding of such knowledge. Such
@@ -206,7 +210,7 @@ Medicine, Computer Science, Physics, Economics, Sociology, etc.) that can come f
 variety of text sources (e.g. scholarly papers, surveys and technical reports, patents, tweets
 by scholars, blogs/tutorials, etc.)
 
-
+-->
 
 # Registration
 Registration for SciNLP will be through the [AKBC 2021](https://www.akbc.ws/2021/) conference.  There is a fee of $30 for students and $50 for non-students.  Registering gives you access to the full conference & workshops.  There is no special registration for workshop only.
