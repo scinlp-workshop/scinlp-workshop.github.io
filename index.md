@@ -1,4 +1,4 @@
-# 2nd SciNLP: Natural Language Processing and Data Mining for Scientific Text
+# SciNLP 2021: 2nd International Workshop on Natural Language Processing for Scientific Text
 
 <!--
 Talk recordings are now live on [YouTube](https://www.youtube.com/playlist?list=PLOTELVgUs9jKW2EkJbAyi6DcunfaXf0r6)!
