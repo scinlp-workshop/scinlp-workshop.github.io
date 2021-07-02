@@ -215,7 +215,11 @@ by scholars, blogs/tutorials, etc.)
 -->
 
 # Registration
-Registration for SciNLP will be through the [AKBC 2021](https://www.akbc.ws/2021/) conference.  There is a fee of $30 for students and $50 for non-students.  Registering gives you access to the full conference & workshops.  There is no special registration for workshop only.
+Registration for SciNLP will be through the [AKBC 2021](https://www.akbc.ws/2021/) conference.
+
+<!--
+There is a fee of $30 for students and $50 for non-students.  Registering gives you access to the full conference & workshops.  There is no special registration for workshop only.
+-->
 
 
 # Previous workshops
