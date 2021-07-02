@@ -158,6 +158,8 @@ TBD
 
 # Call for abstracts
 
+TBD
+
 <!--
 
 We welcome submissions of **short abstracts (1 page max)** related to the above research areas. Submissions may include previously published results, late-breaking results, and work in progress.  Relevant submissions will be accepted for **video presentation** in the virtual poster session.  **The workshop is non-archival**, so participants are free to also submit their work for publication elsewhere.
@@ -182,10 +184,10 @@ If you have a disability and require accommodation in order to fully participate
 -->
 
 
+<!--
 # About
 
 
-<!--
 The primary goal of this half-day workshop is to bring together researchers from diverse fields
 who are interested in extracting and representing knowledge from scientific text, and/or
 applications or methods for improving access to and understanding of such knowledge. Such
