@@ -40,6 +40,25 @@ The goal of SciNLP is to promote scientific literature (not just news & wiki) as
 If you are unsure about whether your work is relevant to our workshop, please reach out to us at **scinlp@googlegroups.com**
 
 
+# SUBMISSION GUIDELINES
+
+To submit an abstract, please send an email to **scinlp@googlegroups.com** with the subject line “SCINLP submission: [TITLE]”. Please include:
+
+- Abstract in PDF format (1-2 pages max, not including references) as an attachment. Abstracts will be lightly reviewed to ensure that the topic is within the scope of the workshop.
+- Indicate which of the authors will be presenting the work. We require each accepted work to provide a **poster describing the work**. We will reach out with poster uploading instructions after acceptance notification.
+- Indicate the **scientific domain(s)** and **source(s) of scientific text** relevant to the submission; for example, scientific domain could be “Biology, Genomics” while source of text could be “Peer-reviewed abstracts from PubMed”.
+
+All accepted abstracts (and their posters) will be made available online prior to the workshop and remain accessible afterwards.  See [last year’s abstract submissions](https://scinlp.org/history/2020/#poster-sessions) for examples.
+
+If you require accommodation in order to fully participate in the workshop, please let us know and we’ll be in touch to discuss how we can best address your needs.
+
+# IMPORTANT DATES
+
+- August 20, 2021: Submission deadline
+- September 10, 2021: Notification of workshop paper acceptance
+- October 1, 2021: Deadline to upload accepted posters
+- October 7, 2021: Workshop
+
 
 # Contact
 
@@ -47,7 +66,7 @@ Feel free to contact us at **scinlp@googlegroups.com** or on Twitter via **#SciN
 
 Join the **[mailing list](https://groups.google.com/forum/#!forum/scinlp-info)** to receive announcements.
 
-**Organizers:**
+# WORKSHOP ORGANIZERS
 
 * Arman Cohan [@armancohan](https://twitter.com/armancohan), Allen Institute for AI
 * [Pradeep Dasigi](https://pdasigi.github.io/), Allen Institute for AI
@@ -185,25 +204,6 @@ TBD
 
 TBD
 -->
-
-# SUBMISSION GUIDELINES
-
-To submit an abstract, please send an email to **scinlp@googlegroups.com** with the subject line “SCINLP submission: [TITLE]”. Please include:
-
-- Abstract in PDF format (1-2 pages max, not including references) as an attachment. Abstracts will be lightly reviewed to ensure that the topic is within the scope of the workshop.
-- Indicate which of the authors will be presenting the work. We require each accepted work to provide a **poster describing the work**. We will reach out with poster uploading instructions after acceptance notification.
-- Indicate the **scientific domain(s)** and **source(s) of scientific text** relevant to the submission; for example, scientific domain could be “Biology, Genomics” while source of text could be “Peer-reviewed abstracts from PubMed”.
-
-All accepted abstracts (and their posters) will be made available online prior to the workshop and remain accessible afterwards.  See [last year’s abstract submissions](https://scinlp.org/history/2020/#poster-sessions) for examples.
-
-If you require accommodation in order to fully participate in the workshop, please let us know and we’ll be in touch to discuss how we can best address your needs.
-
-# IMPORTANT DATES
-
-- August 20, 2021: Submission deadline
-- September 10, 2021: Notification of workshop paper acceptance
-- October 1, 2021: Deadline to upload accepted posters
-- October 7, 2021: Workshop
 
 
 <!--
