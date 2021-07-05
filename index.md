@@ -171,7 +171,7 @@ All accepted abstracts & YouTube video presentations are listed below:
 | 3              | Orion: An interactive information retrieval system for scientific knowledge discovery                                             | Kostas Stathoulopoulos, Zac Ioannidis, Lilia Villafuerte                                                                                          | [abs](https://scinlp.org/pdfs/orion-an-interactive-information-retrieval-system-for-scientific-knowledge-discovery.pdf) [vid](https://www.youtube.com/watch?v=m0s5sjlpfAY)                                              |
 -->
 
-# Panel discussion: 
+# Panel Discussion: 
 
 TBD
 
@@ -191,7 +191,7 @@ We will be curating questions from the audience beforehand (as well as live duri
 
 -->
 
-# Invited talks
+# Invited Talks
 
 TBD
 
@@ -270,5 +270,5 @@ There is a fee of $30 for students and $50 for non-students.  Registering gives 
 -->
 
 
-# Previous workshops
+# Previous Workshops
 [SciNLP 2020](history/2020/) at AKBC 2020
