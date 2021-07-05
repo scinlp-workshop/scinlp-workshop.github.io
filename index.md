@@ -19,7 +19,7 @@ We aim to have 4 invited speakers and a poster session. Relevant submissions wil
 - LOCATION: Virtual online event, co-hosted with [AKBC 2021](https://www.akbc.ws/2021/)
 - ABSTRACT SUBMISSION DEADLINE: August 20, 2021
 - WORKSHOP WEBSITE: https://scinlp.org/
-\
+
 
 # Topics of Interest
 
@@ -38,7 +38,7 @@ We welcome research relevant to processing text in any domain of science (e.g. B
 The goal of SciNLP is to promote scientific literature (not just news & wiki) as a serious domain of NLP. We would like the workshop to provide a forum for researchers in this field to discover new advances on scientific text understanding, get feedback on early work, and identify existing research gaps and collaboration opportunities.
 
 If you are unsure about whether your work is relevant to our workshop, please reach out to us at **scinlp@googlegroups.com**
-\
+
 
 # Submission Guidelines
 
@@ -51,7 +51,7 @@ To submit an abstract, please send an email to **scinlp@googlegroups.com** with 
 All accepted abstracts (and their posters) will be made available online prior to the workshop and remain accessible afterwards.  See [last year’s abstract submissions](https://scinlp.org/history/2020/#poster-sessions) for examples.
 
 If you require accommodation in order to fully participate in the workshop, please let us know and we’ll be in touch to discuss how we can best address your needs.
-\
+
 
 # Important Dates
 
@@ -59,7 +59,7 @@ If you require accommodation in order to fully participate in the workshop, plea
 - September 10, 2021: Notification of workshop paper acceptance
 - October 1, 2021: Deadline to upload accepted posters
 - October 7, 2021: Workshop
-\
+
 
 # Contact
 
@@ -78,7 +78,7 @@ Join the **[mailing list](https://groups.google.com/forum/#!forum/scinlp-info)**
 * [Lucy Lu Wang](https://llwang.net/) [@lucyluwang](https://twitter.com/lucyluwang), Allen Institute for AI
 * Ivana Williams, Chan Zuckerberg Initiative
 * [Dongxu Zhang](https://sites.google.com/site/zhangdongxuu/home), University of Massachusetts, Amherst
-\
+
 
 <!--
 # Links
@@ -260,7 +260,7 @@ variety of text sources (e.g. scholarly papers, surveys and technical reports, p
 by scholars, blogs/tutorials, etc.)
 
 -->
-\
+
 
 # Registration
 Registration for SciNLP will be through the [AKBC 2021](https://www.akbc.ws/2021/) conference.
@@ -268,7 +268,7 @@ Registration for SciNLP will be through the [AKBC 2021](https://www.akbc.ws/2021
 <!--
 There is a fee of $30 for students and $50 for non-students.  Registering gives you access to the full conference & workshops.  There is no special registration for workshop only.
 -->
-\
+
 
 # Previous workshops
 [SciNLP 2020](history/2020/) at AKBC 2020
