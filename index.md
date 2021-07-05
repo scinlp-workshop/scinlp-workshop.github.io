@@ -15,13 +15,13 @@ The Workshop on Natural Language Processing for Scientific Texts, [SciNLP 2021](
 
 We aim to have 4 invited speakers and a poster session. Relevant submissions will be accepted for the virtual poster session. **The workshop is non-archival**, so participants may also submit their work for publication elsewhere.
 
-
 - DATE: Oct 7, 2021
 - LOCATION: Virtual online event, co-hosted with [AKBC 2021](https://www.akbc.ws/2021/)
 - ABSTRACT SUBMISSION DEADLINE: August 20, 2021
-- WORKSHOP WEBSITE: https://scinlp.org/ 
+- WORKSHOP WEBSITE: https://scinlp.org/
+\
 
-# TOPICS OF INTEREST
+# Topics of Interest
 
 The primary goal of this workshop is to bring together researchers from diverse fields who are interested in building computational systems that extract, represent the knowledge in scientific texts, and/or provide humans better access to such knowledge. 
 
@@ -38,9 +38,9 @@ We welcome research relevant to processing text in any domain of science (e.g. B
 The goal of SciNLP is to promote scientific literature (not just news & wiki) as a serious domain of NLP. We would like the workshop to provide a forum for researchers in this field to discover new advances on scientific text understanding, get feedback on early work, and identify existing research gaps and collaboration opportunities.
 
 If you are unsure about whether your work is relevant to our workshop, please reach out to us at **scinlp@googlegroups.com**
+\
 
-
-# SUBMISSION GUIDELINES
+# Submission Guidelines
 
 To submit an abstract, please send an email to **scinlp@googlegroups.com** with the subject line “SCINLP submission: [TITLE]”. Please include:
 
@@ -51,14 +51,15 @@ To submit an abstract, please send an email to **scinlp@googlegroups.com** with 
 All accepted abstracts (and their posters) will be made available online prior to the workshop and remain accessible afterwards.  See [last year’s abstract submissions](https://scinlp.org/history/2020/#poster-sessions) for examples.
 
 If you require accommodation in order to fully participate in the workshop, please let us know and we’ll be in touch to discuss how we can best address your needs.
+\
 
-# IMPORTANT DATES
+# Important Dates
 
 - August 20, 2021: Submission deadline
 - September 10, 2021: Notification of workshop paper acceptance
 - October 1, 2021: Deadline to upload accepted posters
 - October 7, 2021: Workshop
-
+\
 
 # Contact
 
@@ -66,7 +67,7 @@ Feel free to contact us at **scinlp@googlegroups.com** or on Twitter via **#SciN
 
 Join the **[mailing list](https://groups.google.com/forum/#!forum/scinlp-info)** to receive announcements.
 
-# WORKSHOP ORGANIZERS
+# Workshop Organizers
 
 * Arman Cohan [@armancohan](https://twitter.com/armancohan), Allen Institute for AI
 * [Pradeep Dasigi](https://pdasigi.github.io/), Allen Institute for AI
@@ -77,7 +78,7 @@ Join the **[mailing list](https://groups.google.com/forum/#!forum/scinlp-info)**
 * [Lucy Lu Wang](https://llwang.net/) [@lucyluwang](https://twitter.com/lucyluwang), Allen Institute for AI
 * Ivana Williams, Chan Zuckerberg Initiative
 * [Dongxu Zhang](https://sites.google.com/site/zhangdongxuu/home), University of Massachusetts, Amherst
-
+\
 
 <!--
 # Links
@@ -259,6 +260,7 @@ variety of text sources (e.g. scholarly papers, surveys and technical reports, p
 by scholars, blogs/tutorials, etc.)
 
 -->
+\
 
 # Registration
 Registration for SciNLP will be through the [AKBC 2021](https://www.akbc.ws/2021/) conference.
@@ -266,7 +268,7 @@ Registration for SciNLP will be through the [AKBC 2021](https://www.akbc.ws/2021
 <!--
 There is a fee of $30 for students and $50 for non-students.  Registering gives you access to the full conference & workshops.  There is no special registration for workshop only.
 -->
-
+\
 
 # Previous workshops
 [SciNLP 2020](history/2020/) at AKBC 2020
