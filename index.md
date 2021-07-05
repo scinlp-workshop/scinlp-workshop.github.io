@@ -11,6 +11,36 @@ Please take some time to fill out our **[Feedback Form](https://forms.gle/VbRsJn
 
 -->
 
+The Workshop on Natural Language Processing for Scientific Texts, [SciNLP 2021](https://scinlp.org/), will once again be hosted at [AKBC 2021](https://www.akbc.ws/2021/), as an on-line event. This year's SciNLP focus is on **Understanding Scientific Text**. We welcome submissions of **extended abstracts (1-2 pages only, not including references)** on research areas related to Understanding Scientific Text. Submissions may include previously published results, late-breaking results, and work in progress.
+
+We aim to have 4 invited speakers and a poster session. Relevant submissions will be accepted for the virtual poster session. **The workshop is non-archival**, so participants may also submit their work for publication elsewhere.
+
+
+- DATE: Oct 7, 2021
+- LOCATION: Virtual online event, co-hosted with [AKBC 2021](https://www.akbc.ws/2021/)
+- ABSTRACT SUBMISSION DEADLINE: August 20, 2021
+- WORKSHOP WEBSITE: https://scinlp.org/ 
+
+# TOPICS OF INTEREST
+
+The primary goal of this workshop is to bring together researchers from diverse fields who are interested in building computational systems that extract, represent the knowledge in scientific texts, and/or provide humans better access to such knowledge. 
+
+Accordingly, the focus of this year’s SciNLP will be **Understanding Scientific Text**, and we welcome discussions about research that falls under this focus area, including those describing work-in-progress. Examples of such research include, but are not limited to:
+
+- **Methods** in natural language processing for extracting and representing knowledge from scientific text (e.g. information extraction, entity normalization, discourse analysis, parsing, knowledge base construction, weak/distant supervision, crowdsourcing), especially in low resource scenarios that are common while processing scientific texts
+- **Applications** of these methods to improving scientific knowledge discovery and/or understanding (e.g. summarization, text generation, translation, question answering, automated literature review, search and recommender systems, techniques for data exploration and visualization),
+- **Fairness** (e.g. augmented or assistive paper reading, concept simplification, scientific education and literacy),
+- **Science of science** studies (in particular, studies that shed light on phenomena that can motivate future research in above-mentioned areas), and
+- **Datasets**, **Resources** (e.g. treebanks, knowledge bases), and **Tools** (e.g. software libraries, annotation interfaces) for conducting research in such areas, especially for supporting research in underserved areas (e.g. SciNLP on non-English papers).
+
+We welcome research relevant to processing text in any domain of science (e.g. Biology, Medicine, Computer Science, Physics, Economics, Sociology, etc.) that can come from a variety of text sources (e.g. scholarly papers, surveys and technical reports, patents, tweets by scholars, blogs/tutorials, etc.)
+
+The goal of SciNLP is to promote scientific literature (not just news & wiki) as a serious domain of NLP. We would like the workshop to provide a forum for researchers in this field to discover new advances on scientific text understanding, get feedback on early work, and identify existing research gaps and collaboration opportunities.
+
+If you are unsure about whether your work is relevant to our workshop, please reach out to us at **scinlp@googlegroups.com**
+
+
+
 # Contact
 
 Feel free to contact us at **scinlp@googlegroups.com** or on Twitter via **#SciNLP**!
@@ -156,9 +186,25 @@ TBD
 TBD
 -->
 
-# Call for abstracts
+# SUBMISSION GUIDELINES
 
-TBD
+To submit an abstract, please send an email to **scinlp@googlegroups.com** with the subject line “SCINLP submission: [TITLE]”. Please include:
+
+- Abstract in PDF format (1-2 pages max, not including references) as an attachment. Abstracts will be lightly reviewed to ensure that the topic is within the scope of the workshop.
+- Indicate which of the authors will be presenting the work. We require each accepted work to provide a **poster describing the work**. We will reach out with poster uploading instructions after acceptance notification.
+- Indicate the **scientific domain(s)** and **source(s) of scientific text** relevant to the submission; for example, scientific domain could be “Biology, Genomics” while source of text could be “Peer-reviewed abstracts from PubMed”.
+
+All accepted abstracts (and their posters) will be made available online prior to the workshop and remain accessible afterwards.  See [last year’s abstract submissions](https://scinlp.org/history/2020/#poster-sessions) for examples.
+
+If you require accommodation in order to fully participate in the workshop, please let us know and we’ll be in touch to discuss how we can best address your needs.
+
+# IMPORTANT DATES
+
+- August 20, 2021: Submission deadline
+- September 10, 2021: Notification of workshop paper acceptance
+- October 1, 2021: Deadline to upload accepted posters
+- October 7, 2021: Workshop
+
 
 <!--
 
