@@ -15,7 +15,7 @@ The Workshop on Natural Language Processing for Scientific Texts, [SciNLP 2021](
 
 We aim to have 4 invited speakers and a poster session. Relevant submissions will be accepted for the virtual poster session. **The workshop is non-archival**, so participants may also submit their work for publication elsewhere.
 
-- DATE: Oct 7, 2021
+- DATE: Oct 8, 2021
 - LOCATION: Virtual online event, co-hosted with [AKBC 2021](https://www.akbc.ws/2021/)
 - ABSTRACT SUBMISSION DEADLINE: August 20, 2021
 - WORKSHOP WEBSITE: https://scinlp.org/
@@ -58,7 +58,7 @@ If you require accommodation in order to fully participate in the workshop, plea
 - August 20, 2021: Submission deadline
 - September 10, 2021: Notification of workshop paper acceptance
 - October 1, 2021: Deadline to upload accepted posters
-- October 7, 2021: Workshop
+- October 8, 2021: Workshop
 
 
 # Contact
