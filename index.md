@@ -193,7 +193,7 @@ We will be curating questions from the audience beforehand (as well as live duri
 
 # Invited Talks
 
-* Andrew Crowse, Precision Medicine Institute, University of Alabama at Birmingham
+* Andrew Crouse, Precision Medicine Institute, University of Alabama at Birmingham
 * [Marti Hearst](https://people.ischool.berkeley.edu/~hearst/), University of California Berkeley
 * [Maria Liakata](https://www.turing.ac.uk/people/researchers/maria-liakata), Queen Mary, University of London
 * [Zhiyong Lu](https://www.ncbi.nlm.nih.gov/research/bionlp/Zhiyong-Lu), National Center for Biotechnology Information
