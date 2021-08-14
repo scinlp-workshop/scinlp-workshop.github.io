@@ -17,7 +17,7 @@ We aim to have 4 invited speakers and a poster session. Relevant submissions wil
 
 - DATE: Oct 8, 2021
 - LOCATION: Virtual online event, co-hosted with [AKBC 2021](https://www.akbc.ws/2021/)
-- ABSTRACT SUBMISSION DEADLINE: August 20, 2021
+- ABSTRACT SUBMISSION DEADLINE: ~~August 20, 2021~~ September 1st, 2021
 - WORKSHOP WEBSITE: https://scinlp.org/
 
 
@@ -55,7 +55,7 @@ If you require accommodation in order to fully participate in the workshop, plea
 
 # Important Dates
 
-- August 20, 2021: Submission deadline
+- ~~August 20, 2021~~ September 1st, 2021: Submission deadline
 - September 10, 2021: Notification of workshop paper acceptance
 - October 1, 2021: Deadline to upload accepted posters
 - October 8, 2021: Workshop
