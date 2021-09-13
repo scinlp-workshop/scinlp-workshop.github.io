@@ -164,9 +164,6 @@ All accepted abstracts & YouTube video presentations are listed below:
 | 3              | Orion: An interactive information retrieval system for scientific knowledge discovery                                             | Kostas Stathoulopoulos, Zac Ioannidis, Lilia Villafuerte                                                                                          | [abs](https://scinlp.org/pdfs/orion-an-interactive-information-retrieval-system-for-scientific-knowledge-discovery.pdf) [vid](https://www.youtube.com/watch?v=m0s5sjlpfAY)                                              |
 -->
 
-# Panel Discussion: 
-
-TBD
 
 <!--
 # Panel discussion: The role of scientific NLP during an epidemic
@@ -186,9 +183,9 @@ We will be curating questions from the audience beforehand (as well as live duri
 
 # Invited Talks
 
-## Andrew Crouse, Precision Medicine Institute, University of Alabama at Birmingham
+## Andrew Crouse
 
-## [Marti Hearst](https://people.ischool.berkeley.edu/~hearst/), University of California Berkeley
+## [Marti Hearst](https://people.ischool.berkeley.edu/~hearst/)
 
 **Broadening Access to Scientific Research via NLP-Enhanced User Interfaces**
 
@@ -198,18 +195,17 @@ This research is supported by a grant from the Alfred P. Sloan Foundation, and A
 
 *Marti Hearst is a Professor at UC Berkeley in the School of Information and the Computer Science Division. Her research encompasses user interfaces with a focus on search, information visualization with a focus on text, computational linguistics, and educational technology. She is the author of Search User Interfaces, the first academic book on that topic. She is a former President of the Association for Computational Linguistics, a member of the CHI Academy, the SIGIR Academy, an ACM Fellow, and has received four Excellence in Teaching Awards from the students of UC Berkeley. She received her PhD, MS, and BA degrees in Computer Science from UC Berkeley and was a member of the research staff at Xerox PARC.*
 
-## [Maria Liakata](https://www.turing.ac.uk/people/researchers/maria-liakata), Queen Mary, University of London
+## [Maria Liakata](https://www.turing.ac.uk/people/researchers/maria-liakata)
 
-## [Zhiyong Lu](https://www.ncbi.nlm.nih.gov/research/bionlp/Zhiyong-Lu), National Center for Biotechnology Information
+## [Zhiyong Lu](https://www.ncbi.nlm.nih.gov/research/bionlp/Zhiyong-Lu)
 
 **Biomedical Text Mining for Knowledge Discovery**
 
 The explosion of biomedical big data and information in the past decade or so has created new opportunities for discoveries to improve the treatment and prevention of human diseases. But the large body of knowledge — which mostly exists as free text in journal articles for humans to read — presents a grand new challenge: individual scientists around the world are increasingly finding themselves overwhelmed by the sheer volume of research literature and are struggling to keep up to date and to make sense of this wealth of textual information. Our research aims to break down this barrier and to empower scientists towards accelerated knowledge discovery. In this talk, I will present our work on developing large-scale, machine-learning based tools for better understanding scientific text in the biomedical literature. Moreover, I will demonstrate their uses in some real-world applications such as improving PubMed searches, scaling up data curation with PubTator, and taming COVID-19 pandemic paper tsunami in LitCovid.
 
-*Dr. Zhiyong Lu is a Senior Investigator at the National Library of Medicine’s (NLM) [Intramural Research Program](https://www.nlm.nih.gov/research/researchstaff/staff-index.html), leading research in biomedical text and image processing, information retrieval, and machine learning. As Deputy Director for Literature Search at the National Center of Biotechnology Information (NCBI), Dr. Lu also directs the overall R&D efforts to improve literature search and information access (e.g. PubMed Search; LitCovid). Over the years, Dr. Lu has mentored over 40 trainees and is a highly cited author with ~300 peer-reviewed articles. Dr. Lu is a Fellow of the American College of Medical Informatics (ACMI), Associate Editor of Bioinformatics, and Organizer of the BioCreative challenge series. 
-*
+*Dr. Zhiyong Lu is a Senior Investigator at the National Library of Medicine’s (NLM) [Intramural Research Program](https://www.nlm.nih.gov/research/researchstaff/staff-index.html), leading research in biomedical text and image processing, information retrieval, and machine learning. As Deputy Director for Literature Search at the National Center of Biotechnology Information (NCBI), Dr. Lu also directs the overall R&D efforts to improve literature search and information access (e.g. PubMed Search; LitCovid). Over the years, Dr. Lu has mentored over 40 trainees and is a highly cited author with ~300 peer-reviewed articles. Dr. Lu is a Fellow of the American College of Medical Informatics (ACMI), Associate Editor of Bioinformatics, and Organizer of the BioCreative challenge series.*
 
-## [Jevin D. West](https://www.jevinwest.org/), University of Washington
+## [Jevin D. West](https://www.jevinwest.org/)
 
 
 # Registration
