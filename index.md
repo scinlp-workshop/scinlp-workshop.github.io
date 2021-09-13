@@ -98,9 +98,9 @@ Join the **[mailing list](https://groups.google.com/forum/#!forum/scinlp-info)**
 
 **Date / Time**: October 8th from 7:50AM - 12:30PM PDT (UTC-7).
 
-Total estimated 4.5 hours.  All times are in PDT (UTC-7):
-
 <!---
+
+All times are in PDT (UTC-7):
 
 * 7:50        - Open session
 * 8:00-8:40   - [Maria Liakata](#maria-liakata) (40 min)
