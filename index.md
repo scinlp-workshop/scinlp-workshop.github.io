@@ -96,29 +96,22 @@ Join the **[mailing list](https://groups.google.com/forum/#!forum/scinlp-info)**
 
 # Schedule
 
-TBD
+**Date / Time**: October 8th from 7:50AM - 12:30PM PDT (UTC-7).
 
-<!--
-**Date / Time**: June 25th from 8AM - 1PM PDT (UTC-7).
+Total estimated 4.5 hours.  All times are in PDT (UTC-7):
 
-Total estimated 300 minutes (5 hrs).  All times are in PDT (UTC-7):
+* 7:50        - Open session
+* 8:00-8:40   - [Maria Liakata](#maria-liakata) (40 min)
+* 8:40-9:20   - [Andrew Crouse](#andrew-crouse) (40 min)
+* 9:20-9:25   - Break (5 min)
+* 9:25-10:05  - [Zhiyong Lu](#zhiyong-lu) (40 min)
+* 10:05-10:45 - [Jevin D. West](#jevin-d.-west) (40 min)
+* 10:45-10:50 - Break (5 min)
+* 10:50-11:30 - [Marti Hearst](#marti-hearst) (40 min)
+* 11:30-12:30 - Poster session (60 min)
+* 12:30       - Closing
 
-* 8:00        - START
-* 8:00-8:25   - [Ryan McDonald](#ryan-mcdonald) (25 min)
-* 8:25-8:50   - [Vivi Nastase](#vivi-nastase) (25 min)
-* 8:50-9:15   - [David Jurgens](#david-jurgens) (25 min)
-* 9:15-9:40   - [Robert Stojnic](#robert-stojnic) (25 min)
-* 9:40-10:25  - [Poster sessions](#poster-sessions) (45 min)
-* 10:25-10:50 - [Iris Shen](#iris-shen) (25 min)
-* 10:50-11:15 - [Doug Downey](#doug-downey) (25 min)
-* 11:15-11:40 - [Hoifung Poon](#hoifung-poon) (25 min)
-* 11:40-12:05 - [Asma Ben Abacha](#asma-ben-abacha) (25 min)
-* 12:05-12:30 - [Byron Wallace](#byron-wallace) (25 min)
-* 12:30-1:00  - [Panel discussion and Q&A](#panel-discussion-the-role-of-scientific-nlp-during-an-epidemic) (30 min)
-* 1:00        - END
-
-Each invited talk is roughly 20 min (plus 5 min after for Q&A and buffer time for transitions).
--->
+Each invited talk is roughly 35 min (plus 5 min after for Q&A and buffer time for transitions).
 
 <!--
 # Poster sessions
@@ -193,77 +186,30 @@ We will be curating questions from the audience beforehand (as well as live duri
 
 # Invited Talks
 
-* Andrew Crouse, Precision Medicine Institute, University of Alabama at Birmingham
-* [Marti Hearst](https://people.ischool.berkeley.edu/~hearst/), University of California Berkeley
-* [Maria Liakata](https://www.turing.ac.uk/people/researchers/maria-liakata), Queen Mary, University of London
-* [Zhiyong Lu](https://www.ncbi.nlm.nih.gov/research/bionlp/Zhiyong-Lu), National Center for Biotechnology Information
-* [Jevin D. West](https://www.jevinwest.org/), University of Washington
+## Andrew Crouse, Precision Medicine Institute, University of Alabama at Birmingham
 
-<!--
+## [Marti Hearst](https://people.ischool.berkeley.edu/~hearst/), University of California Berkeley
 
-## [Zhiyong Lu](https://www.ncbi.nlm.nih.gov/research/bionlp/Zhiyong-Lu)
+**Broadening Access to Scientific Research via NLP-Enhanced User Interfaces**
 
-TBD
+Key to understanding the latest developments in AI and other branches of science is being able to comprehend what is written in research papers. Even experienced researchers are having trouble keeping up with the literature, and the mathematical content of machine learning papers can be especially challenging for those less familiar with technical content.   To help broaden access to the scientific literate, the ScholarPhi project -- a collaboration between UC Berkeley, AI2, and U Washington -- has been developing new user interfaces for improving the reading of scientific articles.  This includes context-relevant explanations of technical terms and notation, and eventually, tools to improve the writing of such papers.
+Scientific scholarly text presents numerous challenges to NLP algorithms, many of which do not work with high accuracy on this complex data source.   Our efforts have uncovered interesting language phenomena, and led to innovations in NLP algorithm design.  It has also underscored the especially difficult task of annotating language phenomena in this domain.  In this talk I will discuss these and other challenges to help inspire research in this important and exciting domain.
+This research is supported by a grant from the Alfred P. Sloan Foundation, and AI2.
 
-## [Andrew Crouse](https://www.uab.edu/medicine/pmi/our-team)
+*Marti Hearst is a Professor at UC Berkeley in the School of Information and the Computer Science Division. Her research encompasses user interfaces with a focus on search, information visualization with a focus on text, computational linguistics, and educational technology. She is the author of Search User Interfaces, the first academic book on that topic. She is a former President of the Association for Computational Linguistics, a member of the CHI Academy, the SIGIR Academy, an ACM Fellow, and has received four Excellence in Teaching Awards from the students of UC Berkeley. She received her PhD, MS, and BA degrees in Computer Science from UC Berkeley and was a member of the research staff at Xerox PARC.*
 
-TBD
--->
+## [Maria Liakata](https://www.turing.ac.uk/people/researchers/maria-liakata), Queen Mary, University of London
 
+## [Zhiyong Lu](https://www.ncbi.nlm.nih.gov/research/bionlp/Zhiyong-Lu), National Center for Biotechnology Information
 
-<!--
+**Biomedical Text Mining for Knowledge Discovery**
 
-We welcome submissions of **short abstracts (1 page max)** related to the above research areas. Submissions may include previously published results, late-breaking results, and work in progress.  Relevant submissions will be accepted for **video presentation** in the virtual poster session.  **The workshop is non-archival**, so participants are free to also submit their work for publication elsewhere.
+The explosion of biomedical big data and information in the past decade or so has created new opportunities for discoveries to improve the treatment and prevention of human diseases. But the large body of knowledge — which mostly exists as free text in journal articles for humans to read — presents a grand new challenge: individual scientists around the world are increasingly finding themselves overwhelmed by the sheer volume of research literature and are struggling to keep up to date and to make sense of this wealth of textual information. Our research aims to break down this barrier and to empower scientists towards accelerated knowledge discovery. In this talk, I will present our work on developing large-scale, machine-learning based tools for better understanding scientific text in the biomedical literature. Moreover, I will demonstrate their uses in some real-world applications such as improving PubMed searches, scaling up data curation with PubTator, and taming COVID-19 pandemic paper tsunami in LitCovid.
 
-To submit an abstract, please send an email to **scinlp@googlegroups.com** with the subject line "SCINLP submission: [TITLE]". Please include:
-        
-* Abstract in PDF format (1-page max) as an attachment.  Abstracts will be lightly reviewed to ensure that the topic is within the scope of the workshop.
-* Indicate which of the authors will be presenting the work.  We require each accepted work to provide a **~2 minute video** recording of the presentation.  We will reach out with video uploading instructions *after* acceptance notification.  Video length requirements may change depending on the number of submissions.
-* Indicate the scientific domain(s) and source(s) of scientific text relevant to the submission; for example, scientific domain could be “Genomics” while source of text could be “Peer-reviewed papers from PubMed”.
+*Dr. Zhiyong Lu is a Senior Investigator at the National Library of Medicine’s (NLM) [Intramural Research Program](https://www.nlm.nih.gov/research/researchstaff/staff-index.html), leading research in biomedical text and image processing, information retrieval, and machine learning. As Deputy Director for Literature Search at the National Center of Biotechnology Information (NCBI), Dr. Lu also directs the overall R&D efforts to improve literature search and information access (e.g. PubMed Search; LitCovid). Over the years, Dr. Lu has mentored over 40 trainees and is a highly cited author with ~300 peer-reviewed articles. Dr. Lu is a Fellow of the American College of Medical Informatics (ACMI), Associate Editor of Bioinformatics, and Organizer of the BioCreative challenge series. 
+*
 
-**Writing guidelines:**  These abstracts can be longer than the typical abstracts for a full research paper.  Figures and tables are allowed, but will count toward the length limit.  References will *not* count toward the length limit.  Abstracts do not have to be about a single paper; we allow abstracts that summarize a collection of works under a unified theme (e.g., a series of closely-related papers that build on each other or tackle a common problem).  **For writing examples, see the accepted abstracts from last year's [SLKB](https://sites.google.com/view/akbc-sci/home#h.p_gSgV1fypJAMf) workshop at AKBC 2019.** 
-
-All accepted abstracts (and their videos) will be made available online prior to the workshop and remain accessible afterwards.
-
-If you have a disability and require accommodation in order to fully participate in the workshop, please let us know and we'll be in touch to discuss how we can best address your needs.
-
-**Can't make it?** Check out these other upcoming workshops related to NLP and text mining over scientific text:
-
-* [SDP](https://ornlcda.github.io/SDProc) at EMNLP 2020
-* [BioNLP](https://aclweb.org/aclwiki/BioNLP_Workshop) at ACL 2020
-
--->
-
-
-<!--
-# About
-
-
-The primary goal of this half-day workshop is to bring together researchers from diverse fields
-who are interested in extracting and representing knowledge from scientific text, and/or
-applications or methods for improving access to and understanding of such knowledge. Such
-research includes, but is not limited to:
-
-* **Methods** in natural language processing and data mining for extracting and representing
-knowledge from scientific text (e.g. information extraction, entity normalization, discourse
-analysis, parsing, summarization, text generation, question answering, knowledge base
-construction, weak/distant supervision, crowdsourcing),
-* **Applications** of these methods to improving scientific knowledge discovery and/or
-understanding (e.g. automated literature review, search and recommender systems,
-techniques for data exploration and visualization),
-* **Fairness** (e.g. augmented or assistive paper reading, concept simplification, scientific
-education and literacy),
-* **Science of science** studies (in particular, studies that shed light on phenomena that can
-motivate future research in above-mentioned areas), and
-* **Datasets**, **Resources** (e.g. treebanks, knowledge bases), and **Tools** (e.g. software
-libraries, annotation interfaces) for conducting research in such areas.
-
-We welcome research relevant to processing text in any domain of science (e.g. Biology,
-Medicine, Computer Science, Physics, Economics, Sociology, etc.) that can come from a
-variety of text sources (e.g. scholarly papers, surveys and technical reports, patents, tweets
-by scholars, blogs/tutorials, etc.)
-
--->
+## [Jevin D. West](https://www.jevinwest.org/), University of Washington
 
 
 # Registration
