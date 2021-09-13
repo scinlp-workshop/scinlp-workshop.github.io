@@ -185,6 +185,8 @@ We will be curating questions from the audience beforehand (as well as live duri
 
 ## Andrew Crouse
 
+TBA
+
 ## [Marti Hearst](https://people.ischool.berkeley.edu/~hearst/)
 
 **Broadening Access to Scientific Research via NLP-Enhanced User Interfaces**
@@ -197,6 +199,8 @@ This research is supported by a grant from the Alfred P. Sloan Foundation, and A
 
 ## [Maria Liakata](https://www.turing.ac.uk/people/researchers/maria-liakata)
 
+TBA
+
 ## [Zhiyong Lu](https://www.ncbi.nlm.nih.gov/research/bionlp/Zhiyong-Lu)
 
 **Biomedical Text Mining for Knowledge Discovery**
@@ -207,6 +211,7 @@ The explosion of biomedical big data and information in the past decade or so ha
 
 ## [Jevin D. West](https://www.jevinwest.org/)
 
+TBA
 
 # Registration
 Registration for SciNLP will be through the [AKBC 2021](https://www.akbc.ws/2021/) conference.
