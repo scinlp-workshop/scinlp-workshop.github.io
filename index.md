@@ -99,7 +99,8 @@ Join the **[mailing list](https://groups.google.com/forum/#!forum/scinlp-info)**
 **Date / Time**: October 8th from 7:50AM - 12:30PM PDT (UTC-7).
 
 Total estimated 4.5 hours.  All times are in PDT (UTC-7):
-<!--
+
+<!---
 
 * 7:50        - Open session
 * 8:00-8:40   - [Maria Liakata](#maria-liakata) (40 min)
@@ -117,8 +118,8 @@ Total estimated 4.5 hours.  All times are in PDT (UTC-7):
 |                | West Coast (UTC-7) | East Coast (UTC-4) | Europe (UTC+2) | Beijing (UTC+8) | Length |
 |----------------|--------------------|--------------------|----------------|----------------|-----------------|--------|
 | Open session   |            7:50 AM |              10:50 |          16:50 |           22:50 |   0:10 |
-| [Maria Liakata](#maria-liakata)  |            8:00 AM |              11:00 |          18:00 |           23:00 |   0:40 |
-| [Andrew Crouse](#andrew-crouse)  |            8:40 AM |              11:40 |          18:40 |           23:40 |   0:40 |
+| [Maria Liakata](#maria-liakata)  |            8:00 AM |              11:00 |          17:00 |           23:00 |   0:40 |
+| [Andrew Crouse](#andrew-crouse)  |            8:40 AM |              11:40 |          17:40 |           23:40 |   0:40 |
 | Break          |            9:20 AM |              12:20 |          18:20 |            0:20 |   0:05 |
 | [Zhiyong Lu](#zhiyong-lu)     |            9:25 AM |              12:25 |          18:25 |            0:25 |   0:40 |
 | [Jevin D. West](#jevin-d.-west)  |           10:05 AM |              13:05 |          19:05 |            1:05 |   0:40 |
