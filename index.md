@@ -99,7 +99,7 @@ Join the **[mailing list](https://groups.google.com/forum/#!forum/scinlp-info)**
 **Date / Time**: October 8th from 7:50AM - 12:30PM PDT (UTC-7).
 
 Total estimated 4.5 hours.  All times are in PDT (UTC-7):
-
+<!--
 * 7:50        - Open session
 * 8:00-8:40   - [Maria Liakata](#maria-liakata) (40 min)
 * 8:40-9:20   - [Andrew Crouse](#andrew-crouse) (40 min)
@@ -110,6 +110,20 @@ Total estimated 4.5 hours.  All times are in PDT (UTC-7):
 * 10:50-11:30 - [Marti Hearst](#marti-hearst) (40 min)
 * 11:30-12:30 - Poster session (60 min)
 * 12:30       - Closing
+-->
+
+|                | West Coast (UTC-7) | East Coast (UTC-4) | Europe (UTC+2) | Israel (UTC+3) | Beijing (UTC+8) | Length |
+|----------------|--------------------|--------------------|----------------|----------------|-----------------|--------|
+| Open session   |            7:50 AM |              10:50 |          16:50 |          17:50 |           22:50 |   0:10 |
+| [Maria Liakata](#maria-liakata)  |            8:00 AM |              11:00 |          17:00 |          18:00 |           23:00 |   0:40 |
+| [Andrew Crouse](#andrew-crouse)  |            8:40 AM |              11:40 |          17:40 |          18:40 |           23:40 |   0:40 |
+| Break          |            9:20 AM |              12:20 |          18:20 |          19:20 |            0:20 |   0:05 |
+| [Zhiyong Lu](#zhiyong-lu)     |            9:25 AM |              12:25 |          18:25 |          19:25 |            0:25 |   0:40 |
+| [Jevin D. West](#jevin-d.-west)  |           10:05 AM |              13:05 |          19:05 |          20:05 |            1:05 |   0:40 |
+| Break          |           10:45 AM |              13:45 |          19:45 |          20:45 |            1:45 |   0:05 |
+| [Marti Hearst](#marti-hearst)   |           10:50 AM |              13:50 |          19:50 |          20:50 |            1:50 |   0:40 |
+| Poster session |           11:30 AM |              14:30 |          20:30 |          21:30 |            2:30 |   1:00 |
+| Closing        |           12:30 PM |              15:30 |          21:30 |          22:30 |            3:30 |   0:05 |
 
 Each invited talk is roughly 35 min (plus 5 min after for Q&A and buffer time for transitions).
 
