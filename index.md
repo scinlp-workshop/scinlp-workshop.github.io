@@ -216,7 +216,11 @@ This research is supported by a grant from the Alfred P. Sloan Foundation, and A
 
 ## [Maria Liakata](https://www.turing.ac.uk/people/researchers/maria-liakata)
 
-TBA
+**Towards automatically understanding and measuring the contributions of scientific work**
+
+Researchers in NLP have been working on the automatic extraction of information from scientific articles for over two decades. A key aspect in this line of research is capturing how scientists discuss their work, the scientific discourse. I will give a brief overview of early work on identifying the scientific discourse and how this can improve downstream tasks involving the extraction of information from the scientific literature. I will then present more recent work on the relation between the scientific discourse and the way it is represented in the news as a step towards understanding the more comprehensive (non-academic) impact of scientific work.
+
+*Maria Liakata is a Turing AI fellow and Professor in Natural Language Processing (NLP) at the School of Electronic Engineering and Computer Science, Queen Mary University of London. She is also honorary Professor at the Department of Computer Science, University of Warwick. At the Turing she founded and co-leads the NLP and data science for mental health special interest groups and supervises PhD students.  Maria is in receipt of a five year EPSRC/UKRI Turing AI Fellowship which involves developing new methods for NLP and multi-modal data to allow the creation of [longitudinal personalized language monitoring](https://www.turing.ac.uk/research/research-projects/time-sensitive-sensing-language-and-user-generated-content). She is also the co-PI of projects on Mobile Sensing of Altered EveryDay Function in Early Alzheimer’s Disease (MEDEA), "Language sensing for dementia monitoring & diagnosis", "Opinion summarization from social media", "PANACEA: An AI-enabled evidence-driven framework for claim veracity assessment during pandemics". She leads a team of 5 RAs and 8 PhD students.*
 
 ## [Zhiyong Lu](https://www.ncbi.nlm.nih.gov/research/bionlp/Zhiyong-Lu)
 
