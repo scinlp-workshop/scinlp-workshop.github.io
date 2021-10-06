@@ -174,11 +174,11 @@ Join the **[mailing list](https://groups.google.com/forum/#!forum/scinlp-info)**
 # Workshop Organizers
 
 * Arman Cohan [@armancohan](https://twitter.com/armancohan), Allen Institute for AI
-* [Pradeep Dasigi](https://pdasigi.github.io/), Allen Institute for AI
+* [Pradeep Dasigi](https://pdasigi.github.io/) [@pdasigi](https://twitter.com/pdasigi), Allen Institute for AI
 * Tom Hope, Allen Institute for AI
 * Kyle Lo [@kylelostat](https://twitter.com/kylelostat), Allen Institute for AI
 * Sunil Mohan, Chan Zuckerberg Initiative
-* Alex Wade, Chan Zuckerberg Initiative
+* Alex Wade [@alexwade](https://twitter.com/@alexwade), Allen Institute for AI
 * [Lucy Lu Wang](https://llwang.net/) [@lucyluwang](https://twitter.com/lucyluwang), Allen Institute for AI
 * Ivana Williams, Chan Zuckerberg Initiative
 * [Dongxu Zhang](https://sites.google.com/site/zhangdongxuu/home), University of Massachusetts, Amherst
