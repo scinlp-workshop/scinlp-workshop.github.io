@@ -11,33 +11,7 @@ Please take some time to fill out our **[Feedback Form](https://forms.gle/VbRsJn
 
 -->
 
-The Workshop on Natural Language Processing for Scientific Texts, [SciNLP 2021](https://scinlp.org/), will once again be hosted at [AKBC 2021](https://www.akbc.ws/2021/), as an on-line event. This year's SciNLP focus is on **Understanding Scientific Text**. We welcome submissions of **extended abstracts (1-2 pages only, not including references)** on research areas related to Understanding Scientific Text. Submissions may include previously published results, late-breaking results, and work in progress.
-
-We aim to have 4 invited speakers and a poster session. Relevant submissions will be accepted for the virtual poster session. **The workshop is non-archival**, so participants may also submit their work for publication elsewhere.
-
-- DATE: Oct 8, 2021
-- LOCATION: Virtual online event, co-hosted with [AKBC 2021](https://www.akbc.ws/2021/)
-- ABSTRACT SUBMISSION DEADLINE: ~~August 20, 2021~~ September 1st, 2021
-- WORKSHOP WEBSITE: https://scinlp.org/
-
-
-# Topics of Interest
-
-The primary goal of this workshop is to bring together researchers from diverse fields who are interested in building computational systems that extract, represent the knowledge in scientific texts, and/or provide humans better access to such knowledge. 
-
-Accordingly, the focus of this year’s SciNLP will be **Understanding Scientific Text**, and we welcome discussions about research that falls under this focus area, including those describing work-in-progress. Examples of such research include, but are not limited to:
-
-- **Methods** in natural language processing for extracting and representing knowledge from scientific text (e.g. information extraction, entity normalization, discourse analysis, parsing, knowledge base construction, weak/distant supervision, crowdsourcing), especially in low resource scenarios that are common while processing scientific texts
-- **Applications** of these methods to improving scientific knowledge discovery and/or understanding (e.g. summarization, text generation, translation, question answering, automated literature review, search and recommender systems, techniques for data exploration and visualization),
-- **Fairness** (e.g. augmented or assistive paper reading, concept simplification, scientific education and literacy),
-- **Science of science** studies (in particular, studies that shed light on phenomena that can motivate future research in above-mentioned areas), and
-- **Datasets**, **Resources** (e.g. treebanks, knowledge bases), and **Tools** (e.g. software libraries, annotation interfaces) for conducting research in such areas, especially for supporting research in underserved areas (e.g. SciNLP on non-English papers).
-
-We welcome research relevant to processing text in any domain of science (e.g. Biology, Medicine, Computer Science, Physics, Economics, Sociology, etc.) that can come from a variety of text sources (e.g. scholarly papers, surveys and technical reports, patents, tweets by scholars, blogs/tutorials, etc.)
-
-The goal of SciNLP is to promote scientific literature (not just news & wiki) as a serious domain of NLP. We would like the workshop to provide a forum for researchers in this field to discover new advances on scientific text understanding, get feedback on early work, and identify existing research gaps and collaboration opportunities.
-
-If you are unsure about whether your work is relevant to our workshop, please reach out to us at **scinlp@googlegroups.com**
+The Workshop on Natural Language Processing for Scientific Texts, [SciNLP 2021](https://scinlp.org/), will once again be hosted at [AKBC 2021](https://www.akbc.ws/2021/), as an on-line event. This year's SciNLP focus is on **Understanding Scientific Text**.
 
 <!--
 # Submission Guidelines
@@ -56,28 +30,13 @@ If you require accommodation in order to fully participate in the workshop, plea
 # Important Dates
 
 - ~~August 20, 2021~~ September 1st, 2021: Submission deadline
-- September 10, 2021: Notification of workshop paper acceptance
-- October 1, 2021: Deadline to upload accepted posters
+- September 10, 2021: Notification of workshop acceptance
+- October 1, 2021: Deadline to upload accepted posters and videos
 - October 8, 2021: Workshop
 
+# Registration
 
-# Contact
-
-Feel free to contact us at **scinlp@googlegroups.com** or on Twitter via **#SciNLP**!
-
-Join the **[mailing list](https://groups.google.com/forum/#!forum/scinlp-info)** to receive announcements.
-
-# Workshop Organizers
-
-* Arman Cohan [@armancohan](https://twitter.com/armancohan), Allen Institute for AI
-* [Pradeep Dasigi](https://pdasigi.github.io/), Allen Institute for AI
-* Tom Hope, Allen Institute for AI
-* Kyle Lo [@kylelostat](https://twitter.com/kylelostat), Allen Institute for AI
-* Sunil Mohan, Chan Zuckerberg Initiative
-* Alex Wade, Chan Zuckerberg Initiative
-* [Lucy Lu Wang](https://llwang.net/) [@lucyluwang](https://twitter.com/lucyluwang), Allen Institute for AI
-* Ivana Williams, Chan Zuckerberg Initiative
-* [Dongxu Zhang](https://sites.google.com/site/zhangdongxuu/home), University of Massachusetts, Amherst
+Registration for SciNLP will be through the [AKBC 2021](https://www.akbc.ws/2021/) conference.
 
 
 <!--
@@ -171,9 +130,9 @@ The collective knowledge of humankind is assembled in an academic literature com
 
 *Jevin D. West is an Associate Professor in the Information School at the University of Washington. He is the Director of the new Center for an Informed Public at UW aimed at resisting strategic misinformation, promoting an informed society and strengthening democratic discourse. He is also the co-founder of the DataLab at UW, a Data Science Fellow at the eScience Institute, and Affiliate Faculty for the Center for Statistics & Social Sciences. His research and teaching focus on the impact of technology on science and society, with a focus on slowing the spread of misinformation. He develops methods for mining the scientific literature to study the origins of disciplines, examine the social and economic biases that drive these disciplines, and measure the impact of the current publication system on the health of science. He is also the co-author of the new book, Calling Bullshit: The Art of Skepticism in a Data-Driven World, which helps non-experts question numbers, data, and statistics without an advanced degree in data science.*
 
-# Poster sessions
+# Accepted Abstracts
 
-All accepted abstracts & YouTube video presentations are listed below:
+Accepted abstracts will be presented at a **poster session** at the workshop on Gathertown. You can also watch the videos associated with them anytime. Listed below are the links to the abstracts and YouTube videos:
 
 | Title | Authors | Abstract | Video (YouTube Link) |
 | --- | --- | --- | ---  |
@@ -206,10 +165,43 @@ All accepted abstracts & YouTube video presentations are listed below:
 | Using Document Classification to Map ‘Disease Research State’ across Rare Diseases | Gully Burns, Michaela Torkar, Ana-Maria Istrate, Hana Zaydens, Lia Prins, Ellaine Chou, Donghui Li, Samantha Scovanner | [pdf](https://drive.google.com/file/d/1Wf-FAPB_mAcpPCv3nimR0cRmO3T4mJ_C/view?usp=sharing) | [vid](https://youtu.be/0wBY3018BqY) |
 | Assessing Readability of Scientific Texts for English as a Second Language Learners | Yo Ehara | [pdf](https://drive.google.com/file/d/1YOmW1WkZKv8COh1AcSffF9pDLDH3Py-L/view?usp=sharing) | [vid](https://youtu.be/Q1KuLlLGV4c) |
 
-# Registration
-Registration for SciNLP will be through the [AKBC 2021](https://www.akbc.ws/2021/) conference.
+# Contact
+
+Feel free to contact us at **scinlp@googlegroups.com** or on Twitter via **#SciNLP**!
+
+Join the **[mailing list](https://groups.google.com/forum/#!forum/scinlp-info)** to receive announcements.
+
+# Workshop Organizers
+
+* Arman Cohan [@armancohan](https://twitter.com/armancohan), Allen Institute for AI
+* [Pradeep Dasigi](https://pdasigi.github.io/), Allen Institute for AI
+* Tom Hope, Allen Institute for AI
+* Kyle Lo [@kylelostat](https://twitter.com/kylelostat), Allen Institute for AI
+* Sunil Mohan, Chan Zuckerberg Initiative
+* Alex Wade, Chan Zuckerberg Initiative
+* [Lucy Lu Wang](https://llwang.net/) [@lucyluwang](https://twitter.com/lucyluwang), Allen Institute for AI
+* Ivana Williams, Chan Zuckerberg Initiative
+* [Dongxu Zhang](https://sites.google.com/site/zhangdongxuu/home), University of Massachusetts, Amherst
 
 <!--
+# Topics of Interest
+
+The primary goal of this workshop is to bring together researchers from diverse fields who are interested in building computational systems that extract, represent the knowledge in scientific texts, and/or provide humans better access to such knowledge. 
+
+Accordingly, the focus of this year’s SciNLP will be **Understanding Scientific Text**, and we welcome discussions about research that falls under this focus area, including those describing work-in-progress. Examples of such research include, but are not limited to:
+
+- **Methods** in natural language processing for extracting and representing knowledge from scientific text (e.g. information extraction, entity normalization, discourse analysis, parsing, knowledge base construction, weak/distant supervision, crowdsourcing), especially in low resource scenarios that are common while processing scientific texts
+- **Applications** of these methods to improving scientific knowledge discovery and/or understanding (e.g. summarization, text generation, translation, question answering, automated literature review, search and recommender systems, techniques for data exploration and visualization),
+- **Fairness** (e.g. augmented or assistive paper reading, concept simplification, scientific education and literacy),
+- **Science of science** studies (in particular, studies that shed light on phenomena that can motivate future research in above-mentioned areas), and
+- **Datasets**, **Resources** (e.g. treebanks, knowledge bases), and **Tools** (e.g. software libraries, annotation interfaces) for conducting research in such areas, especially for supporting research in underserved areas (e.g. SciNLP on non-English papers).
+
+We welcome research relevant to processing text in any domain of science (e.g. Biology, Medicine, Computer Science, Physics, Economics, Sociology, etc.) that can come from a variety of text sources (e.g. scholarly papers, surveys and technical reports, patents, tweets by scholars, blogs/tutorials, etc.)
+
+The goal of SciNLP is to promote scientific literature (not just news & wiki) as a serious domain of NLP. We would like the workshop to provide a forum for researchers in this field to discover new advances on scientific text understanding, get feedback on early work, and identify existing research gaps and collaboration opportunities.
+
+If you are unsure about whether your work is relevant to our workshop, please reach out to us at **scinlp@googlegroups.com**
+
 There is a fee of $30 for students and $50 for non-students.  Registering gives you access to the full conference & workshops.  There is no special registration for workshop only.
 -->
 
