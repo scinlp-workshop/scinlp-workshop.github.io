@@ -94,7 +94,9 @@ Each invited talk is roughly 35 min (plus 5 min after for Q&A and buffer time fo
 
 ## Andrew Crouse
 
-TBA
+**What is another word for synonym? The value of NLP data and its challenges: a user’s perspective**
+
+*Dr. Crouse has been working on biomedical research for a decade and a half including industry, non-profit, and now academic research. His background is in molecular biology and genetics. Currently, as director of research for the Hugh Kaul Precision Medicine Institute at the University of Alabama at Birmingham, he has been assisting in the development of programs utilizing knowledge graphs of biomedical information to help find therapeutic options for patients with rare genetic disorders. They rely heavily on knowledge set developed through applying NLP on all of PubMed. Dr. Crouse will discuss the value and the challenges associated with using the NLP data.*
 
 ## [Marti Hearst](https://people.ischool.berkeley.edu/~hearst/)
 
